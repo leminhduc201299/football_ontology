@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.co-ode.org/ontologies/football/football.owl#"
+     xml:base="http://www.co-ode.org/ontologies/football/football.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:football="http://www.co-ode.org/ontologies/football/football.owl#">
+    <owl:Ontology rdf:about="http://www.co-ode.org/ontologies/football">
+        <owl:versionIRI rdf:resource="http://www.co-ode.org/ontologies/football/1.0.0"/>
+        <dc:description xml:lang="en">An ontology about football in the Premier League</dc:description>
+        <dc:title xml:lang="en">football</dc:title>
+        <terms:contributor>Le Minh Duc</terms:contributor>
+        <terms:license xml:lang="en">Created by Le Minh Duc (1.0)</terms:license>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">football</rdfs:label>
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.0</owl:versionInfo>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/license -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/provenance -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/provenance"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#altLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#altLabel"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#definition"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#prefLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#atStadium -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#atStadium">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#belongToCity -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#belongToCity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#containStadium"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#City"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#belongToCountry -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#belongToCountry">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#containCity"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#City"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#coachOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#coachOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#hasCoach"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Coach"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#containCity -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#containCity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Country"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#City"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#containStadium -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#containStadium">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#City"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasCoach -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#hasCoach">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Coach"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasGuestTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#hasGuestTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasHomeTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#hasHomeTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasNationality -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#hasNationality">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Person"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasStadium -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#hasStadium">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#stadiumOfTeam"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#matchOfLeague -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#matchOfLeague">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#League"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#playAtPosition -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#playAtPosition">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#positionOf"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#playAtTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#playAtTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.co-ode.org/ontologies/football#teamOf"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#positionOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#positionOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#stadiumOfTeam -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#stadiumOfTeam">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#teamOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/football#teamOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasAddress -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasAddress">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasBirthday -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasBirthday">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasBuiltYear -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasBuiltYear">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasCapacity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasCapacity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasCleanSheetMatch -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasCountSeason -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasCountSeason">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Coach"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasDateJoinClub -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasDateJoinClub">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Coach"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasFoulNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasFoulNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasGoal -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasGoal">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasGoalConceded -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasGoalConceded">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasHeight -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasHeight">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasLossMatchNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasLossMatchNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasMatchDay -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasMatchDay">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasMatchNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasMatchNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#City"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Position"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasPhone -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasPhone">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasPitchSize -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasPitchSize">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasRedCardNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasRedCardNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasScore -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasScore">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Match"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasWebsite -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasWebsite">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasWeight -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasWeight">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasWinMatchNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasWinMatchNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasYellowCardNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasYellowCardNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Area -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Area"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#City -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#City">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Area"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Coach -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Coach">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Country -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Country">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Area"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#League -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#League"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Match -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Match"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Person -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Person"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Player -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Player">
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Position -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Position"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Stadium -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Team -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Premier_League -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Premier_League">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#League"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#City"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Country"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#League"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Match"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Position"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
