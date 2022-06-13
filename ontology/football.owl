@@ -9,7 +9,8 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:terms="http://purl.org/dc/terms/"
-     xmlns:football="http://www.co-ode.org/ontologies/football/football.owl#">
+     xmlns:football="http://www.co-ode.org/ontologies/football/football.owl#"
+     xmlns:football1="http://www.co-ode.org/ontologies/football#">
     <owl:Ontology rdf:about="http://www.co-ode.org/ontologies/football">
         <owl:versionIRI rdf:resource="http://www.co-ode.org/ontologies/football/1.0.0"/>
         <dc:description xml:lang="en">An ontology about football in the Premier League</dc:description>
@@ -289,6 +290,33 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#hasAge -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasAge">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasAssist -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasAssist">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#hasBirthday -->
 
     <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasBirthday">
@@ -330,7 +358,14 @@
 
     <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
-        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
     </owl:DatatypeProperty>
     
@@ -403,6 +438,16 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#hasLeaguePosition -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasLeaguePosition">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#hasLossMatchNumber -->
 
     <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasLossMatchNumber">
@@ -417,6 +462,16 @@
             </owl:Class>
         </rdfs:domain>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#hasMarketValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasMarketValue">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
     </owl:DatatypeProperty>
     
 
@@ -458,6 +513,8 @@
                 <owl:unionOf rdf:parseType="Collection">
                     <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#City"/>
                     <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Country"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#League"/>
                     <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
                     <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Position"/>
                     <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
@@ -548,6 +605,23 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#hasWorth -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasWorth">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Coach"/>
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:domain>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#hasYellowCardNumber -->
 
     <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/football#hasYellowCardNumber">
@@ -575,6 +649,35 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#BigTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#BigTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasMarketValue"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300000000</xsd:minExclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+        <owl:disjointWith rdf:resource="http://www.co-ode.org/ontologies/football#SmallTeam"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#City -->
 
     <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#City">
@@ -599,15 +702,161 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#ExperiencedStarPlayer -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#ExperiencedStarPlayer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#StarPlayer"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasMatchNumber"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</xsd:minExclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#StarPlayer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#HighCapacityStadium -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#HighCapacityStadium">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCapacity"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25000</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#League -->
 
     <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#League"/>
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#LowCapacityStadium -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#LowCapacityStadium">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCapacity"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5000</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#Match -->
 
     <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Match"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#MidCapacityStadium -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#MidCapacityStadium">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCapacity"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5000</xsd:minInclusive>
+                                    </rdf:Description>
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25000</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Stadium"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#MidtableTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#MidtableTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasLeaguePosition"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</xsd:minExclusive>
+                                    </rdf:Description>
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:Class>
     
 
 
@@ -631,15 +880,532 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#ProspectPlayer -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#ProspectPlayer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasAge"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasMatchNumber"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasWorth"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40000000</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+        <owl:disjointWith rdf:resource="http://www.co-ode.org/ontologies/football#VeteranPlayer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#RegelationTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#RegelationTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasLeaguePosition"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</xsd:minExclusive>
+                                    </rdf:Description>
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#SmallTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#SmallTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasMarketValue"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300000000</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#Stadium -->
 
     <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#StarPlayer -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#StarPlayer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Class>
+                                        <owl:unionOf rdf:parseType="Collection">
+                                            <owl:Restriction>
+                                                <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasAssist"/>
+                                                <owl:someValuesFrom>
+                                                    <rdfs:Datatype>
+                                                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                        <owl:withRestrictions rdf:parseType="Collection">
+                                                            <rdf:Description>
+                                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</xsd:minExclusive>
+                                                            </rdf:Description>
+                                                        </owl:withRestrictions>
+                                                    </rdfs:Datatype>
+                                                </owl:someValuesFrom>
+                                            </owl:Restriction>
+                                            <owl:Restriction>
+                                                <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasGoal"/>
+                                                <owl:someValuesFrom>
+                                                    <rdfs:Datatype>
+                                                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                        <owl:withRestrictions rdf:parseType="Collection">
+                                                            <rdf:Description>
+                                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</xsd:minExclusive>
+                                                            </rdf:Description>
+                                                        </owl:withRestrictions>
+                                                    </rdfs:Datatype>
+                                                </owl:someValuesFrom>
+                                            </owl:Restriction>
+                                        </owl:unionOf>
+                                    </owl:Class>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Midfielder"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Defender"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Forward"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasGoal"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Goalkeeper"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasWorth"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10000000</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#SuperstarPlayer -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#SuperstarPlayer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#StarPlayer"/>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Class>
+                                        <owl:unionOf rdf:parseType="Collection">
+                                            <owl:Restriction>
+                                                <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasAssist"/>
+                                                <owl:someValuesFrom>
+                                                    <rdfs:Datatype>
+                                                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                        <owl:withRestrictions rdf:parseType="Collection">
+                                                            <rdf:Description>
+                                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</xsd:minExclusive>
+                                                            </rdf:Description>
+                                                        </owl:withRestrictions>
+                                                    </rdfs:Datatype>
+                                                </owl:someValuesFrom>
+                                            </owl:Restriction>
+                                            <owl:Restriction>
+                                                <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasGoal"/>
+                                                <owl:someValuesFrom>
+                                                    <rdfs:Datatype>
+                                                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                        <owl:withRestrictions rdf:parseType="Collection">
+                                                            <rdf:Description>
+                                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</xsd:minExclusive>
+                                                            </rdf:Description>
+                                                        </owl:withRestrictions>
+                                                    </rdfs:Datatype>
+                                                </owl:someValuesFrom>
+                                            </owl:Restriction>
+                                        </owl:unionOf>
+                                    </owl:Class>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Midfielder"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Defender"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Forward"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasGoal"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#playAtPosition"/>
+                                        <owl:someValuesFrom>
+                                            <owl:Class>
+                                                <owl:oneOf rdf:parseType="Collection">
+                                                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Goalkeeper"/>
+                                                </owl:oneOf>
+                                            </owl:Class>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasCleanSheetMatch"/>
+                                        <owl:someValuesFrom>
+                                            <rdfs:Datatype>
+                                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                                <owl:withRestrictions rdf:parseType="Collection">
+                                                    <rdf:Description>
+                                                        <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</xsd:minExclusive>
+                                                    </rdf:Description>
+                                                </owl:withRestrictions>
+                                            </rdfs:Datatype>
+                                        </owl:someValuesFrom>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:unionOf>
+                    </owl:Class>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasWorth"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50000000</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#StarPlayer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#SuperstarTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#SuperstarTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#teamOf"/>
+                        <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minQualifiedCardinality>
+                        <owl:onClass rdf:resource="http://www.co-ode.org/ontologies/football#SuperstarPlayer"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#Team -->
 
     <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#ToptableTeam -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#ToptableTeam">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasLeaguePosition"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Team"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#VeteranPlayer -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/football#VeteranPlayer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Player"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasAge"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://www.co-ode.org/ontologies/football#hasMatchNumber"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/football#Player"/>
+    </owl:Class>
     
 
 
@@ -654,10 +1420,56 @@
     
 
 
+    <!-- http://www.co-ode.org/ontologies/football#Defender -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Defender">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defender</football1:hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#England -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#England">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#Country"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">England</football1:hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Forward -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Forward">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Forward</football1:hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Goalkeeper -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Goalkeeper">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Goalkeeper</football1:hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/football#Midfielder -->
+
+    <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Midfielder">
+        <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#Position"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Midfielder</football1:hasName>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.co-ode.org/ontologies/football#Premier_League -->
 
     <owl:NamedIndividual rdf:about="http://www.co-ode.org/ontologies/football#Premier_League">
         <rdf:type rdf:resource="http://www.co-ode.org/ontologies/football#League"/>
+        <football1:hasName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Premier League</football1:hasName>
     </owl:NamedIndividual>
     
 
@@ -677,9 +1489,26 @@
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Country"/>
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#League"/>
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Match"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Person"/>
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Position"/>
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Stadium"/>
             <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#Team"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#HighCapacityStadium"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#LowCapacityStadium"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#MidCapacityStadium"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#MidtableTeam"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#RegelationTeam"/>
+            <rdf:Description rdf:about="http://www.co-ode.org/ontologies/football#ToptableTeam"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>

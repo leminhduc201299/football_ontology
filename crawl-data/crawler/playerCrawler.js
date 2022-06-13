@@ -24,6 +24,16 @@ const sleep = require('../../utils/sleep.js');
     const acceptCookieButton = await page.$('button.js-accept-all-close');
     await acceptCookieButton.click();
 
+    // Filter 2021-2022 season
+    await sleep(300);
+    const filterButton = await page.$('#mainContent > div.playerIndex > div.wrapper > div > section > div.dropDown.active > div.current');
+    await filterButton.click();
+    await sleep(300);
+    const filterItem = await page.$x('//*[@id="mainContent"]/div[2]/div[1]/div/section/div[1]/ul/li[2]');
+    await filterItem[0].click();
+    await page.waitForNavigation()
+    await sleep(500);
+
     await autoScroll(page);
 
     const playerLinks = await page.evaluate(() => {
@@ -43,6 +53,19 @@ const sleep = require('../../utils/sleep.js');
             width: 1200,
             height: 800
         });
+
+        // Đóng quảng cáo
+        await sleep(500);
+        const closeAd = await playerPage.$('#advertClose');
+        if (closeAd) {
+            try {
+                await closeAd.click();
+                await sleep(300);
+            }
+            catch {
+                
+            }
+        }
 
         // Tab overview
         const playerInfoOverview = await playerPage.evaluate(() => {
@@ -80,7 +103,20 @@ const sleep = require('../../utils/sleep.js');
             await statsButton[0].click();
             await playerPage.waitForNavigation()
         }
-        // // Tab stats
+
+        // Đóng quảng cáo
+        await sleep(500);
+        const closeAdStats = await playerPage.$('#advertClose');
+        if (closeAdStats) {
+            try {
+                await closeAdStats.click();
+                await sleep(300);
+            }
+            catch {
+                
+            }
+        }
+        // Tab stats
         const playerStats = await playerPage.evaluate(() => {
             let matchNumber = document.querySelector('div.topStatList div.topStat .statappearances')?.innerText;
             matchNumber = matchNumber ? parseInt(matchNumber.replace(/,/g, '')) : 0;
@@ -100,8 +136,53 @@ const sleep = require('../../utils/sleep.js');
             let foulNumber = document.querySelector('div.statsListBlock div.normalStat .statfouls')?.innerText;
             foulNumber = foulNumber ? parseInt(foulNumber.replace(/,/g, '')) : 0;
 
-            let goal = document.querySelector('div.topStatList div.topStat .statgoals')?.innerText;
-            goal = goal ? parseInt(goal.replace(/,/g, '')) : 0;
+            // goal, assist, clean sheet
+            let goal = 0, assist = 0, cleanSheetMatch = 0;
+            let position = document.querySelectorAll('section.playerIntro div.info')[1]?.innerText;
+
+            switch (position) {
+                case 'Forward':
+                    goal = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(2) > td')?.innerText;
+                    goal = goal ? parseInt(goal.replace(/,/g, '')) : 0;
+
+                    assist = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(3) > td')?.innerText;
+                    assist = assist ? parseInt(assist.replace(/,/g, '')) : 0;
+                    break;
+
+                case 'Midfielder':
+                    goal = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(2) > td')?.innerText;
+                    goal = goal ? parseInt(goal.replace(/,/g, '')) : 0;
+
+                    assist = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(3) > td')?.innerText;
+                    assist = assist ? parseInt(assist.replace(/,/g, '')) : 0;
+                    break;
+
+                case 'Defender':
+                    goal = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(2) > td')?.innerText;
+                    goal = goal ? parseInt(goal.replace(/,/g, '')) : 0;
+
+                    assist = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(3) > td')?.innerText;
+                    assist = assist ? parseInt(assist.replace(/,/g, '')) : 0;
+
+                    cleanSheetMatch = document.querySelector('section.sideWidget.playerSidebarTable > table > tbody > tr:nth-child(4) > td')?.innerText;
+                    cleanSheetMatch = cleanSheetMatch ? parseInt(cleanSheetMatch.replace(/,/g, '')) : 0;
+                    break;
+
+                case 'Goalkeeper':
+                    goal = document.querySelector('#mainContent > div.wrapper.hasFixedSidebar > nav > div > section:nth-child(2) > table > tbody > tr:nth-child(3) > td')?.innerText;
+                    goal = goal ? parseInt(goal.replace(/,/g, '')) : 0;
+
+                    assist = document.querySelector('#mainContent > div.wrapper.hasFixedSidebar > nav > div > section:nth-child(2) > table > tbody > tr:nth-child(4) > td')?.innerText;
+                    assist = assist ? parseInt(assist.replace(/,/g, '')) : 0;
+
+                    cleanSheetMatch = document.querySelector('#mainContent > div.wrapper.hasFixedSidebar > nav > div > section:nth-child(2) > table > tbody > tr:nth-child(2) > td')?.innerText;
+                    cleanSheetMatch = cleanSheetMatch ? parseInt(cleanSheetMatch.replace(/,/g, '')) : 0;
+                    break;
+
+                default:
+                    console.log('Khong tin thay position!');
+                    break;
+            }
 
             let playerStats = {
                 matchNumber,
@@ -110,7 +191,9 @@ const sleep = require('../../utils/sleep.js');
                 redCardNumber,
                 yellowCardNumber,
                 foulNumber,
-                goal
+                goal,
+                assist,
+                cleanSheetMatch
             }
 
             return playerStats;
@@ -121,15 +204,16 @@ const sleep = require('../../utils/sleep.js');
             ...playerStats
         }
         // console.log('playerInfo: ', playerInfo)
-        console.log('length: ', playerData.length)
+
         playerData.push(playerInfo);
-        
+        console.log(`playerInfo ${playerData.length}: `, playerInfo)
+
         await playerPage.close();
     }
 
     // Write to csv file
     const fields = ['name', 'birthday', 'height', 'weight', 'team', 'country', 'position', 'matchNumber', 'winMatchNumber', 'lossMatchNumber', 'redCardNumber',
-        'yellowCardNumber', 'foulNumber', 'goal'];
+        'yellowCardNumber', 'foulNumber', 'goal', 'assist', 'cleanSheetMatch'];
     const opts = { fields };
     try {
         const parser = new Parser(opts);
@@ -143,3 +227,4 @@ const sleep = require('../../utils/sleep.js');
 
     await browser.close();
 })();
+
