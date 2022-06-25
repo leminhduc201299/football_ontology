@@ -56,6 +56,8 @@ for index, row in dfTeam.iterrows():
     team.hasWinMatchNumber = [int(row['winMatchNumber'])]
     team.hasLossMatchNumber = [int(row['lossMatchNumber'])]
     team.hasGoal = [int(row['goal'])]
+    team.hasMarketValue = [int(row['marketValue'])]
+    team.hasLeaguePosition = [int(row['leaguePosition'])]
     team.hasGoalConceded = [int(row['goalConceded'])]
     team.hasCleanSheetMatch = [int(row['cleanSheetMatch'])]
 
@@ -96,6 +98,10 @@ for index, row in dfPlayer.iterrows():
     if type(row['birthday']) != float:
         tempBirthday = datetime.strptime(row['birthday'].split(' (')[0], "%d/%m/%Y").strftime('%Y-%m-%d')
         player.hasBirthday = [tempBirthday]
+        today = datetime.today()
+        born = datetime.strptime(tempBirthday, '%Y-%m-%d')
+        age = today.year - born.year - ((today.month, today.day) < (born.month, born.day))
+        player.hasAge = [age]
     if type(row['height']) != float:
         player.hasHeight = [int(row['height'])]
     if type(row['weight']) != float:
@@ -107,6 +113,9 @@ for index, row in dfPlayer.iterrows():
     player.hasYellowCardNumber = [int(row['yellowCardNumber'])]
     player.hasFoulNumber = [int(row['foulNumber'])]
     player.hasGoal = [int(row['goal'])]
+    player.hasWorth = [int(row['worth'])]
+    player.hasAssist = [int(row['assist'])]
+    player.hasCleanSheetMatch = [int(row['cleanSheetMatch'])]
     tempTeam = onto.Team(row['team'].split('(')[0].replace('&', 'and').replace('U21', '').strip().replace(" ", "_"))
     player.playAtTeam = [tempTeam]
     player.playAtPosition = [onto.Position(row['position'])]

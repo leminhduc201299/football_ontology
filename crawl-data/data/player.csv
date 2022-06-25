@@ -1,965 +1,965 @@
-"name","birthday","height","weight","team","country","position","matchNumber","winMatchNumber","lossMatchNumber","redCardNumber","yellowCardNumber","foulNumber","goal","assist","cleanSheetMatch"
-"Aaron Ramsey","21/01/2003",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Max Aarons","04/01/2000",178,0,"Norwich City","England","Defender",70,8,50,0,15,56,0,3,9
-"Tammy Abraham","02/10/1997",190,0,"Chelsea","England","Forward",89,36,33,0,2,56,26,5,0
-"Adam Armstrong","10/02/1997 (25)",172,69,"Southampton","England","Forward",38,5,24,0,2,20,2,3,0
-"Che Adams","13/07/1996 (25)",175,70,"Southampton","Scotland","Forward",96,31,43,0,1,76,20,10,0
-"Omotayo Adaramola","13/11/2003 (18)",0,0,"Crystal Palace U21","Ireland","Defender",0,0,0,0,0,0,0,0,0
-"Adrián","03/01/1987 (35)",190,80,"Liverpool","Spain","Goalkeeper",139,57,45,2,10,5,0,0,38
-"Sergio Agüero","02/06/1988",173,0,"Manchester City","Argentina","Forward",275,186,45,1,23,169,184,47,0
-"Derek Agyakwa","19/12/2001",0,0,"Watford","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Ahmed El Mohamady","09/09/1987",183,0,"Aston Villa","Egypt","Defender",197,51,96,1,14,158,6,13,31
-"Rayan Aït-Nouri","06/06/2001 (21)",179,70,"Wolverhampton Wanderers","France","Defender",44,12,21,0,5,29,2,3,8
-"Kristoffer Ajer","17/04/1998 (24)",196,84,"Brentford","Norway","Defender",24,9,11,0,5,12,1,3,5
-"Nathan Aké","18/02/1995 (27)",180,75,"Manchester City","Netherlands","Defender",170,68,71,1,19,114,15,6,38
-"Marc Albrighton","18/11/1989 (32)",175,74,"Leicester City","England","Midfielder",304,114,110,1,37,182,19,44,0
-"Toby Alderweireld","02/03/1989",186,0,"Tottenham Hotspur","Belgium","Defender",200,112,49,0,22,83,9,4,69
-"Ryan Alebiosu","17/12/2001",0,0,"Arsenal","England","Defender",0,0,0,0,0,0,0,0,0
-"Ajibola Alese","17/01/2001 (21)",0,0,"West Ham United","England","Defender",0,0,0,0,0,0,0,0,0
-"Alex Telles","15/12/1992 (29)",181,71,"Manchester United","Brazil","Defender",30,16,8,0,1,27,0,6,5
-"Trent Alexander-Arnold","07/10/1998 (23)",175,69,"Liverpool","England","Defender",161,114,19,0,15,82,10,45,57
-"Ezgjan Alioski","12/02/1992",173,0,"Leeds United","North Macedonia","Midfielder",36,18,13,0,7,39,2,3,0
-"Alisson","02/10/1992 (29)",191,91,"Liverpool","Brazil","Goalkeeper",136,98,13,1,2,2,1,2,64
-"Allan","08/01/1991 (31)",173,73,"Everton","Brazil","Midfielder",52,20,23,1,13,67,0,2,0
-"Dele Alli","11/04/1996 (26)",188,76,"Everton","England","Midfielder",192,103,51,0,28,209,51,34,0
-"Miguel Almirón","10/02/1994 (28)",174,70,"Newcastle United","Paraguay","Midfielder",110,36,45,0,10,71,9,3,0
-"Marcos Alonso","28/12/1990 (31)",188,84,"Chelsea","Spain","Defender",179,106,39,1,35,162,26,16,63
-"Jaime Alvarado","26/07/1999",179,0,"Watford","Colombia","Midfielder",0,0,0,0,0,0,0,0,0
-"Julián Álvarez","31/01/2000",173,0,"Manchester City","Argentina","Forward",0,0,0,0,0,0,0,0,0
-"Will Alves","04/02/2005 (17)",0,0,"Leicester City","England","Forward",0,0,0,0,0,0,0,0,0
-"Steven Alzate","08/09/1998 (23)",180,75,"Brighton and Hove Albion","Colombia","Midfielder",43,10,18,0,3,43,1,0,0
-"Daniel Amartey","21/12/1994 (27)",186,79,"Leicester City","Ghana","Defender",86,35,33,1,12,58,2,1,13
-"Ethan Ampadu","14/09/2000",183,0,"Chelsea","Wales","Defender",26,5,20,0,3,25,0,0,2
-"Joachim Andersen","31/05/1996 (26)",192,90,"Crystal Palace","Denmark","Defender",65,15,23,1,11,58,1,4,20
-"Joseph Anderson","06/02/2001",0,0,"Everton","England","Defender",0,0,0,0,0,0,0,0,0
-"Florin Andone","11/04/1993",180,0,"Brighton and Hove Albion","Romania","Forward",26,5,14,1,5,30,4,0,0
-"André Gomes","30/07/1993 (28)",188,84,"Everton","Portugal","Midfielder",88,34,36,0,19,146,1,4,0
-"Andreas Pereira","01/01/1996",178,0,"Manchester United","Brazil","Midfielder",45,21,13,0,10,42,2,4,0
-"Vincent Angelini","12/09/2003",186,0,"Watford","Scotland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Angeliño","04/01/1997",175,0,"Manchester City","Spain","Defender",6,4,2,0,1,2,0,0,0
-"Faustino Anjorin","23/11/2001",185,0,"Chelsea","England","Midfielder",1,1,0,0,0,0,0,0,0
-"Michail Antonio","28/03/1990 (32)",180,82,"West Ham United","Jamaica","Forward",195,76,72,2,23,229,56,27,0
-"Keenan Appiah-Forson","16/10/2001 (20)",0,0,"West Ham United","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Billy Arce","12/07/1998",178,0,"Brighton and Hove Albion","Ecuador","Midfielder",0,0,0,0,0,0,0,0,0
-"Cameron Archer","09/12/2001",0,0,"Aston Villa","England","Forward",3,1,2,0,0,3,0,0,0
-"Alphonse Areola","27/02/1993 (29)",195,94,"West Ham United (Loan)","France","Goalkeeper",37,5,19,0,2,0,0,0,9
-"Kepa Arrizabalaga","03/10/1994 (27)",189,84,"Chelsea","Spain","Goalkeeper",80,42,23,0,3,0,0,0,26
-"Harrison Ashby","14/11/2001 (20)",0,0,"West Ham United","Scotland","Defender",1,0,1,0,0,0,0,0,0
-"Yaser Asprilla","19/11/2003",185,0,"Watford","Colombia","Midfielder",0,0,0,0,0,0,0,0,0
-"Ryan Astley","04/10/2001 (20)",0,0,"Everton","Wales","Defender",0,0,0,0,0,0,0,0,0
-"Christian Atsu","10/01/1992",165,0,"Newcastle United","Ghana","Midfielder",80,25,32,0,5,34,3,6,0
-"Pierre-Emerick Aubameyang","18/06/1989",187,0,"Arsenal","Gabon","Forward",128,61,41,1,8,56,68,16,0
-"Serge Aurier","24/12/1992",176,0,"Tottenham Hotspur","Cote D’Ivoire","Defender",77,40,19,2,4,102,5,12,16
-"Brandon Austin","07/01/1999 (23)",188,82,"Tottenham Hotspur","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Zach Awe","09/01/2004 (18)",0,0,"Arsenal","England","Defender",0,0,0,0,0,0,0,0,0
-"Taiwo Awoniyi","12/08/1997",183,0,"Liverpool","Nigeria","Forward",0,0,0,0,0,0,0,0,0
-"Luke Ayling","25/08/1991 (30)",185,72,"Leeds United","England","Defender",64,23,29,1,11,51,2,2,13
-"Miguel Azeez","20/09/2002 (19)",0,0,"Arsenal","England","Midfielder",0,0,0,0,0,0,0,0,0
-"César Azpilicueta","28/08/1989 (32)",178,76,"Chelsea","Spain","Defender",324,184,65,2,31,297,10,35,112
-"Kwadwo Baah","27/01/2003",0,0,"Watford","Germany","Midfielder",0,0,0,0,0,0,0,0,0
-"Abdul Rahman Baba","02/07/1994",180,0,"Chelsea","Ghana","Defender",15,6,6,0,1,14,0,1,2
-"Daniel Bachmann","09/07/1994",191,0,"Watford","Austria","Goalkeeper",12,1,11,0,0,1,0,0,0
-"Leon Bailey","09/08/1997 (24)",178,77,"Aston Villa","Jamaica","Forward",18,5,12,0,3,12,1,2,0
-"Eric Bailly","12/04/1994 (28)",187,77,"Manchester United","Cote D’Ivoire","Defender",70,44,11,1,10,57,1,0,24
-"Tiemoué Bakayoko","17/08/1994",185,0,"Chelsea","France","Midfielder",29,18,6,1,3,50,2,2,0
-"Lewis Baker","25/04/1995",182,0,"Chelsea","England","Midfielder",0,0,0,0,0,0,0,0,0
-"James Balagizi","20/09/2003 (18)",0,0,"Liverpool","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Fabián Balbuena","23/08/1991",188,0,"West Ham United","Paraguay","Defender",54,22,23,1,5,37,3,0,12
-"Ellery Balcombe","15/10/1999",190,0,"Brentford","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Gareth Bale","16/07/1989",185,0,"Tottenham Hotspur (Loan)","Wales","Forward",166,71,50,1,16,95,53,22,0
-"Folarin Balogun","03/07/2001",178,0,"Arsenal","England","Forward",2,0,2,0,0,0,0,0,0
-"Tudor Baluta","27/03/1999 (23)",192,80,"Brighton and Hove Albion","Romania","Defender",0,0,0,0,0,0,0,0,0
-"Patrick Bamford","05/09/1993 (28)",185,71,"Leeds United","England","Forward",74,23,37,0,6,61,20,9,0
-"Beni Baningime","09/09/1998",178,0,"Everton","DR Congo","Midfielder",8,2,2,0,1,4,0,0,0
-"Scott Banks","26/09/2001 (20)",0,0,"Crystal Palace","Scotland","Forward",0,0,0,0,0,0,0,0,0
-"Shandon Baptiste","08/04/1998 (24)",175,71,"Brentford","Grenada","Midfielder",22,6,11,1,0,6,1,0,0
-"Daniel Barden","02/01/2001",195,0,"Norwich City","Wales","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Phil Bardsley","28/06/1985",180,0,"Burnley","Scotland","Defender",303,101,132,2,79,333,7,5,67
-"Ross Barkley","05/12/1993 (28)",189,76,"Chelsea","England","Midfielder",232,102,71,0,18,169,29,28,0
-"Ashley Barnes","30/10/1989",186,0,"Burnley","England","Forward",200,55,94,2,40,336,42,6,0
-"Mason Barrett","24/09/1999",0,0,"Watford","England","Defender",0,0,0,0,0,0,0,0,0
-"Louie Barry","21/06/2003",0,0,"Aston Villa","England","Forward",0,0,0,0,0,0,0,0,0
-"Lewis Bate","28/10/2002 (19)",0,0,"Leeds United","England","Midfielder",3,1,2,0,0,3,0,0,0
-"Michy Batshuayi","02/10/1993",184,0,"Crystal Palace (Loan)","Belgium","Forward",77,41,26,0,0,36,15,4,0
-"Nathan Baxter","08/11/1998",191,0,"Chelsea","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Mads Bech Sørensen","07/01/1999 (23)",189,92,"Brentford","Denmark","Defender",11,5,5,0,3,8,0,0,2
-"Owen Beck","09/08/2002 (19)",0,0,"Liverpool","Wales","Defender",0,0,0,0,0,0,0,0,0
-"Jan Bednarek","12/04/1996 (26)",189,77,"Lech Poznan","Poland","Defender",131,42,58,1,27,118,7,3,27
-"Asmir Begovic","20/06/1987 (34)",199,101,"Everton","Bosnia & Herzegovina","Goalkeeper",255,81,106,0,12,5,1,0,62
-"Héctor Bellerín","19/03/1995",178,0,"Arsenal","Spain","Defender",183,99,47,0,30,143,8,20,59
-"Filip Benkovic","13/07/1997",194,0,"Leicester City","Croatia","Defender",0,0,0,0,0,0,0,0,0
-"J'Neil Bennett","07/12/2001 (20)",0,0,"Tottenham Hotspur","England","Forward",0,0,0,0,0,0,0,0,0
-"Saïd Benrahma","10/08/1995 (26)",172,67,"West Ham United","Algeria","Forward",62,30,20,0,0,23,9,12,0
-"Josh Benson","05/12/1999",175,0,"Burnley","England","Midfielder",6,2,3,0,0,4,0,0,0
-"Rodrigo Bentancur","25/06/1997 (24)",187,72,"Tottenham Hotspur","Uruguay","Midfielder",17,10,5,0,5,22,0,4,0
-"Christian Benteke","03/12/1990 (31)",190,83,"Crystal Palace","Belgium","Forward",280,87,129,4,39,408,86,22,0
-"Gaetano Berardi","21/08/1988",179,0,"Leeds United","Switzerland","Defender",2,2,0,0,0,1,0,0,0
-"Lucas Bergström","05/09/2002 (19)",0,0,"Chelsea","Finland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Steven Bergwijn","08/10/1997 (24)",178,78,"Tottenham Hotspur","Netherlands","Forward",60,33,17,0,6,36,7,5,0
-"Adrián Bernabé","26/05/2001",170,0,"Manchester City","Spain","Midfielder",0,0,0,0,0,0,0,0,0
-"Bernard","08/09/1992",164,0,"Everton","Brazil","Forward",73,25,33,0,9,42,5,5,0
-"Bernardo","14/05/1995",186,0,"Brighton and Hove Albion","Brazil","Defender",39,9,19,0,5,21,0,1,2
-"Bernardo Silva","10/08/1994 (27)",173,64,"Manchester City","Portugal","Midfielder",166,128,20,0,19,110,29,28,0
-"Ryan Bertrand","05/08/1989 (32)",179,85,"Leicester City","England","Defender",262,92,109,2,36,241,7,16,67
-"Muhamed Besic","10/09/1992",180,0,"Everton","Bosnia & Herzegovina","Midfielder",46,14,17,0,11,42,0,0,0
-"Marcus Bettinelli","24/05/1992 (30)",194,82,"Chelsea","England","Goalkeeper",7,1,4,0,1,0,0,0,0
-"Mads Bidstrup","25/02/2001",175,0,"Brentford","Denmark","Midfielder",4,2,1,0,0,1,0,0,0
-"Mika Biereth","08/02/2003 (19)",0,0,"Arsenal","England","Forward",0,0,0,0,0,0,0,0,0
-"Nathan Bishop","15/10/1999",185,0,"Manchester United","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Yves Bissouma","30/08/1996 (25)",182,80,"Brighton and Hove Albion","Mali","Midfielder",112,32,46,1,27,156,3,2,0
-"Harvey Blair","14/09/2003 (18)",0,0,"Liverpool","England","Forward",0,0,0,0,0,0,0,0,0
-"Adrian Blake","15/07/2005",0,0,"Watford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Oscar Bobb","12/07/2003 (18)",0,0,"Manchester City","Norway","Midfielder",0,0,0,0,0,0,0,0,0
-"Lamare Bogarde","05/01/2004 (18)",0,0,"Aston Villa","Netherlands","Midfielder",0,0,0,0,0,0,0,0,0
-"Mateusz Bogusz","22/08/2001",175,0,"Leeds United","Poland","Midfielder",0,0,0,0,0,0,0,0,0
-"Bendeguz Bolla","22/11/1999",0,0,"Wolverhampton Wanderers","Hungary","Defender",0,0,0,0,0,0,0,0,0
-"Luke Bolton","07/10/1999",174,0,"Manchester City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Willy Boly","03/02/1991 (31)",195,92,"Wolverhampton Wanderers","Cote D’Ivoire","Defender",89,33,33,2,6,75,5,2,26
-"Jamie Bowden","09/07/2001 (20)",0,0,"Tottenham Hotspur","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Jarrod Bowen","20/12/1996 (25)",175,70,"West Ham United","England","Forward",94,38,37,0,6,47,21,19,0
-"Conor Bradley","09/07/2003 (18)",0,0,"Liverpool","Northern Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Robbie Brady","14/01/1992",176,0,"Burnley","Ireland","Midfielder",160,45,81,1,18,136,10,13,0
-"Jarrad Branthwaite","27/06/2002 (19)",195,82,"Everton","England","Defender",10,1,7,1,0,7,1,0,1
-"Sammy Braybrooke","12/03/2004 (18)",0,0,"Leicester City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Mungo Bridge","12/09/2000",0,0,"Aston Villa","England","Forward",0,0,0,0,0,0,0,0,0
-"Nathan Broadhead","05/04/1998",178,0,"Everton","Wales","Forward",1,0,0,0,0,0,0,0,0
-"Armando Broja","10/09/2001 (20)",191,0,"Southampton (Loan)","Albania","Forward",33,9,12,0,2,29,6,0,0
-"Josh Brownhill","19/12/1995",180,0,"Burnley","England","Midfielder",78,21,33,0,14,81,2,4,0
-"Bruno Fernandes","08/09/1994 (27)",179,69,"Manchester United","Portugal","Midfielder",87,43,18,0,18,85,36,25,0
-"Bruno Guimarães","16/11/1997 (24)",182,74,"Newcastle United","Brazil","Midfielder",17,11,5,0,4,13,5,1,0
-"Bruno Jordão","12/10/1998",180,0,"Wolverhampton Wanderers","Portugal","Midfielder",1,0,1,0,0,0,0,0,0
-"Lewis Brunt","06/11/2000 (21)",0,0,"Leicester City","England","Midfielder",1,0,1,0,0,0,0,0,0
-"Emiliano Buendía","25/12/1996 (25)",172,72,"Aston Villa","Argentina","Midfielder",71,16,43,1,7,53,5,13,0
-"Hugo Bueno","18/09/2002 (19)",180,73,"Wolverhampton Wanderers","Spain","Defender",0,0,0,0,0,0,0,0,0
-"Dan Burn","09/05/1992 (30)",198,87,"Newcastle United","England","Defender",99,31,35,0,18,99,2,1,24
-"Finley Burns","17/06/2003",0,0,"Manchester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Jack Butland","10/03/1993 (29)",196,95,"Crystal Palace","England","Goalkeeper",87,25,36,0,0,1,0,0,21
-"Sam Byram","16/09/1993",180,0,"Norwich City","England","Defender",59,15,32,1,16,60,0,1,9
-"Willy Caballero","28/09/1981 (40)",186,81,"Southampton","Argentina","Goalkeeper",36,19,6,0,1,0,0,0,11
-"Gary Cahill","19/12/1985",193,0,"Crystal Palace","England","Defender",394,172,135,3,41,278,28,11,103
-"Moisés Caicedo","02/11/2001 (20)",178,73,"Brighton and Hove Albion","Ecuador","Midfielder",8,5,1,0,2,7,1,1,0
-"Jake Cain","02/09/2001",0,0,"Liverpool","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Caleb Chukwuemeka","25/01/2002",0,0,"Aston Villa","England","Forward",0,0,0,0,0,0,0,0,0
-"Callum Rowe","02/09/1999",0,0,"Aston Villa","England","Defender",0,0,0,0,0,0,0,0,0
-"Dominic Calvert-Lewin","16/03/1997 (25)",187,71,"Everton","England","Forward",164,63,66,0,22,192,45,11,0
-"Leonardo Campana","24/07/2000",187,0,"Wolverhampton Wanderers","Ecuador","Forward",0,0,0,0,0,0,0,0,0
-"Chem Campbell","30/12/2002 (19)",0,0,"Wolverhampton Wanderers","Wales","Forward",1,0,1,0,0,0,0,0,0
-"Sergi Canós","02/02/1997 (25)",177,75,"Brentford","Spain","Forward",32,9,16,1,6,29,3,2,0
-"Todd Cantwell","27/02/1998",177,0,"Norwich City","England","Midfielder",45,6,33,0,8,37,6,2,0
-"Elia Caprile","25/08/2001",0,0,"Leeds United","Italy","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Carlos Vinícius","25/03/1995",190,0,"Tottenham Hotspur (Loan)","Brazil","Forward",9,5,2,0,2,11,1,0,0
-"Andy Carroll","06/01/1989",193,0,"Newcastle United","England","Forward",248,84,101,2,34,329,54,22,0
-"Scott Carson","03/09/1985 (36)",190,76,"Manchester City","England","Goalkeeper",146,45,66,1,6,4,0,2,30
-"Cameron Carter-Vickers","31/12/1997",183,0,"Tottenham Hotspur","United States","Defender",0,0,0,0,0,0,0,0,0
-"Oliver Casey","14/10/2000",188,0,"Leeds United","England","Defender",0,0,0,0,0,0,0,0,0
-"Matthew Cash","07/08/1997 (24)",185,0,"Aston Villa","Poland","Defender",66,26,31,1,14,73,4,5,20
-"Timothy Castagne","05/12/1995 (26)",185,80,"Leicester City","Belgium","Defender",54,25,17,0,2,35,3,3,10
-"Craig Cathcart","06/02/1989",188,0,"Watford","Northern Ireland","Defender",183,53,88,0,20,76,5,2,33
-"Edinson Cavani","14/02/1987 (35)",184,71,"Manchester United","Uruguay","Forward",41,19,9,0,4,28,12,4,0
-"Dani Ceballos","07/08/1996",179,0,"Arsenal (Loan)","Spain","Midfielder",49,21,17,0,5,42,0,5,0
-"Cédric Soares","31/08/1991 (30)",172,67,"Arsenal","Portugal","Defender",156,58,60,0,22,102,3,13,33
-"Kallum Cesay","04/09/2002 (19)",0,0,"Tottenham Hotspur","Sierra Leone","Defender",0,0,0,0,0,0,0,0,0
-"Trevoh Chalobah","05/07/1999 (22)",190,75,"Chelsea","England","Defender",20,13,0,0,2,19,3,1,9
-"Calum Chambers","20/01/1995 (27)",182,66,"Aston Villa","England","Defender",162,57,65,1,29,158,7,5,33
-"Shea Charles","05/11/2003",0,0,"Manchester City","Northern Ireland","Defender",0,0,0,0,0,0,0,0,0
-"Kgaogelo Chauke","08/01/2003 (19)",0,0,"Southampton","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Daniel Chesters","04/04/2002 (20)",0,0,"West Ham United","England","Midfielder",1,0,1,0,0,0,0,0,0
-"Ben Chilwell","21/12/1996 (25)",178,77,"Chelsea","England","Defender",133,59,43,1,13,114,10,15,37
-"Chiquinho","05/02/2000 (22)",179,73,"Wolverhampton Wanderers","Portugal","Forward",8,2,4,0,0,9,0,3,0
-"Hamza Choudhury","01/10/1997 (24)",178,64,"Leicester City","England","Midfielder",53,23,17,1,5,34,1,2,0
-"Benjamin Chrisene","12/01/2004 (18)",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Andreas Christensen","10/04/1996 (26)",187,82,"Chelsea","Denmark","Defender",93,50,22,1,10,54,0,0,29
-"Christian Marques","15/01/2003",187,0,"Wolverhampton Wanderers","Portugal","Defender",0,0,0,0,0,0,0,0,0
-"Carney Chukwuemeka","20/10/2003 (18)",0,0,"Aston Villa","England","Midfielder",14,6,4,0,0,5,0,1,0
-"Dennis Cirkin","06/04/2002",181,0,"Tottenham Hotspur","England","Defender",0,0,0,0,0,0,0,0,0
-"CJ Egan-Riley","02/01/2003 (19)",0,0,"Manchester City","England","Defender",1,1,0,0,0,0,0,0,0
-"Ciaran Clark","26/09/1989 (32)",185,88,"Newcastle United","Ireland","Defender",214,51,102,3,52,193,15,6,32
-"Harry Clarke","02/03/2001",0,0,"Arsenal","England","Defender",0,0,0,0,0,0,0,0,0
-"Jake Clarke-Salter","22/09/1997",188,0,"Chelsea","England","Defender",1,1,0,0,0,0,0,0,0
-"Leighton Clarkson","19/10/2001",175,0,"Liverpool","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Tom Cleverley","12/08/1989",175,0,"Watford","England","Midfielder",242,84,99,1,24,196,14,15,0
-"Nathaniel Clyne","05/04/1991 (31)",175,67,"Crystal Palace","England","Defender",214,91,71,0,21,108,4,12,61
-"Conor Coady","25/02/1993 (29)",185,73,"Wolverhampton Wanderers","England","Defender",152,59,56,0,20,69,5,0,43
-"Alex Cochrane","21/04/2000",0,0,"Brighton and Hove Albion","England","Defender",0,0,0,0,0,0,0,0,0
-"Séamus Coleman","11/10/1988 (33)",177,67,"Everton","Ireland","Defender",329,133,103,2,33,219,21,24,89
-"Nathan Collins","30/04/2001",193,0,"Burnley","Ireland","Defender",19,5,9,1,2,20,2,0,5
-"Aaron Connolly","28/01/2000",0,0,"Brighton and Hove Albion","Ireland","Forward",45,11,20,0,0,22,5,2,0
-"Kamil Conteh","26/12/2002",177,0,"Watford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Liam Cooper","30/08/1991 (30)",180,73,"Leeds United","Scotland","Defender",48,17,19,1,9,42,1,1,11
-"Theo Corbeanu","17/05/2002",190,0,"Wolverhampton Wanderers U21","Canada","Forward",1,0,1,0,0,0,0,0,0
-"Jack Cork","25/06/1989",183,0,"Burnley","England","Midfielder",300,105,122,0,38,263,9,9,0
-"Maxwel Cornet","27/09/1996",179,0,"Burnley","Cote D’Ivoire","Midfielder",26,4,13,0,2,20,9,1,0
-"Dara Costelloe","11/12/2002",0,0,"Burnley","Ireland","Forward",0,0,0,0,0,0,0,0,0
-"Ben Cottrell","31/10/2001",0,0,"Arsenal","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Vladimir Coufal","22/08/1992 (29)",179,76,"West Ham United","Czech Republic","Defender",62,29,20,1,6,58,0,11,14
-"Conor Coventry","25/03/2000",177,0,"West Ham United","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Matthew Cox","02/05/2003 (19)",0,0,"Brentford","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Charlie Cresswell","17/08/2002 (19)",0,0,"Leeds United","England","Defender",5,2,2,0,1,3,0,0,0
-"Kane Crichlow","21/08/2000",0,0,"Watford","Bermuda","Midfielder",0,0,0,0,0,0,0,0,0
-"Cristiano Ronaldo","05/02/1985 (37)",187,83,"Manchester United","Portugal","Forward",226,146,37,4,35,71,102,37,0
-"Cucho Hernández","20/04/1999",176,0,"Watford","Colombia","Forward",25,5,18,0,3,13,5,2,0
-"Marc Cucurella","22/07/1998 (23)",172,66,"Brighton and Hove Albion","Spain","Defender",35,10,10,0,6,28,1,1,8
-"Tiago Çukur","30/11/2002",196,0,"Watford","Turkey","Forward",0,0,0,0,0,0,0,0,0
-"Jamie Cumming","04/09/1999",186,0,"Chelsea","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Luke Cundle","26/04/2002 (20)",0,0,"Wolverhampton Wanderers","England","Midfielder",4,2,2,0,0,3,0,0,0
-"Patrick Cutrone","03/01/1998",183,0,"Wolverhampton Wanderers","Italy","Forward",14,5,4,0,0,5,2,0,0
-"Pontus Dahlberg","21/01/1999",194,0,"Watford","Sweden","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Patson Daka","09/10/1998 (23)",183,71,"Leicester City","Zambia","Forward",23,7,10,0,2,17,5,3,0
-"Sam Dalby","07/12/1999",0,0,"Watford","England","Forward",0,0,0,0,0,0,0,0,0
-"Vontae Daley-Campbell","02/04/2001",0,0,"Leicester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Stuart Dallas","19/04/1991 (31)",183,81,"Leeds United","Northern Ireland","Midfielder",72,26,31,0,12,73,9,3,0
-"Henrik Dalsgaard","27/07/1989",192,0,"Brentford","Denmark","Defender",0,0,0,0,0,0,0,0,0
-"Daniel Podence","21/10/1995 (26)",165,58,"Wolverhampton Wanderers","Portugal","Midfielder",59,28,19,0,5,27,6,5,0
-"Luke Daniels","05/01/1988",185,0,"Brentford","England","Goalkeeper",1,0,0,0,0,0,0,0,0
-"Scott Dann","14/02/1987",188,0,"Crystal Palace","England","Defender",241,78,104,0,35,151,16,11,49
-"Karl Darlow","08/10/1990 (31)",190,88,"Newcastle United","England","Goalkeeper",52,11,24,0,4,1,0,0,9
-"Josh Dasilva","23/10/1998 (23)",184,75,"Brentford","England","Midfielder",9,2,5,1,0,4,0,0,0
-"David Luiz","22/04/1987",189,0,"Arsenal","Brazil","Defender",213,120,45,4,41,227,14,7,67
-"Tom Davies","30/06/1998 (23)",180,70,"Everton","England","Midfielder",136,59,44,0,26,146,6,5,0
-"Keinan Davis","13/02/1998",191,0,"Aston Villa","England","Forward",34,6,17,0,0,16,1,1,0
-"Craig Dawson","06/05/1990 (32)",188,82,"West Ham United","England","Defender",238,75,100,2,39,237,19,4,52
-"Laurens De Bock","07/11/1992",179,0,"Leeds United","Belgium","Defender",0,0,0,0,0,0,0,0,0
-"Lucas De Bolle","22/10/2002 (19)",0,0,"Newcastle United","Scotland","Midfielder",0,0,0,0,0,0,0,0,0
-"Kevin De Bruyne","28/06/1991 (30)",181,68,"Manchester City","Belgium","Midfielder",210,146,28,0,17,168,57,86,0
-"David de Gea","07/11/1990 (31)",192,76,"Manchester United","Spain","Goalkeeper",377,202,82,0,6,1,0,0,130
-"Troy Deeney","29/06/1988",183,0,"Watford","England","Forward",165,48,82,2,21,196,47,20,0
-"Liam Delap","08/02/2003 (19)",0,0,"Manchester City U21","England","Forward",2,1,1,0,0,2,0,0,0
-"Fabian Delph","21/11/1989 (32)",174,60,"Everton","England","Midfielder",204,82,81,3,32,151,7,8,0
-"Lars Dendoncker","03/04/2001 (21)",0,0,"Brighton and Hove Albion","Belgium","Defender",0,0,0,0,0,0,0,0,0
-"Emmanuel Dennis","15/11/1997",175,0,"Watford","Nigeria","Forward",33,6,24,1,7,59,10,6,0
-"Halil Dervisoglu","08/12/1999",183,0,"Brentford","Turkey","Forward",0,0,0,0,0,0,0,0,0
-"Alfie Devine","01/08/2004 (17)",179,75,"Tottenham Hotspur","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Kiernan Dewsbury-Hall","06/09/1998 (23)",0,0,"Leicester City","England","Midfielder",28,11,9,0,4,20,1,2,0
-"Amad Diallo","11/07/2002",173,0,"Manchester United","Cote D’Ivoire","Forward",3,1,1,0,0,2,0,1,0
-"Luis Díaz","13/01/1997 (25)",178,65,"Liverpool","Colombia","Forward",13,11,0,0,0,14,4,3,0
-"Tyler Dibling",,0,0,"Southampton","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Thomas Dickson-Peters","16/09/2002",0,0,"Norwich City","Scotland","Forward",0,0,0,0,0,0,0,0,0
-"Eric Dier","15/01/1994 (28)",188,88,"Tottenham Hotspur","England","Defender",237,134,54,0,37,191,10,8,77
-"Lucas Digne","20/07/1993 (28)",178,74,"Aston Villa","France","Defender",129,48,50,2,19,148,4,22,35
-"Diogo Dalot","18/03/1999 (23)",183,76,"Manchester United","Portugal","Defender",44,20,14,0,7,31,0,2,6
-"Diogo Jota","04/12/1996 (25)",178,68,"Liverpool","Portugal","Forward",121,63,24,0,20,150,40,10,0
-"Issa Diop","09/01/1997 (25)",194,92,"West Ham United","France","Defender",96,38,38,0,15,62,6,2,15
-"Elijah Dixon-Bonner","01/01/2001 (21)",0,0,"Liverpool","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Moussa Djenepo","15/06/1998 (23)",177,65,"Southampton","Mali","Midfielder",57,17,29,1,12,61,3,2,0
-"Lewis Dobbin","03/01/2003 (19)",0,0,"Everton","England","Forward",3,1,0,0,1,1,0,0,0
-"Owen Dodgson","19/03/2003",0,0,"Burnley","England","Defender",0,0,0,0,0,0,0,0,0
-"Matt Doherty","16/01/1992 (30)",182,80,"Tottenham Hotspur","Ireland","Defender",107,51,29,1,8,89,10,14,24
-"Domingos Quina","18/11/1999",179,0,"Watford","Portugal","Midfielder",12,4,5,0,0,8,1,0,0
-"Abdoulaye Doucouré","01/01/1993 (29)",184,75,"Everton","Mali","Midfielder",188,63,91,0,42,205,21,18,0
-"Douglas Luiz","09/05/1998 (24)",175,66,"Aston Villa","Brazil","Midfielder",103,34,50,1,23,147,5,7,0
-"Kieran Dowell","10/10/1997",175,0,"Norwich City","England","Midfielder",21,4,14,0,0,20,1,1,0
-"Tommy Doyle","17/10/2001",0,0,"Manchester City","England","Midfielder",1,1,0,0,0,0,0,0,0
-"Cody Drameh","08/12/2001",0,0,"Leeds United","England","Defender",3,1,2,0,1,2,0,0,0
-"Danny Drinkwater","05/03/1990",178,0,"Chelsea","England","Midfielder",104,48,32,1,11,150,4,8,0
-"Anthony Driscoll-Glennon","26/11/1999",181,0,"Burnley","England","Defender",0,0,0,0,0,0,0,0,0
-"Martin Dúbravka","15/01/1989 (33)",190,83,"Newcastle United","Slovakia","Goalkeeper",127,47,50,0,2,0,0,0,37
-"Shane Duffy","01/01/1992 (30)",193,76,"Brighton and Hove Albion","Ireland","Defender",114,30,46,1,21,84,7,2,22
-"Paul Dummett","26/09/1991 (30)",183,82,"Newcastle United","Wales","Defender",146,50,60,1,16,70,3,0,30
-"Lewis Dunk","21/11/1991 (30)",192,88,"Brighton and Hove Albion","England","Defender",172,45,71,4,28,108,12,5,47
-"Jimmy Dunne","19/10/1997",183,0,"Burnley","Ireland","Defender",3,0,3,0,1,2,1,0,0
-"Frankie Ealing","14/07/2004",0,0,"Aston Villa","England","Defender",0,0,0,0,0,0,0,0,0
-"Ederson","17/08/1993 (28)",188,86,"Manchester City","Brazil","Goalkeeper",182,139,23,1,12,6,0,2,91
-"Odsonne Édouard","16/01/1998 (24)",187,83,"Crystal Palace","France","Forward",28,9,8,0,4,25,6,3,0
-"Samuel Edozie","28/01/2003 (19)",0,0,"Manchester City","England","Forward",0,0,0,0,0,0,0,0,0
-"Edward Rowe","17/10/2003",0,0,"Aston Villa U21","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Pierre Ekwah","15/01/2002 (20)",0,0,"West Ham United","France","Defender",0,0,0,0,0,0,0,0,0
-"Anwar El Ghazi","03/05/1995 (27)",188,90,"Everton (Loan)","Netherlands","Midfielder",73,21,38,0,7,46,15,5,0
-"Anthony Elanga","27/04/2002 (20)",178,0,"Manchester United U21","Sweden","Forward",23,9,8,0,0,10,3,2,0
-"Robert Elliot","30/04/1986",190,0,"Watford","Ireland","Goalkeeper",52,15,28,1,1,1,0,1,8
-"Harvey Elliott","04/04/2003 (19)",170,0,"Liverpool","England","Midfielder",10,7,2,0,0,2,0,0,0
-"Mohamed Elyounoussi","04/08/1994 (27)",178,70,"Southampton","Norway","Midfielder",46,9,23,0,4,38,4,2,0
-"Emerson","03/08/1994",176,0,"Chelsea","Italy","Defender",33,14,14,0,3,18,0,1,4
-"Emerson Royal","14/01/1999 (23)",181,79,"Tottenham Hotspur","Brazil","Defender",31,17,9,0,5,28,1,1,5
-"Emiliano Marcondes","09/03/1995",182,0,"Brentford","Denmark","Midfielder",0,0,0,0,0,0,0,0,0
-"Emiliano Martínez","02/09/1992 (29)",195,88,"Aston Villa","Argentina","Goalkeeper",89,37,38,0,7,2,0,0,32
-"Björn Engels","15/09/1994",193,0,"Aston Villa","Belgium","Defender",17,3,12,0,1,5,1,0,2
-"Christian Eriksen","14/02/1992 (30)",182,76,"Brentford","Denmark","Midfielder",237,132,59,0,18,104,52,66,0
-"Peter Etebo","09/11/1995",172,0,"Watford (Loan)","Nigeria","Midfielder",9,2,5,0,3,8,0,0,0
-"Jonny Evans","03/01/1988 (34)",188,77,"Leicester City","Northern Ireland","Defender",343,168,99,3,54,272,14,12,93
-"Oliver Ewing","03/01/2003 (19)",0,0,"Leicester City","Wales","Midfielder",0,0,0,0,0,0,0,0,0
-"Timothy Eyoma","29/01/2000",183,0,"Tottenham Hotspur","England","Defender",0,0,0,0,0,0,0,0,0
-"Eberechi Eze","29/06/1998 (23)",0,0,"Crystal Palace","England","Midfielder",47,15,22,0,4,23,5,7,0
-"Lukasz Fabianski","18/04/1985 (37)",190,83,"West Ham United","Poland","Goalkeeper",316,124,125,1,8,8,0,2,81
-"Fabinho","23/10/1993 (28)",188,78,"Liverpool","Brazil","Midfielder",115,81,12,0,25,130,8,6,0
-"Fábio Silva","19/07/2002 (19)",185,75,"Wolverhampton Wanderers","Portugal","Forward",54,19,28,0,2,33,4,3,0
-"Malachi Fagan-Walcott","11/03/2002 (20)",0,0,"Tottenham Hotspur","England","Defender",0,0,0,0,0,0,0,0,0
-"Akin Famewo","09/11/1998",187,0,"Norwich City","England","Defender",1,0,1,0,0,0,0,0,0
-"Juan Familia-Castillo","13/01/2000",0,0,"Chelsea","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Josh Feeney","06/05/2005 (17)",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Felipe Anderson","15/04/1993",175,0,"West Ham United","Brazil","Midfielder",63,20,32,0,4,44,10,8,0
-"Felix Nmecha","10/10/2000",188,0,"Manchester City","Germany","Midfielder",0,0,0,0,0,0,0,0,0
-"Kiko Femenía","02/02/1991",176,0,"Watford","Spain","Defender",107,26,60,0,10,57,2,7,12
-"Evan Ferguson","19/10/2004 (17)",0,0,"Brighton & Hove Albion","Ireland","Forward",1,0,1,0,0,0,0,0,0
-"Álvaro Fernández","13/04/1998 (24)",185,75,"Brentford","Spain","Goalkeeper",12,3,7,0,0,0,0,0,1
-"Fernandinho","04/05/1985 (37)",179,67,"Manchester City","Brazil","Midfielder",264,187,40,4,53,359,20,19,0
-"Will Ferry","07/12/2000",176,0,"Southampton","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Ryan Finnigan","23/09/2003",0,0,"Southampton","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Junior Firpo","22/08/1996 (25)",184,78,"Leeds United","Spain","Defender",24,5,14,0,11,39,0,2,1
-"William Fish","17/02/2003",185,0,"Manchester United","England","Defender",1,1,0,0,0,0,0,0,0
-"Ethan Fitzhugh","27/11/2002",0,0,"Leicester City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Ashley Fletcher","02/10/1995",185,0,"Watford","England","Forward",19,7,10,0,2,10,0,0,0
-"Marcelo Flores","01/10/2003 (18)",0,0,"Arsenal","Mexico","Midfielder",0,0,0,0,0,0,0,0,0
-"Shane Flynn","14/10/2001",0,0,"Leicester City","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Phil Foden","28/05/2000 (22)",171,70,"Manchester City","England","Midfielder",97,77,11,0,1,44,24,13,0
-"Wesley Fofana","17/12/2000 (21)",190,0,"Leicester City","France","Defender",35,16,11,0,9,44,0,0,7
-"Shaqai Forde","05/05/2004",0,0,"Watford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Pablo Fornals","22/02/1996 (26)",178,67,"West Ham United","Spain","Midfielder",105,42,41,0,10,68,13,12,0
-"Adam Forshaw","08/10/1991 (30)",174,71,"Leeds United","England","Midfielder",57,12,27,0,9,59,0,2,0
-"Marcus Forss","18/06/1999",182,0,"Brentford","Finland","Forward",7,2,5,0,0,3,0,1,0
-"Fraser Forster","17/03/1988 (34)",201,93,"Southampton","England","Goalkeeper",134,54,50,0,5,1,0,0,42
-"Ben Foster","03/04/1983",193,0,"Watford","England","Goalkeeper",390,106,176,0,13,15,0,1,92
-"Tariqe Fosu-Henry","05/11/1995 (26)",180,75,"Brentford","Ghana","Midfielder",1,0,1,0,0,0,0,0,0
-"Ryan Fraser","24/02/1994 (28)",163,70,"Newcastle United","Scotland","Midfielder",165,45,79,1,10,55,18,31,0
-"Melkamu Frauendorf","12/01/2004 (18)",0,0,"Liverpool","Germany","Midfielder",0,0,0,0,0,0,0,0,0
-"Fred","05/03/1993 (29)",169,64,"Manchester United","Brazil","Midfielder",104,52,24,0,20,143,6,5,0
-"Ryan Fredericks","10/10/1992 (29)",181,74,"West Ham United","England","Defender",63,20,29,0,15,48,2,4,10
-"Christian Fuchs","07/04/1986",187,0,"Leicester City","Austria","Defender",116,54,35,0,19,93,2,9,32
-"James Furlong","07/06/2002 (20)",0,0,"Brighton & Hove Albion","Ireland","Defender",0,0,0,0,0,0,0,0,0
-"Gabriel Jesus","03/04/1997 (25)",175,73,"Manchester City","Brazil","Forward",159,121,19,0,15,132,58,29,0
-"Gabriel Magalhães","19/12/1997 (24)",190,78,"Arsenal","Brazil","Defender",58,33,19,2,8,46,7,0,18
-"Gabriel Martinelli","18/06/2001 (20)",178,75,"Arsenal","Brazil","Forward",57,27,17,1,2,42,11,7,0
-"Ethan Galbraith","11/05/2001",175,0,"Manchester United","Northern Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Conor Gallagher","06/02/2000 (22)",182,0,"Crystal Palace (Loan)","England","Midfielder",64,13,26,0,21,108,10,5,0
-"Eric García","09/01/2001",182,0,"Manchester City U21","Spain","Defender",19,14,4,0,1,13,0,0,3
-"Alejandro Garnacho","01/07/2004 (17)",180,80,"Manchester United","Argentina","Midfielder",2,0,1,0,0,1,0,0,0
-"James Garner","13/03/2001",186,0,"Manchester United","England","Midfielder",2,2,0,0,0,0,0,0,0
-"Dwight Gayle","17/10/1989 (32)",174,78,"Newcastle United","England","Forward",145,35,75,1,9,85,26,7,0
-"Jean-Philippe Gbamin","25/09/1995",186,0,"Everton","Cote D’Ivoire","Midfielder",6,1,1,0,0,2,0,0,0
-"Joe Gelhardt","04/05/2002 (20)",175,65,"Leeds United","England","Forward",20,3,13,0,4,17,2,2,0
-"Rachid Ghezzal","09/05/1992",182,0,"Leicester City","Algeria","Midfielder",19,5,12,0,3,13,1,0,0
-"Saman Ghoddos","06/09/1993 (28)",176,75,"Brentford","Iran","Forward",17,3,9,0,2,12,1,1,0
-"Dimitris Giannoulis","17/10/1995",175,0,"Norwich City","Greece","Defender",18,3,10,0,2,16,0,1,3
-"Liam Gibbs","16/12/2002",0,0,"Norwich City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Morgan Gibbs-White","27/01/2000",171,0,"Wolverhampton Wanderers","England","Midfielder",46,15,22,0,3,17,1,1,0
-"Ben Gibson","15/01/1993",185,0,"Norwich City","England","Defender",67,10,37,1,8,33,2,1,17
-"Bryan Gil","11/02/2001",175,0,"Tottenham Hotspur","Spain","Forward",9,4,4,0,0,1,0,0,0
-"Alex Gilbert","28/12/2001",0,0,"Brentford","Ireland","Forward",0,0,0,0,0,0,0,0,0
-"Ryan Giles","26/01/2000",179,0,"Wolverhampton Wanderers","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Mark Gillespie","27/03/1992 (30)",192,83,"Newcastle United","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Billy Gilmour","11/06/2001",166,0,"Norwich City (Loan)","Scotland","Midfielder",35,8,21,0,2,33,0,1,0
-"Olivier Giroud","30/09/1986",192,0,"Chelsea","France","Forward",255,141,59,2,19,238,90,28,0
-"Ben Godfrey","15/01/1998 (24)",183,74,"Everton","England","Defender",84,23,46,1,13,47,0,2,17
-"Pierluigi Gollini","18/03/1995 (27)",194,94,"Tottenham Hotspur (Loan)","Italy","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Claudio Gomes","23/07/2000",164,0,"Manchester City","France","Midfielder",0,0,0,0,0,0,0,0,0
-"Joseph Gomez","23/05/1997 (25)",188,77,"Liverpool","England","Defender",87,61,7,0,17,68,0,4,33
-"Charlie Goode","03/08/1995",196,0,"Brentford","England","Defender",6,2,2,0,3,5,0,0,1
-"Lewis Gordon","12/02/2001 (21)",0,0,"Brentford","England","Defender",0,0,0,0,0,0,0,0,0
-"Dan Gosling","01/02/1990",183,0,"Watford","England","Midfielder",188,69,81,1,35,166,18,4,0
-"Kamil Grabara","08/01/1999",195,0,"Liverpool","Poland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Lee Grant","27/01/1983 (39)",193,83,"Manchester United","England","Goalkeeper",31,10,12,0,1,0,0,0,9
-"Demarai Gray","28/06/1996 (25)",180,74,"Everton","England","Forward",167,63,69,0,10,48,15,13,0
-"Jack Grealish","10/09/1995 (26)",175,68,"Manchester City","England","Midfielder",122,47,53,0,18,102,18,19,0
-"Sam Greenwood","26/01/2002 (20)",185,0,"Leeds United","England","Forward",7,3,2,0,0,7,0,2,0
-"Jack Grieves","05/12/2004",0,0,"Watford","England","Forward",0,0,0,0,0,0,0,0,0
-"Pascal Groß","15/06/1991 (30)",181,78,"Brighton and Hove Albion","Germany","Midfielder",155,37,63,0,11,101,17,27,0
-"Marko Grujic","13/04/1996",191,0,"Liverpool","Serbia","Midfielder",8,4,3,0,1,2,0,0,0
-"Vicente Guaita","10/01/1987 (35)",190,81,"Crystal Palace","Spain","Goalkeeper",122,41,49,0,7,2,0,0,36
-"Jóhann Gudmundsson","27/10/1990",186,0,"Burnley","Iceland","Midfielder",136,34,65,0,9,68,9,18,0
-"Marc Guéhi","13/07/2000 (21)",182,82,"Crystal Palace","England","Defender",36,10,11,0,4,14,2,1,10
-"Mattéo Guendouzi","14/04/1999",185,0,"Arsenal","France","Midfielder",57,24,17,0,15,41,0,1,0
-"Frédéric Guilbert","24/12/1994",178,0,"Aston Villa","France","Defender",25,7,13,0,7,36,0,2,2
-"Ilkay Gündogan","24/10/1990 (31)",180,80,"Manchester City","Germany","Midfielder",157,120,23,0,15,66,36,12,0
-"Angus Gunn","22/01/1996",196,0,"Norwich City","England","Goalkeeper",31,7,16,0,0,0,0,0,6
-"Patrik Gunnarsson","15/11/2000 (21)",190,84,"Brentford","Iceland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Peter Gwargis","04/09/2000",0,0,"Brighton and Hove Albion","Sweden","Midfielder",0,0,0,0,0,0,0,0,0
-"Viktor Gyökeres","04/06/1998",187,0,"Brighton and Hove Albion","Sweden","Forward",0,0,0,0,0,0,0,0,0
-"Micah Hamilton","13/11/2003",0,0,"Manchester City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Grant Hanley","20/11/1991",187,0,"Norwich City","Scotland","Defender",79,15,50,0,13,72,2,0,11
-"Reece Hannam","11/09/2000 (21)",0,0,"Crystal Palace","England","Defender",0,0,0,0,0,0,0,0,0
-"Bjorn Hardley","19/12/2002 (19)",0,0,"Manchester United","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Jack Harrison","20/11/1996 (25)",175,70,"Leeds United","England","Midfielder",71,24,33,0,5,57,16,9,0
-"Harrison Sohna","01/07/2002",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Joe Hart","19/04/1987",196,0,"Tottenham Hotspur","England","Goalkeeper",340,169,97,0,7,6,0,1,127
-"Taylor Harwood-Bellis","30/01/2002",188,0,"Manchester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Kortney Hause","16/07/1995 (26)",191,77,"Aston Villa","England","Defender",32,9,15,0,5,35,3,0,0
-"Kai Havertz","11/06/1999 (23)",188,83,"Chelsea","Germany","Midfielder",56,27,14,0,5,67,12,6,0
-"Kaine Hayden","23/10/2002",0,0,"Aston Villa","England","Defender",0,0,0,0,0,0,0,0,0
-"Maxwell Haygarth","21/01/2002 (20)",0,0,"Brentford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Tom Heaton","15/04/1986 (36)",188,85,"Manchester United","England","Goalkeeper",116,34,55,0,5,2,0,0,28
-"Karl Hein","13/04/2002",193,0,"Arsenal","Estonia","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Philip Heise","20/06/1991",184,0,"Norwich City","Germany","Defender",0,0,0,0,0,0,0,0,0
-"Hélder Costa","12/01/1994",178,0,"Leeds United","Angola","Forward",48,17,21,0,3,41,4,5,0
-"Mark Helm","21/10/2001",0,0,"Burnley","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Stephen Henderson","02/05/1988",193,0,"Crystal Palace","Ireland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jeff Hendrick","31/01/1992",185,0,"Newcastle United","Ireland","Midfielder",147,49,67,2,20,112,12,6,0
-"Wayne Hennessey","24/01/1987",198,0,"Burnley","Wales","Goalkeeper",183,47,96,0,4,1,0,1,37
-"Rico Henry","08/07/1997 (24)",170,67,"Brentford","England","Defender",34,12,15,0,2,20,3,0,7
-"Jack Henry-Francis","23/09/2003",0,0,"Arsenal","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Onel Hernández","01/02/1993",172,0,"Norwich City","Cuba","Midfielder",26,1,19,0,0,14,1,2,0
-"James Hillson","14/01/2001",0,0,"Arsenal","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Leo Fuhr Hjelde","26/08/2003 (18)",188,0,"Leeds United","Norway","Defender",2,1,1,0,0,1,0,0,0
-"Wesley Hoedt","06/03/1994",188,0,"Southampton","Netherlands","Defender",41,6,19,0,9,37,0,1,9
-"Ki-Jana Hoever","18/01/2002 (20)",180,65,"Wolverhampton Wanderers","Netherlands","Defender",20,3,11,0,2,9,0,0,0
-"Rob Holding","20/09/1995 (26)",189,75,"Arsenal","England","Defender",84,47,24,1,12,63,1,1,22
-"Mason Holgate","22/10/1996 (25)",184,63,"Everton","England","Defender",118,48,40,1,27,98,3,5,28
-"Nathan Holland","19/06/1998",178,0,"West Ham United U21","England","Midfielder",2,0,2,0,0,0,0,0,0
-"Conor Hourihane","02/02/1991",180,0,"Aston Villa","Ireland","Midfielder",31,9,15,0,4,15,4,6,0
-"Callum Hudson-Odoi","07/11/2000 (21)",182,76,"Chelsea U21","England","Forward",72,37,18,0,2,33,4,11,0
-"Niall Huggins","18/12/2000",0,0,"Leeds United","Wales","Defender",1,0,1,0,0,0,0,0,0
-"Will Hughes","17/04/1995 (27)",185,74,"Crystal Palace","England","Midfielder",93,29,45,0,20,144,5,9,0
-"Joe Hugill","19/10/2003",0,0,"Manchester United","England","Forward",0,0,0,0,0,0,0,0,0
-"Joseph Hungbo","15/01/2000",0,0,"Watford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Mackenzie Hunt","14/11/2001",0,0,"Everton","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Omari Hutchinson","29/10/2003 (18)",0,0,"Arsenal U21","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Hwang Hee-Chan","26/01/1996 (26)",177,77,"Wolverhampton Wanderers (Loan)","South Korea","Forward",30,12,13,0,2,29,5,1,0
-"Pierre-Emile Højbjerg","05/08/1995 (26)",187,84,"Tottenham Hotspur","Denmark","Midfielder",183,73,70,2,32,241,8,10,0
-"Adam Idah","11/02/2001",190,0,"Norwich City","Ireland","Forward",29,3,21,0,0,9,1,1,0
-"Kelechi Iheanacho","03/10/1996 (25)",185,82,"Leicester City","Nigeria","Forward",168,61,68,0,8,123,37,20,0
-"Danny Ings","23/07/1992 (29)",178,73,"Aston Villa","England","Forward",170,54,74,0,16,123,62,19,0
-"Tim Iroegbunam","30/06/2003 (18)",0,0,"Aston Villa","England","Midfielder",3,2,0,0,1,2,0,0,0
-"Einar Iversen","06/06/2001",0,0,"Everton","Norway","Midfielder",0,0,0,0,0,0,0,0,0
-"Alexander Iwobi","03/05/1996 (26)",180,75,"Everton","Nigeria","Forward",183,82,64,0,3,70,15,20,0
-"José Izquierdo","07/07/1992",171,0,"Brighton and Hove Albion","Colombia","Forward",48,13,20,0,3,26,5,4,0
-"Jaroslaw Jach","17/02/1994",192,0,"Crystal Palace","Poland","Defender",0,0,0,0,0,0,0,0,0
-"Alireza Jahanbakhsh","11/08/1993",180,0,"Brighton and Hove Albion","Iran","Forward",50,10,26,0,5,28,2,1,0
-"Eldin Jakupovic","02/10/1984 (37)",191,85,"Leicester City","Switzerland","Goalkeeper",28,9,13,0,0,0,0,0,6
-"Reece James","08/12/1999 (22)",182,82,"Chelsea","England","Defender",82,42,20,1,8,73,6,13,18
-"Vitaly Janelt","10/05/1998 (24)",184,79,"Brentford","Germany","Midfielder",31,11,13,0,3,26,4,0,0
-"Alexandre Jankewitz","25/12/2001",179,0,"Southampton","Switzerland","Midfielder",2,0,2,1,0,1,0,0,0
-"Pontus Jansson","13/02/1991 (31)",194,89,"Brentford","Sweden","Defender",37,12,18,0,7,15,3,1,7
-"Vítezslav Jaros","23/07/2001",0,0,"Liverpool","Czech Republic","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Taylor Jay-Hart","18/12/2003",179,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Julian Jeanvier","31/03/1992 (30)",185,84,"Brentford","Guinea","Defender",0,0,0,0,0,0,0,0,0
-"Jack Jenkins","23/03/2002 (20)",0,0,"Leeds United","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Teddy Jenks","12/03/2002",191,0,"Brighton and Hove Albion","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Mathias Jensen","01/01/1996 (26)",180,68,"Brentford","Denmark","Midfielder",31,9,18,0,0,19,0,1,0
-"Jeong Sang-Bin","01/04/2002",173,0,"Wolverhampton Wanderers","South Korea","Forward",0,0,0,0,0,0,0,0,0
-"Raúl Jiménez","05/05/1991 (31)",190,76,"Wolverhampton Wanderers","Mexico","Forward",120,48,41,2,12,133,40,17,0
-"João Cancelo","27/05/1994 (28)",182,74,"Manchester City","Portugal","Defender",81,58,12,1,16,87,3,10,37
-"João Moutinho","08/09/1986 (35)",170,61,"Wolverhampton Wanderers","Portugal","Midfielder",144,56,51,1,18,173,5,16,0
-"João Pedro","26/09/2001",182,0,"Watford","Brazil","Forward",31,3,24,0,1,14,3,1,0
-"João Virgínia","10/10/1999",198,0,"Everton","Portugal","Goalkeeper",1,0,1,0,0,0,0,0,0
-"Joelinton","14/08/1996 (25)",186,81,"Newcastle United","Brazil","Forward",104,32,42,0,18,120,10,5,0
-"Kyle John","13/02/2001",0,0,"Everton","England","Defender",0,0,0,0,0,0,0,0,0
-"Tyreece John-Jules","14/02/2001",183,0,"Arsenal","England","Forward",0,0,0,0,0,0,0,0,0
-"Ben Johnson","24/01/2000 (22)",175,67,"West Ham United","England","Defender",38,19,12,0,2,24,2,0,0
-"Curtis Jones","30/01/2001 (21)",185,75,"Liverpool","England","Midfielder",45,28,6,0,2,32,3,3,0
-"Jonny","03/03/1994 (28)",175,70,"Wolverhampton Wanderers","Spain","Defender",88,32,29,0,11,74,5,3,16
-"Jordan Ayew","11/09/1991 (30)",182,80,"Crystal Palace","Ghana","Forward",201,53,100,2,24,302,29,15,0
-"Jorginho","20/12/1991 (30)",180,65,"Chelsea","Italy","Midfielder",125,69,25,0,25,122,19,5,0
-"José Sá","17/01/1993 (29)",192,84,"Wolverhampton Wanderers","Portugal","Goalkeeper",37,15,17,0,3,3,0,1,11
-"James Justin","23/02/1998 (24)",183,80,"Leicester City","England","Defender",49,24,14,0,5,31,2,2,15
-"Ozan Kabak","25/03/2000",186,0,"Norwich City (Loan)","Turkey","Defender",20,4,12,0,5,22,0,0,4
-"Christian Kabasele","24/02/1991",187,0,"Watford","Belgium","Defender",108,29,56,3,9,93,4,2,17
-"Lovre Kalinic","03/04/1990",201,0,"Aston Villa","Croatia","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Samuel Kalu","26/08/1997",176,0,"Watford","Nigeria","Forward",4,0,3,0,0,0,0,0,0
-"Abu Kamara",,0,0,"Norwich City","England","Defender",0,0,0,0,0,0,0,0,0
-"Harry Kane","28/07/1993 (28)",188,86,"Tottenham Hotspur","England","Forward",282,157,68,0,32,275,183,43,0
-"N'Golo Kanté","29/03/1991 (31)",168,68,"Chelsea","France","Midfielder",220,128,43,0,31,275,12,16,0
-"Michal Karbownik","13/03/2001",0,0,"Brighton and Hove Albion","Poland","Defender",0,0,0,0,0,0,0,0,0
-"Loris Karius","22/06/1993 (28)",189,87,"Liverpool","Germany","Goalkeeper",29,17,4,0,1,2,0,0,13
-"Hayao Kawabe","08/09/1995",178,0,"Wolverhampton Wanderers","Japan","Midfielder",0,0,0,0,0,0,0,0,0
-"Edo Kayembe","03/06/1998",183,0,"Watford","DR Congo","Midfielder",13,0,10,0,0,4,0,0,0
-"Kayky","11/06/2003 (19)",175,68,"Manchester City","Brazil","Forward",1,1,0,0,0,1,0,0,0
-"Moise Kean","28/02/2000",183,0,"Everton","Italy","Forward",32,9,13,0,1,28,2,2,0
-"Michael Keane","11/01/1993 (29)",191,82,"Everton","England","Defender",218,77,92,1,19,113,11,8,56
-"Naby Keïta","10/02/1995 (27)",172,64,"Liverpool","Guinea","Midfielder",76,59,5,0,5,68,7,5,0
-"Caoimhin Kelleher","23/11/1998 (23)",178,74,"Liverpool","Ireland","Goalkeeper",4,2,1,0,0,0,0,0,2
-"Martin Kelly","27/04/1990 (32)",191,77,"Crystal Palace","England","Defender",154,55,63,0,14,117,0,5,29
-"Kenedy","08/02/1996 (26)",182,77,"Chelsea","Brazil","Midfielder",55,19,23,0,2,42,4,4,0
-"Nohan Kenneh","10/01/2003 (19)",0,0,"Leeds United","England","Midfielder",0,0,0,0,1,0,0,0,0
-"Jonjoe Kenny","15/03/1997 (25)",176,67,"Everton","England","Defender",50,17,27,1,4,37,0,3,7
-"Reda Khadra","04/07/2001",0,0,"Brighton & Hove Albion","Germany","Midfielder",1,0,1,0,0,0,0,0,0
-"Kiko Casilla","02/10/1986",190,0,"Leeds United","Spain","Goalkeeper",3,2,1,0,0,0,0,0,1
-"Maximilian Kilman","23/05/1997 (25)",0,0,"Wolverhampton Wanderers","England","Defender",52,23,18,0,7,39,1,1,15
-"Joshua King","15/01/1992",180,0,"Watford","Norway","Forward",204,55,105,0,13,277,53,17,0
-"Nya Kirby","31/01/2000",174,0,"Crystal Palace","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Alex Kirk","27/10/2002 (19)",0,0,"Arsenal","England","Defender",0,0,0,0,0,0,0,0,0
-"Kristoffer Klaesson","27/11/2000 (21)",189,76,"Leeds United","Norway","Goalkeeper",1,1,0,0,0,0,0,0,0
-"Mateusz Klich","13/06/1990 (31)",183,84,"Leeds United","Poland","Midfielder",68,23,32,0,11,86,5,7,0
-"Timm Klose","09/05/1988",193,0,"Norwich City","Switzerland","Defender",17,2,13,0,3,14,1,0,2
-"Josh Knight","07/09/1997",185,0,"Leicester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Robin Koch","17/07/1996 (25)",192,85,"Leeds United","Germany","Defender",37,14,17,0,4,39,0,0,5
-"Sead Kolasinac","20/06/1993",183,0,"Arsenal","Bosnia & Herzegovina","Defender",80,41,23,0,13,76,2,11,17
-"Ibrahima Konaté","25/05/1999 (23)",194,95,"Liverpool","France","Defender",11,7,0,0,2,10,0,0,4
-"Ezri Konsa","23/10/1997 (24)",183,77,"Aston Villa","England","Defender",90,32,41,2,10,54,5,2,24
-"Billy Koumetio","14/11/2002 (19)",0,0,"Liverpool","France","Defender",0,0,0,0,0,0,0,0,0
-"Cheikhou Kouyaté","21/12/1989 (32)",189,83,"Crystal Palace","Senegal","Midfielder",258,83,101,1,32,305,14,11,0
-"Mateo Kovacic","06/05/1994 (28)",178,78,"Chelsea","Croatia","Midfielder",115,63,27,0,19,79,3,11,0
-"Matej Kovár","17/05/2000",184,0,"Manchester United","Czech Republic","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Kacper Kozlowski","16/10/2003",177,0,"Brighton and Hove Albion","Poland","Midfielder",0,0,0,0,0,0,0,0,0
-"Emil Krafth","02/08/1994 (27)",184,83,"Newcastle United","Sweden","Defender",53,20,20,0,9,38,1,2,9
-"Alex Král","19/05/1998 (24)",185,72,"West Ham United (Loan)","Czech Republic","Midfielder",1,1,0,0,0,0,0,0,0
-"Tim Krul","03/04/1988",188,0,"Norwich City","Netherlands","Goalkeeper",222,64,114,0,10,3,0,2,51
-"Juraj Kucka","26/02/1987",186,0,"Watford","Slovakia","Midfielder",26,4,18,1,3,46,1,1,0
-"Dejan Kulusevski","25/04/2000 (22)",186,80,"Tottenham Hotspur (Loan)","Sweden","Midfielder",18,11,5,0,3,20,5,8,0
-"Alexandre Lacazette","28/05/1991 (31)",175,73,"Arsenal","France","Forward",158,75,50,0,14,192,54,25,0
-"Adam Lallana","10/05/1988 (34)",172,73,"Brighton and Hove Albion","England","Midfielder",250,113,65,0,21,171,31,30,0
-"Erik Lamela","04/03/1992",181,0,"Tottenham Hotspur","Argentina","Midfielder",177,90,44,1,30,235,17,23,0
-"Tariq Lamptey","30/09/2000 (21)",0,0,"Brighton and Hove Albion","England","Defender",50,13,18,1,8,61,1,4,5
-"Daniel Langley","28/12/2000 (21)",0,0,"Newcastle United","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Henri Lansbury","12/10/1990",183,0,"Aston Villa","England","Midfielder",13,4,8,0,1,5,0,0,0
-"Manuel Lanzini","15/02/1993 (29)",167,59,"West Ham United","Argentina","Midfielder",169,57,68,0,22,68,26,17,0
-"Aymeric Laporte","27/05/1994 (28)",191,86,"Manchester City","Spain","Defender",108,88,10,1,11,63,8,3,47
-"Jamaal Lascelles","11/11/1993 (28)",188,89,"Newcastle United","England","Defender",152,43,69,1,24,99,9,1,33
-"Roméo Lavia","06/01/2004 (18)",0,0,"Manchester City","Belgium","Midfielder",0,0,0,0,0,0,0,0,0
-"Marcel Lavinier","16/12/2000 (21)",180,0,"Tottenham Hotspur","Portugal","Defender",0,0,0,0,0,0,0,0,0
-"Achraf Lazaar","22/01/1992",184,0,"Watford","Morocco","Defender",0,0,0,0,0,0,0,0,0
-"Zan-Luk Leban","15/12/2002",0,0,"Everton","Slovenia","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Pierre Lees-Melou","25/05/1993",185,0,"Norwich City","France","Midfielder",33,4,23,0,5,35,1,0,0
-"Florian Lejeune","20/05/1991",189,0,"Newcastle United","France","Defender",42,13,22,0,3,34,2,2,9
-"Dexter Lembikisa","04/11/2003 (18)",0,0,"Wolverhampton Wanderers","England","Defender",0,0,0,0,0,0,0,0,0
-"Mario Lemina","01/09/1993",184,0,"Southampton","Gabon","Midfielder",74,13,34,0,12,91,3,2,0
-"Aaron Lennon","16/04/1987",165,0,"Burnley","England","Midfielder",416,171,138,0,21,177,36,50,0
-"Bernd Leno","04/03/1992 (30)",190,83,"Arsenal","Germany","Goalkeeper",101,44,31,1,2,2,0,0,25
-"Marc Leonard","19/12/2001 (20)",0,0,"Brighton & Hove Albion","Scotland","Midfielder",0,0,0,0,0,0,0,0,0
-"Thakgalo Leshabela","18/09/1999",175,0,"Leicester City","South Africa","Midfielder",1,1,0,0,0,0,0,0,0
-"Dylan Levitt","17/11/2000",180,0,"Manchester United","Wales","Midfielder",0,0,0,0,0,0,0,0,0
-"Jamal Lewis","25/01/1998 (24)",178,70,"Newcastle United","Northern Ireland","Defender",57,11,39,0,9,35,1,1,6
-"Lewis Hall","08/09/2004 (17)",0,0,"Chelsea","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Victor Lindelöf","17/07/1994 (27)",187,80,"Manchester United","Sweden","Defender",139,68,32,0,12,94,3,4,38
-"Hayden Lindley","02/09/2002 (19)",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Jesse Lingard","15/12/1992 (29)",175,62,"Manchester United","England","Midfielder",165,83,40,0,19,166,29,14,0
-"Valentino Livramento","12/11/2002 (19)",0,0,"Southampton","England","Defender",28,7,10,0,2,12,1,1,6
-"Diego Llorente","16/08/1993 (28)",186,75,"Leeds United","Spain","Defender",43,16,15,0,8,38,4,0,9
-"Hugo Lloris","26/12/1986 (35)",188,82,"Tottenham Hotspur","France","Goalkeeper",336,192,78,0,5,3,0,0,120
-"Giovani Lo Celso","09/04/1996",177,0,"Tottenham Hotspur","Argentina","Midfielder",55,25,15,0,11,49,1,3,0
-"Jürgen Locadia","07/11/1993",187,0,"Brighton and Hove Albion","Netherlands","Forward",35,7,21,0,1,25,3,1,0
-"Ruben Loftus-Cheek","23/01/1996 (26)",191,88,"Chelsea","England","Midfielder",132,52,40,0,5,85,10,8,0
-"Andy Lonergan","19/10/1983 (38)",192,87,"Everton","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Kevin Long","18/08/1990",188,0,"Burnley","Ireland","Defender",48,10,22,0,4,39,1,3,8
-"Emmanuel Longelo","27/12/2000 (21)",0,0,"West Ham United U21","England","Forward",0,0,0,0,0,0,0,0,0
-"Matthew Longstaff","21/03/2000",0,0,"Newcastle United","England","Midfielder",14,2,8,0,1,9,2,0,0
-"Nigel Lonwijk","27/10/2002",188,0,"Wolverhampton Wanderers","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Ademola Lookman","20/10/1997 (24)",174,71,"Leicester City (Loan)","Nigeria","Forward",96,28,37,0,7,90,11,7,0
-"Joel Lopez Salguero","31/03/2002",0,0,"Arsenal","Spain","Defender",0,0,0,0,0,0,0,0,0
-"Jonas Lössl","01/02/1989 (33)",195,89,"Brentford (Loan)","Denmark","Goalkeeper",71,12,43,0,2,0,0,2,14
-"Imrân Louza","01/05/1999",178,0,"Watford","Morocco","Midfielder",20,3,16,0,6,24,0,0,0
-"Matthew Lowton","09/06/1989",180,0,"Burnley","England","Defender",231,64,109,1,43,176,4,15,49
-"Lucas Moura","13/08/1992 (29)",172,72,"Tottenham Hotspur","Brazil","Forward",137,72,45,0,11,102,19,15,0
-"Romelu Lukaku","13/05/1993 (29)",190,93,"Chelsea","Belgium","Forward",278,126,85,0,20,198,121,35,0
-"Lyanco","01/02/1997 (25)",187,85,"Southampton","Brazil","Defender",15,4,7,0,2,13,0,0,1
-"Brooklyn Lyons-Foster","01/12/2000 (21)",0,0,"Tottenham Hotspur","England","Defender",0,0,0,0,0,0,0,0,0
-"Isaac Mabaya","22/09/2004 (17)",0,0,"Liverpool","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Alexis Mac Allister","24/12/1998 (23)",176,72,"Brighton and Hove Albion","Argentina","Midfielder",63,19,23,0,5,53,6,3,0
-"James Maddison","23/11/1996 (25)",175,73,"Leicester City","England","Midfielder",133,60,46,1,14,102,33,23,0
-"Paris Maghoma","08/05/2001 (21)",0,0,"Brentford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Harry Maguire","05/03/1993 (29)",194,100,"Manchester United","England","Defender",203,85,71,2,43,176,11,8,51
-"Riyad Mahrez","21/02/1991 (31)",179,67,"Manchester City","Algeria","Forward",254,139,65,0,7,140,77,51,0
-"Ainsley Maitland-Niles","29/08/1997",177,0,"Arsenal","England","Midfielder",87,38,28,2,8,53,1,3,0
-"Malachi Boateng","05/07/2002",0,0,"Crystal Palace","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Anthony Mancini","06/04/2001",180,0,"Burnley","France","Midfielder",0,0,0,0,0,0,0,0,0
-"Sadio Mané","10/04/1992 (30)",175,69,"Liverpool","Senegal","Forward",263,162,44,3,29,317,111,38,0
-"Javier Manquillo","05/05/1994 (28)",178,76,"Newcastle United","Spain","Defender",122,34,58,0,20,87,2,7,21
-"Marçal","19/02/1989 (33)",178,74,"Wolverhampton Wanderers","Brazil","Defender",31,15,13,0,5,41,0,0,7
-"Marcelo Pitaluga","20/12/2002 (19)",192,77,"Liverpool","Brazil","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Solly March","20/07/1994 (27)",180,88,"Brighton and Hove Albion","England","Midfielder",142,33,58,0,7,125,4,10,0
-"Pablo Marí","31/08/1993",193,0,"Arsenal","Spain","Defender",14,7,5,0,3,11,0,0,5
-"Dilan Markanday","20/08/2001",0,0,"Tottenham Hotspur","England","Forward",0,0,0,0,0,0,0,0,0
-"Filip Marschall","24/04/2003",0,0,"Aston Villa","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Anthony Martial","05/12/1995",181,0,"Manchester United","France","Forward",175,91,40,1,8,140,56,26,0
-"Josh Martin","09/09/2001",0,0,"Norwich City","England","Midfielder",5,0,5,0,0,1,0,0,0
-"Adam Masina","02/01/1994",189,0,"Watford","Morocco","Defender",55,15,32,0,8,57,1,2,7
-"Arthur Masuaku","07/11/1993 (28)",179,70,"West Ham United","DR Congo","Defender",105,38,41,1,15,90,1,9,17
-"Tawanda Maswanhise","20/11/2002",0,0,"Leicester City","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Juan Mata","28/04/1988 (34)",170,63,"Manchester United","Spain","Midfielder",278,145,66,1,19,137,52,54,0
-"Jean-Philippe Mateta","28/06/1997 (24)",192,88,"Crystal Palace","France","Forward",29,7,13,0,2,19,6,1,0
-"Nemanja Matic","01/08/1988 (33)",194,85,"Manchester United","Serbia","Midfielder",251,150,48,3,41,274,6,23,0
-"Joel Matip","08/08/1991 (30)",195,90,"Liverpool","Cameroon","Defender",126,86,10,0,13,75,8,5,49
-"Matthew Craig","16/04/2003 (19)",0,0,"Tottenham Hotspur","Scotland","Midfielder",0,0,0,0,0,0,0,0,0
-"Remi Matthews","10/02/1994 (28)",184,78,"Crystal Palace","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Neal Maupay","14/08/1996 (25)",173,69,"Brighton and Hove Albion","France","Forward",102,26,38,1,11,98,26,7,0
-"Luke Mbete","18/09/2003 (18)",0,0,"Manchester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Bryan Mbeumo","07/08/1999 (22)",171,0,"Brentford","France","Midfielder",35,12,16,0,4,20,4,7,0
-"Xavier Mbuyamba","31/12/2001 (20)",0,0,"Chelsea","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Reece McAlear","12/02/2002",185,0,"Norwich City","Scotland","Midfielder",0,0,0,0,0,0,0,0,0
-"James McArthur","07/10/1987 (34)",178,75,"Crystal Palace","Scotland","Midfielder",319,103,139,0,52,424,23,23,0
-"James McAtee","18/10/2002 (19)",0,0,"Manchester City","England","Midfielder",2,2,0,0,0,1,0,0,0
-"Kasey McAteer","22/11/2001",0,0,"Leicester City","England","Midfielder",1,1,0,0,0,0,0,0,0
-"Alfie McCalmont","25/03/2000",0,0,"Leeds United","Northern Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Liam McCarron","07/03/2001 (21)",175,0,"Leeds United","Scotland","Midfielder",1,0,1,0,0,0,0,0,0
-"James McCarthy","12/11/1990",180,0,"Crystal Palace","Ireland","Midfielder",272,91,109,1,48,311,13,12,0
-"Jon McCracken","24/05/2000",0,0,"Norwich City","Scotland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Thomas McGill","25/03/2000 (22)",0,0,"Brighton and Hove Albion","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"John McGinn","18/10/1994 (27)",178,68,"Aston Villa","Scotland","Midfielder",100,34,48,0,23,137,9,12,0
-"Joseph McGlynn","27/09/2002",0,0,"Burnley U18","Scotland","Forward",0,0,0,0,0,0,0,0,0
-"Michael McGovern","12/07/1984",191,0,"Norwich City","Northern Ireland","Goalkeeper",2,0,2,0,0,0,0,0,0
-"Stuart McKinstry","18/09/2002 (19)",0,0,"Leeds United","Scotland","Midfielder",1,0,1,0,0,0,0,0,0
-"Kenny McLean","08/01/1992",183,0,"Norwich City","Scotland","Midfielder",68,8,48,0,8,40,2,1,0
-"Dwight McNeil","22/11/1999",183,0,"Burnley","England","Midfielder",134,39,59,0,9,71,7,17,0
-"Scott McTominay","08/12/1996 (25)",193,88,"Manchester United","Scotland","Midfielder",120,62,26,0,18,158,11,3,0
-"Ben Mee","21/09/1989",180,0,"Burnley","England","Defender",217,62,98,0,42,142,9,4,62
-"Hannibal Mejbri","21/01/2003 (19)",177,0,"Manchester United","Tunisia","Midfielder",3,1,2,0,2,3,0,0,0
-"Édouard Mendy","01/03/1992 (30)",197,86,"Chelsea","Senegal","Goalkeeper",65,36,12,0,5,2,0,0,30
-"Teden Mengi","30/04/2002",183,0,"Manchester United","England","Defender",0,0,0,0,0,0,0,0,0
-"Illan Meslier","02/03/2000 (22)",193,74,"Leeds United","France","Goalkeeper",73,25,32,0,2,1,0,0,16
-"Matt Miazga","19/07/1995",191,0,"Chelsea","United States","Defender",2,1,1,0,1,1,0,0,1
-"Michael Craig","16/04/2003 (19)",0,0,"Tottenham Hotspur","Scotland","Midfielder",0,0,0,0,0,0,0,0,0
-"Luka Milivojevic","07/04/1991 (31)",186,80,"Crystal Palace","Serbia","Midfielder",165,53,69,1,43,259,28,5,0
-"James Milner","04/01/1986 (36)",175,70,"Liverpool","England","Midfielder",588,304,141,3,70,474,55,86,0
-"Yerry Mina","23/09/1994 (27)",195,94,"Everton","Colombia","Defender",79,35,25,0,11,60,5,1,14
-"Takumi Minamino","16/01/1995 (27)",174,68,"Liverpool","Japan","Forward",40,23,11,0,2,22,6,0,0
-"Tyrone Mings","13/03/1993 (29)",196,77,"Aston Villa","England","Defender",122,41,59,1,23,77,5,7,31
-"Tyrick Mitchell","01/09/1999 (22)",0,0,"Crystal Palace","England","Defender",59,17,24,0,3,25,1,3,14
-"Kaoru Mitoma","20/05/1997",178,0,"Brighton and Hove Albion","Japan","Forward",0,0,0,0,0,0,0,0,0
-"Jan Mlakar","23/10/1998",183,0,"Brighton and Hove Albion","Slovenia","Forward",0,0,0,0,0,0,0,0,0
-"Jakub Moder","07/04/1999 (23)",188,78,"Brighton and Hove Albion","Poland","Midfielder",40,11,14,0,2,31,0,3,0
-"Mohamed Elneny","11/07/1992 (29)",180,70,"Arsenal","Egypt","Midfielder",83,51,22,1,11,39,1,5,0
-"Mohamed Salah","15/06/1992 (29)",175,71,"Liverpool","Egypt","Forward",193,132,23,0,5,96,120,47,0
-"Jayson Molumby","06/08/1999",0,0,"Brighton and Hove Albion","Ireland","Midfielder",1,1,0,0,0,0,0,0,0
-"Jacob Montes","20/10/1998",0,0,"Crystal Palace","United States","Midfielder",0,0,0,0,0,0,0,0,0
-"Kris Moore","13/11/2003 (18)",0,0,"Leeds United","England","Defender",0,0,0,0,0,0,0,0,0
-"Andrew Moran","15/10/2003 (18)",0,0,"Brighton & Hove Albion","Ireland","Midfielder",0,0,0,0,0,0,0,0,0
-"Pablo Moreno","03/05/2002",174,0,"Manchester City","Spain","Forward",0,0,0,0,0,0,0,0,0
-"Wes Morgan","21/01/1984",186,0,"Leicester City","Jamaica","Defender",170,72,60,3,12,129,8,2,41
-"James Morris","23/11/2001",0,0,"Watford","England","Defender",0,0,0,0,0,0,0,0,0
-"Tyler Morton","31/10/2002 (19)",0,0,"Liverpool","England","Midfielder",2,1,0,0,1,1,0,0,0
-"Victor Moses","12/12/1990",177,0,"Chelsea","Nigeria","Midfielder",220,103,65,0,16,169,20,18,0
-"Yerson Mosquera","02/05/2001 (21)",187,76,"Wolverhampton Wanderers","Colombia","Defender",0,0,0,0,0,0,0,0,0
-"Louie Moulden","06/01/2002",0,0,"Wolverhampton Wanderers U21","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Mason Mount","10/01/1999 (23)",178,70,"Chelsea","England","Midfielder",105,54,26,0,9,117,24,20,0
-"Bali Mumba","01/10/2001",0,0,"Norwich City","England","Defender",1,0,1,0,0,0,0,0,0
-"Joel Mumbongo","09/01/1999",188,0,"Burnley","Sweden","Forward",4,0,3,0,1,1,0,0,0
-"Romaine Mundle","24/04/2003 (19)",0,0,"Tottenham Hotspur","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Arijanet Muric","07/11/1998",198,0,"Manchester City","Kosovo","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jacob Murphy","24/02/1995 (27)",179,74,"Newcastle United","England","Midfielder",93,24,48,0,7,51,4,7,0
-"Glenn Murray","25/09/1983",183,0,"Brighton and Hove Albion","England","Forward",148,44,61,1,20,225,37,6,0
-"Charly Musonda","15/10/1996",173,0,"Chelsea","Belgium","Midfielder",3,1,2,0,0,3,0,1,0
-"Yoshinori Muto","15/07/1992",179,0,"Newcastle United","Japan","Forward",25,3,16,0,1,15,1,0,0
-"Enock Mwepu","01/01/1998 (24)",184,76,"Brighton and Hove Albion","Zambia","Midfielder",18,9,3,0,2,18,2,4,0
-"Vitalii Mykolenko","29/05/1999 (23)",180,71,"Everton","Ukraine","Defender",13,4,7,0,0,13,1,0,3
-"Daniel N'Lundulu","05/02/1999",185,0,"Southampton","England","Forward",13,3,7,0,0,6,0,0,0
-"Marvelous Nakamba","19/01/1994 (28)",178,71,"Aston Villa","Zimbabwe","Midfielder",58,20,28,0,13,50,0,0,0
-"Richard Nartey","06/09/1998",184,0,"Burnley","England","Defender",0,0,0,0,0,0,0,0,0
-"Marc Navarro","02/07/1995",188,0,"Watford","Spain","Defender",2,1,1,0,0,1,0,0,0
-"Wilfred Ndidi","16/12/1996 (25)",183,74,"Leicester City","Nigeria","Midfielder",165,72,59,2,30,273,7,9,0
-"Tanguy Ndombele","28/12/1996",181,0,"Tottenham Hotspur","France","Midfielder",63,22,24,0,7,43,6,5,0
-"Reiss Nelson","10/12/1999",175,0,"Arsenal","England","Forward",23,10,7,0,1,10,1,0,0
-"Nélson Semedo","16/11/1993 (28)",177,67,"Wolverhampton Wanderers","Portugal","Defender",59,22,25,0,6,64,1,2,14
-"Jeremy Ngakia","07/09/2000",0,0,"Watford","England","Defender",21,3,14,0,0,14,0,0,1
-"Saúl Ñíguez","21/11/1994 (27)",184,76,"Chelsea (Loan)","Spain","Midfielder",10,7,0,0,1,9,0,0,0
-"Eddie Nketiah","30/05/1999 (23)",175,72,"Arsenal","England","Forward",59,27,24,1,3,45,10,2,0
-"Nicolas Nkoulou","27/03/1990",184,0,"Watford","Cameroon","Defender",3,2,1,0,0,1,0,0,0
-"Niels Nkounkou","01/11/2000",180,0,"Everton","France","Defender",2,0,2,0,1,1,0,0,0
-"Mark Noble","08/05/1987 (35)",180,70,"West Ham United","England","Midfielder",414,147,168,5,82,390,47,35,0
-"Mathias Normann","28/05/1996",179,0,"Norwich City (Loan)","Norway","Midfielder",23,3,14,0,6,37,1,2,0
-"Will Norris","12/08/1993",195,0,"Burnley","England","Goalkeeper",3,1,2,0,0,0,0,0,0
-"Nuno Tavares","26/01/2000 (22)",183,75,"Arsenal","Portugal","Defender",22,13,9,0,2,23,1,1,3
-"Ørjan Nyland","10/09/1990",192,0,"Norwich City","Norway","Goalkeeper",7,1,4,0,0,0,0,0,1
-"Christian Nørgaard","10/03/1994 (28)",187,76,"Brentford","Denmark","Midfielder",35,13,16,0,8,56,3,4,0
-"Kane O'Connor","17/01/2001",0,0,"Brentford","Scotland","Defender",0,0,0,0,0,0,0,0,0
-"Michael Obafemi","06/07/2000",169,0,"Southampton","Ireland","Forward",32,12,14,0,2,14,4,3,0
-"Ademipo Odubeko","21/10/2002",0,0,"West Ham United","Ireland","Forward",0,0,0,0,0,0,0,0,0
-"Chituru Odunze","14/10/2002 (19)",200,0,"Leicester City","United States","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Odeluga Offiah","26/10/2002 (19)",0,0,"Brighton & Hove Albion","England","Defender",0,0,0,0,0,0,0,0,0
-"Angelo Ogbonna","23/05/1988 (34)",191,86,"West Ham United","Italy","Defender",174,67,61,0,22,119,8,1,39
-"Mazeed Ogungbo","20/10/2002 (19)",0,0,"Arsenal","Ireland","Defender",0,0,0,0,0,0,0,0,0
-"Sheyi Ojo","19/06/1997",177,0,"Liverpool","England","Midfielder",8,3,2,0,0,3,0,3,0
-"Jakub Ojrzynski","19/02/2003",0,0,"Liverpool","Poland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Armstrong Oko-Flex","02/03/2002 (20)",0,0,"West Ham United","Ireland","Forward",0,0,0,0,0,0,0,0,0
-"Arthur Okonkwo","09/09/2001 (20)",198,0,"Arsenal","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Maduka Okoye","28/08/1999",197,0,"Watford","Nigeria","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jaakko Oksanen","07/11/2000",0,0,"Brentford","Finland","Midfielder",0,0,0,0,0,0,0,0,0
-"Kazeem Olaigbe","02/01/2003 (19)",0,0,"Southampton","Belgium","Forward",0,0,0,0,0,0,0,0,0
-"Michael Olise","12/12/2001 (20)",176,0,"Crystal Palace","France","Midfielder",26,7,8,0,4,16,2,5,0
-"Robin Olsen","08/01/1990 (32)",198,89,"Aston Villa (Loan)","Sweden","Goalkeeper",8,2,3,0,1,0,0,0,2
-"Josh Oluwayemi","13/03/2001",0,0,"Tottenham Hotspur","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Andrew Omobamidele","23/06/2002",188,0,"Norwich City","Ireland","Defender",5,1,4,0,1,3,1,0,0
-"Tobi Omole","17/12/1999 (22)",0,0,"Tottenham Hotspur","England","Defender",0,0,0,0,0,0,0,0,0
-"Akos Onodi","02/09/2001",0,0,"Aston Villa U21","Hungary","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Tyler Onyango","04/03/2003 (19)",190,0,"Everton","England","Midfielder",3,0,2,0,0,0,0,0,0
-"Frank Onyeka","01/01/1998 (24)",183,0,"Brentford","Nigeria","Midfielder",20,8,8,0,4,33,0,0,0
-"Divock Origi","18/04/1995 (27)",185,75,"Liverpool","Belgium","Forward",107,66,18,0,1,49,22,6,0
-"Owen Otasowie","06/01/2001",191,0,"Wolverhampton Wanderers","United States","Midfielder",6,1,2,0,1,3,0,1,0
-"Salah-Eddine Oulad M'hand","20/08/2003 (18)",0,0,"Arsenal","Netherlands","Midfielder",0,0,0,0,0,0,0,0,0
-"Aston Oxborough","09/05/1998",0,0,"Norwich City","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Alex Oxlade-Chamberlain","15/08/1993 (28)",180,70,"Liverpool","England","Midfielder",226,133,48,0,10,117,2019,0,0
-"Daniel Oyegoke","03/01/2003 (19)",0,0,"Brentford","England","Defender",0,0,0,0,0,0,0,0,0
-"Pablo Hernández","11/04/1985",173,0,"Leeds United","Spain","Midfielder",73,21,34,0,6,30,5,15,0
-"Cole Palmer","06/05/2002 (20)",0,0,"Manchester City","England","Midfielder",4,4,0,0,0,1,0,0,0
-"Erik Palmer-Brown","24/04/1997",187,0,"Manchester City","United States","Defender",0,0,0,0,0,0,0,0,0
-"Pape Sarr","14/09/2002",185,0,"Tottenham Hotspur","Senegal","Midfielder",0,0,0,0,0,0,0,0,0
-"Adam Parkes","30/11/1999",0,0,"Watford","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Troy Parrott","04/02/2002",185,0,"Tottenham Hotspur","Ireland","Forward",2,1,1,0,0,0,0,0,0
-"Thomas Partey","13/06/1993 (28)",185,77,"Arsenal","Ghana","Midfielder",48,27,14,0,10,51,2,3,0
-"Maksim Paskotsi","19/01/2003 (19)",0,0,"Tottenham Hotspur","Estonia","Defender",0,0,0,0,0,0,0,0,0
-"Charlie Patino","17/10/2003 (18)",0,0,"Arsenal","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Nathan Patterson","16/10/2001 (20)",183,72,"Everton","Scotland","Defender",0,0,0,0,0,0,0,0,0
-"Bailey Peacock-Farrell","29/10/1996",193,0,"Burnley","Northern Ireland","Goalkeeper",4,0,4,0,0,0,0,0,0
-"Myles Peart-Harris","18/09/2002 (19)",0,0,"Brentford","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Pedro Neto","09/03/2000 (22)",172,69,"Wolverhampton Wanderers","Portugal","Forward",73,26,27,0,10,40,9,10,0
-"Facundo Pellistri","20/12/2001",175,0,"Manchester United","Uruguay","Midfielder",0,0,0,0,0,0,0,0,0
-"Adalberto Peñaranda","31/05/1997",185,0,"Watford","Venezuela","Forward",0,0,0,0,0,0,0,0,0
-"Nicolas Pépé","29/05/1995 (27)",183,73,"Arsenal","Cote D’Ivoire","Forward",80,37,25,1,5,33,16,9,0
-"Ayoze Pérez","29/07/1993 (28)",178,72,"Leicester City","Spain","Forward",215,72,93,1,11,216,45,17,0
-"Stipe Perica","07/07/1995",192,0,"Watford","Croatia","Forward",0,0,0,0,0,0,0,0,0
-"Sonny Perkins","10/02/2004 (18)",0,0,"West Ham United","England","Midfielder",1,0,1,0,0,0,0,0,0
-"Romain Perraud","22/09/1997 (24)",173,68,"Southampton","France","Defender",20,4,8,0,3,31,0,1,3
-"Taylor Perry","15/07/2001",0,0,"Wolverhampton Wanderers","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Philippe Coutinho","12/06/1992 (30)",172,68,"Aston Villa (Loan)","Brazil","Midfielder",171,87,38,1,8,90,46,38,0
-"Kalvin Phillips","02/12/1995 (26)",178,72,"Leeds United","England","Midfielder",49,21,14,0,14,79,1,3,0
-"Jaden Philogene-Bidace","08/02/2002",0,0,"Aston Villa","England","Midfielder",2,2,0,0,0,0,0,0,0
-"Jordan Pickford","07/03/1994 (28)",185,77,"Everton","England","Goalkeeper",211,71,95,0,6,4,0,0,54
-"Erik Pieters","07/08/1988",183,0,"Burnley","Netherlands","Defender",225,70,92,0,36,339,1,13,50
-"Ethan Pinnock","29/05/1993 (29)",187,79,"Brentford","Jamaica","Defender",32,10,16,0,1,9,1,1,7
-"Przemyslaw Placheta","23/03/1998",177,0,"Norwich City","Poland","Midfielder",12,1,10,0,1,1,0,0,0
-"Luke Plange","04/11/2002",178,0,"Crystal Palace","England","Forward",0,0,0,0,0,0,0,0,0
-"Maurizio Pochettino","30/03/2001",0,0,"Watford","Spain","Midfielder",0,0,0,0,0,0,0,0,0
-"Paul Pogba","15/03/1993 (29)",191,84,"Manchester United","France","Midfielder",157,84,28,2,29,267,29,38,0
-"Matthew Pollock","28/09/2001",0,0,"Watford","England","Defender",0,0,0,0,0,0,0,0,0
-"Nick Pope","19/04/1992",191,0,"Burnley","England","Goalkeeper",141,45,53,0,6,3,0,0,46
-"Freddie Potts","12/09/2003 (18)",0,0,"West Ham United U21","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Ian Poveda-Ocampo","09/02/2000",165,0,"Leeds United","England","Forward",14,4,6,0,0,5,0,0,0
-"Iker Pozo","06/08/2000",0,0,"Manchester City","Spain","Midfielder",0,0,0,0,0,0,0,0,0
-"Dennis Praet","14/05/1994",181,0,"Leicester City","Belgium","Midfielder",42,21,15,0,2,30,2,3,0
-"Aaron Pressley","07/11/2001",189,0,"Brentford","Scotland","Forward",0,0,0,0,0,0,0,0,0
-"Isaac Price","26/09/2003 (18)",0,0,"Everton","Northern Ireland","Midfielder",1,0,1,0,0,0,0,0,0
-"Davy Pröpper","02/09/1991",185,0,"Brighton and Hove Albion","Netherlands","Midfielder",107,27,46,1,8,106,2,7,0
-"Teemu Pukki","29/03/1990",180,0,"Norwich City","Finland","Forward",73,10,50,0,7,54,22,6,0
-"Christian Pulisic","18/09/1998 (23)",172,69,"Chelsea","United States","Midfielder",74,35,19,0,4,42,19,8,0
-"Ignacio Pussetto","21/12/1995",180,0,"Watford","Argentina","Forward",7,1,4,0,1,3,0,0,0
-"Jarell Quansah","29/01/2003 (19)",0,0,"Liverpool","England","Defender",0,0,0,0,0,0,0,0,0
-"Xavi Quintillá","23/08/1996",183,0,"Norwich City (Loan)","Spain","Defender",0,0,0,0,0,0,0,0,0
-"Luka Racic","08/05/1999",0,0,"Brentford","Denmark","Defender",0,0,0,0,0,0,0,0,0
-"Rafa Mir","18/06/1997",191,0,"Wolverhampton Wanderers","Spain","Forward",0,0,0,0,0,0,0,0,0
-"Arjan Raikhy","20/10/2002",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Jesurun Rak-Sakyi","05/10/2002 (19)",0,0,"Crystal Palace","England","Midfielder",2,1,1,0,0,1,0,0,0
-"Kayne Ramsay","10/10/2000",0,0,"Southampton","England","Defender",2,0,2,0,1,1,0,0,0
-"Aaron Ramsdale","14/05/1998 (24)",188,77,"Arsenal","England","Goalkeeper",109,37,60,0,2,1,0,1,22
-"Jacob Ramsey","28/05/2001 (21)",0,0,"Aston Villa","England","Midfielder",56,21,25,0,6,45,6,1,0
-"Darren Randolph","12/05/1987 (35)",188,98,"West Ham United","Ireland","Goalkeeper",34,12,15,0,1,0,0,0,7
-"Raphinha","14/12/1996 (25)",176,68,"Leeds United","Brazil","Forward",65,24,28,0,10,53,17,12,0
-"Marcus Rashford","31/10/1997 (24)",180,70,"Manchester United","England","Forward",204,105,42,1,18,127,59,32,0
-"Milot Rashica","28/06/1996",177,0,"Norwich City","Kosovo","Midfielder",31,5,21,0,0,23,1,2,0
-"David Raya","15/09/1995 (26)",183,80,"Brentford","Spain","Goalkeeper",24,10,9,0,1,1,0,0,8
-"Nathan Redmond","06/03/1994 (28)",173,69,"Southampton","England","Midfielder",263,67,126,1,13,200,28,26,0
-"Sergio Reguilón","16/12/1996 (25)",178,68,"Tottenham Hotspur","Spain","Defender",52,28,14,0,9,48,2,6,13
-"Winston Reid","03/07/1988",190,0,"Brentford (Loan)","New Zealand","Defender",166,52,71,1,38,170,6,3,40
-"Omar Rekik","20/12/2001",186,0,"Arsenal","Tunisia","Defender",0,0,0,0,0,0,0,0,0
-"Rhys Williams","03/02/2001 (21)",195,0,"Liverpool","England","Defender",9,7,1,0,0,4,0,0,3
-"Ricardo Pereira","06/10/1993 (28)",175,70,"Leicester City","Portugal","Defender",92,41,35,0,14,110,6,12,23
-"Declan Rice","14/01/1999 (23)",185,76,"West Ham United","England","Midfielder",167,64,63,0,21,112,6,8,0
-"Taylor Richards","04/12/2000",180,0,"Brighton and Hove Albion","England","Midfielder",2,0,2,0,0,1,0,0,0
-"Lewis Richardson","07/02/2003",0,0,"Burnley","England","Midfielder",2,0,2,0,0,0,0,0,0
-"Richarlison","10/05/1997 (25)",184,83,"Everton","Brazil","Forward",173,65,73,2,30,181,48,16,0
-"Jairo Riedewald","09/09/1996 (25)",182,79,"Crystal Palace","Netherlands","Midfielder",65,17,34,0,4,28,2,0,0
-"Matt Ritchie","10/09/1989 (32)",172,76,"Newcastle United","Scotland","Midfielder",164,47,73,0,31,184,11,24,0
-"Roberto Firmino","02/10/1991 (30)",181,76,"Liverpool","Brazil","Forward",231,145,32,0,12,233,71,46,0
-"Haydon Roberts","10/05/2002 (20)",0,0,"Brighton and Hove Albion","England","Defender",0,0,0,0,0,0,0,0,0
-"Andrew Robertson","11/03/1994 (28)",178,64,"Liverpool","Scotland","Defender",218,125,46,1,27,122,8,49,69
-"Joe Rodon","22/10/1997 (24)",180,70,"Tottenham Hotspur","Wales","Defender",15,8,4,0,0,2,0,0,2
-"Rodri","22/06/1996 (25)",191,82,"Manchester City","Spain","Midfielder",102,74,15,0,19,130,12,6,0
-"Rodrigo","06/03/1991 (31)",182,77,"Leeds United","Spain","Forward",74,25,34,0,12,48,14,4,0
-"Jay Rodriguez","29/07/1989",185,0,"Burnley","England","Forward",237,66,98,0,16,216,44,16,0
-"Mads Roerslev","24/06/1999 (22)",184,77,"Brentford","Denmark","Defender",21,8,10,0,1,18,1,1,1
-"Morgan Rogers","26/07/2002",0,0,"Manchester City","England","Forward",0,0,0,0,0,0,0,0,0
-"Sergio Romero","22/02/1987",192,0,"Manchester United","Argentina","Goalkeeper",7,4,1,0,0,0,0,0,6
-"Oriol Romeu","24/09/1991 (30)",183,83,"Southampton","Spain","Midfielder",238,82,89,0,63,326,7,3,0
-"Salomón Rondón","16/09/1989 (32)",186,98,"Everton","Venezuela","Forward",160,43,74,2,11,152,36,15,0
-"Danny Rose","02/07/1990",173,0,"Watford","England","Defender",202,95,63,2,53,255,9,17,42
-"Jonathan Rowe","30/04/2003",173,0,"Norwich City","England","Forward",13,0,10,0,0,3,0,1,0
-"Rúben Dias","14/05/1997 (25)",186,76,"Manchester City","Portugal","Defender",61,46,7,0,9,48,3,4,27
-"Rúben Neves","13/03/1997 (25)",180,80,"Wolverhampton Wanderers","Portugal","Midfielder",142,53,53,0,34,137,15,8,0
-"Rúben Vinagre","09/04/1999",174,0,"Wolverhampton Wanderers","Portugal","Defender",35,14,11,0,2,21,0,0,2
-"John Ruddy","24/10/1986 (35)",193,97,"Wolverhampton Wanderers","England","Goalkeeper",123,33,57,1,3,1,0,0,25
-"Antonio Rüdiger","03/03/1993 (29)",190,85,"Chelsea","Germany","Defender",133,74,28,0,23,124,9,1,53
-"Rui Patrício","15/02/1988",190,0,"Wolverhampton Wanderers","Portugal","Goalkeeper",112,42,38,0,1,0,0,0,30
-"Rúnar Rúnarsson","18/02/1995",186,0,"Arsenal","Iceland","Goalkeeper",1,0,1,0,0,0,0,0,0
-"Lukas Rupp","08/01/1991",178,0,"Norwich City","Germany","Midfielder",31,4,21,0,1,17,0,0,0
-"Mathew Ryan","08/04/1992",184,0,"Arsenal (Loan)","Australia","Goalkeeper",124,29,55,0,3,2,0,0,28
-"Allan Saint-Maximin","12/03/1997 (25)",173,67,"Newcastle United","France","Forward",86,31,34,0,6,50,11,13,0
-"Romain Saïss","26/03/1990 (32)",190,80,"Wolverhampton Wanderers","Morocco","Midfielder",110,43,42,1,25,129,0,0,0
-"Henri Saivet","26/10/1990",174,0,"Newcastle United","Senegal","Midfielder",5,3,2,0,0,1,1,0,0
-"Bukayo Saka","05/09/2001 (20)",178,65,"Arsenal","England","Midfielder",97,47,31,0,13,89,17,15,0
-"Mamadou Sakho","13/02/1990",187,0,"Crystal Palace","France","Defender",128,53,45,1,6,41,3,2,32
-"William Saliba","24/03/2001",192,0,"Arsenal","France","Defender",0,0,0,0,0,0,0,0,0
-"Mohammed Salisu","17/04/1999 (23)",191,82,"Southampton","Ghana","Defender",46,11,20,1,9,48,0,0,6
-"Mbwana Samatta","23/12/1992",183,0,"Aston Villa","Tanzania","Forward",14,2,8,0,1,9,1,0,0
-"Albert Sambi Lokonga","22/10/1999 (22)",173,67,"Arsenal","Belgium","Midfielder",19,10,6,0,5,12,0,0,0
-"Samir","05/12/1994",189,0,"Watford","Brazil","Defender",19,2,13,0,4,17,0,0,3
-"Robert Sánchez","18/11/1997 (24)",197,90,"Brighton and Hove Albion","Spain","Goalkeeper",64,19,20,1,6,3,0,0,21
-"Jadon Sancho","25/03/2000 (22)",180,76,"Manchester United","England","Forward",29,12,8,0,0,4,3,3,0
-"Dion Sanderson","15/12/1999",0,0,"Wolverhampton Wanderers","England","Defender",0,0,0,0,0,0,0,0,0
-"Philippe Sandler","10/02/1997",188,0,"Manchester City","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Morgan Sanson","18/08/1994 (27)",180,73,"Aston Villa","France","Midfielder",19,6,9,0,3,9,0,0,0
-"Joshua Sargent","20/02/2000",185,0,"Norwich City","United States","Forward",26,4,18,0,1,9,2,1,0
-"Matija Sarkic","23/07/1997 (24)",195,0,"Wolverhampton Wanderers","Montenegro","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jeremy Sarmiento","16/06/2002 (19)",0,0,"Brighton and Hove Albion","Ecuador","Forward",5,0,1,0,0,0,0,0,0
-"Malang Sarr","23/01/1999 (23)",182,73,"Chelsea","France","Defender",8,5,2,0,2,8,0,0,2
-"Charlie Savage","02/05/2003 (19)",0,0,"Manchester United","Wales","Midfielder",0,0,0,0,0,0,0,0,0
-"Dane Scarlett","24/03/2004 (18)",180,76,"Tottenham Hotspur","England","Forward",2,2,0,0,0,0,0,0,0
-"Fabian Schär","20/12/1991 (30)",188,84,"Newcastle United","Switzerland","Defender",89,34,39,1,25,103,9,3,19
-"Kjell Scherpen","23/01/2000 (22)",204,98,"Brighton and Hove Albion","Netherlands","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jeffrey Schlupp","23/12/1992 (29)",178,72,"Crystal Palace","Ghana","Midfielder",205,72,83,0,18,158,17,11,0
-"Kasper Schmeichel","05/11/1986 (35)",189,89,"Leicester City","Denmark","Goalkeeper",284,122,95,0,13,0,0,0,82
-"Ken Sema","30/09/1993",180,0,"Watford","Sweden","Midfielder",35,13,14,0,2,28,1,2,0
-"Ryan Sessegnon","18/05/2000 (22)",178,70,"Tottenham Hotspur","England","Midfielder",56,19,28,0,2,43,2,8,0
-"Meritan Shabani","15/03/1999",185,0,"Wolverhampton Wanderers","Germany","Midfielder",0,0,0,0,0,0,0,0,0
-"Jamie Shackleton","08/10/1999 (22)",168,65,"Leeds United","England","Midfielder",27,8,13,0,4,16,0,0,0
-"Xherdan Shaqiri","10/10/1991",169,0,"Liverpool","Switzerland","Midfielder",129,53,44,0,14,90,22,20,0
-"Teddy Sharman-Lowe","30/03/2003 (19)",189,73,"Chelsea","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Luke Shaw","12/07/1995 (26)",185,75,"Manchester United","England","Defender",208,92,49,1,45,212,2,15,56
-"Jonjo Shelvey","27/02/1992 (30)",184,80,"Newcastle United","England","Midfielder",267,97,105,5,44,226,23,27,0
-"Nathan Shepperd","10/09/2000",0,0,"Brentford","Wales","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Shola Shoretire","02/02/2004 (18)",170,0,"Manchester United","England","Forward",3,2,1,0,0,0,0,0,0
-"Sidnei Tavares","29/09/2001",0,0,"Leicester City","Portugal","Midfielder",2,1,0,0,0,1,0,0,0
-"Francisco Sierralta","06/05/1997",190,0,"Watford","Chile","Defender",5,0,5,0,0,4,0,0,0
-"Gylfi Sigurdsson","08/09/1989",186,0,"Everton","Iceland","Midfielder",318,129,121,0,22,214,67,50,0
-"Abdallah Sima","17/06/2001",0,0,"Brighton and Hove Albion","Senegal","Forward",0,0,0,0,0,0,0,0,0
-"Dynel Simeu","13/03/2002",186,0,"Southampton","England","Defender",0,0,0,0,0,0,0,0,0
-"Ellis Simms","05/01/2001",0,0,"Everton","England","Forward",1,0,0,0,0,0,0,0,0
-"Kamarai Simon-Swyer","04/12/2002 (19)",0,0,"West Ham United","England","Forward",0,0,0,0,0,0,0,0,0
-"Xavier Simons","20/02/2003 (19)",0,0,"Chelsea","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Danel Sinani","05/04/1997",185,0,"Norwich City","Luxembourg","Midfielder",0,0,0,0,0,0,0,0,0
-"Viljami Sinisalo","11/10/2001 (20)",0,0,"Aston Villa","Finland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Moussa Sissoko","16/08/1989",187,0,"Tottenham Hotspur","France","Midfielder",295,126,116,2,44,331,16,25,0
-"Melvin Sitti","14/02/2000",182,0,"Norwich City","France","Midfielder",0,0,0,0,0,0,0,0,0
-"Oliver Skipp","16/09/2000 (21)",175,70,"Tottenham Hotspur","England","Midfielder",33,21,6,0,6,21,0,0,0
-"Cieran Slicker","15/09/2002 (19)",0,0,"Manchester City","Scotland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Thierry Small","01/08/2004 (17)",0,0,"Southampton","England","Defender",0,0,0,0,0,0,0,0,0
-"William Smallbone","21/02/2000 (22)",0,0,"Southampton","Ireland","Midfielder",16,5,7,0,0,7,0,2,0
-"Tom Smith","30/01/2002",0,0,"Arsenal","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Emile Smith Rowe","28/07/2000 (21)",182,79,"Arsenal","England","Midfielder",55,30,17,0,1,10,12,6,0
-"Son Heung-Min","08/07/1992 (29)",183,78,"Tottenham Hotspur","South Korea","Forward",232,132,56,2,6,93,93,46,0
-"Andreas Söndergaard","17/01/2001",189,0,"Wolverhampton Wanderers","Denmark","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Jude Soonsup-Bell","10/01/2004 (18)",0,0,"Chelsea","England","Forward",0,0,0,0,0,0,0,0,0
-"Sebastian Soto","28/07/2000",183,0,"Norwich City","United States","Forward",0,0,0,0,0,0,0,0,0
-"Tomas Soucek","27/02/1995 (27)",192,86,"West Ham United","Czech Republic","Midfielder",86,36,30,1,10,119,18,2,0
-"Boubakary Soumaré","27/02/1999 (23)",188,70,"Leicester City","France","Midfielder",19,7,7,0,0,16,0,1,0
-"Kamal Sowah","09/01/2000",179,0,"Leicester City","Ghana","Midfielder",0,0,0,0,0,0,0,0,0
-"Çaglar Söyüncü","23/05/1996 (26)",185,82,"Leicester City","Turkey","Defender",91,41,28,1,12,81,3,1,22
-"Tony Springett","22/09/2002",0,0,"Norwich City","England","Midfielder",3,0,3,0,1,1,0,0,0
-"Jason Steele","18/08/1990 (31)",188,79,"Brighton & Hove Albion","England","Goalkeeper",1,0,1,0,0,0,0,0,0
-"Jed Steer","23/09/1992",183,0,"Aston Villa","England","Goalkeeper",3,0,3,0,0,0,0,0,0
-"Zack Steffen","02/04/1995 (27)",191,86,"Manchester City","United States","Goalkeeper",2,2,0,0,0,1,0,0,1
-"Dale Stephens","12/06/1989",169,0,"Burnley","England","Midfielder",109,26,52,1,22,149,1,5,0
-"Dujon Sterling","24/10/1999",186,0,"Chelsea","England","Defender",0,0,0,0,0,0,0,0,0
-"Finley Stevens","10/04/2003 (19)",0,0,"Brentford","Wales","Defender",1,0,1,0,0,0,0,0,0
-"Toby Stevenson","22/11/1999",0,0,"Watford","England","Defender",0,0,0,0,0,0,0,0,0
-"Marco Stiepermann","09/02/1991",190,0,"Norwich City","Germany","Forward",24,3,18,0,6,22,0,0,0
-"Jakub Stolarczyk","19/12/2000",0,0,"Leicester City","Poland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"John Stones","28/05/1994 (28)",188,70,"Manchester City","England","Defender",198,118,43,1,7,55,6,0,65
-"James Storer",,0,0,"Wolverhampton Wanderers","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Robert Street","26/09/2001",0,0,"Crystal Palace","England","Forward",0,0,0,0,0,0,0,0,0
-"Pascal Struijk","11/08/1999 (22)",190,0,"Leeds United","Netherlands","Defender",56,20,25,1,9,51,2,0,7
-"Stuart Armstrong","30/03/1992 (30)",183,75,"Southampton","Scotland","Midfielder",117,40,51,0,10,90,14,10,0
-"Isaac Success","07/01/1996",186,0,"Watford","Nigeria","Forward",54,17,27,0,7,38,2,2,0
-"Thanawat Suengchitthawon","08/01/2000 (22)",0,0,"Leicester City","Thailand","Midfielder",0,0,0,0,0,0,0,0,0
-"Crysencio Summerville","30/10/2001 (20)",174,0,"Leeds United","Netherlands","Midfielder",6,1,3,0,0,1,0,0,0
-"Zak Swanson","28/09/2000 (21)",0,0,"Arsenal","England","Defender",0,0,0,0,0,0,0,0,0
-"Sil Swinkels","06/01/2004 (18)",0,0,"Aston Villa","Netherlands","Defender",0,0,0,0,0,0,0,0,0
-"Jacob Sørensen","03/03/1998",0,0,"Norwich City","Denmark","Midfielder",10,2,7,0,0,7,0,0,0
-"Michael Tait","29/01/2001",0,0,"Aston Villa","England","Forward",0,0,0,0,0,0,0,0,0
-"Japhet Tanganga","31/03/1999 (23)",184,76,"Tottenham Hotspur U21","England","Defender",23,11,9,1,5,38,0,0,7
-"Matt Targett","18/09/1995 (26)",183,70,"Newcastle United (Loan)","England","Defender",142,54,59,0,17,92,3,9,34
-"James Tarkowski","19/11/1992",185,0,"Burnley","England","Defender",194,64,83,0,41,176,7,5,52
-"Percy Tau","13/05/1994",175,0,"Brighton and Hove Albion","South Africa","Forward",3,1,1,0,0,0,0,1,0
-"Neil Taylor","07/02/1989",176,0,"Aston Villa","Wales","Defender",146,48,63,0,22,122,0,5,38
-"Allan Tchaptchet","21/12/2001",193,0,"Southampton","France","Defender",1,0,1,0,0,0,0,0,0
-"Nathan Tella","05/07/1999 (22)",0,0,"Southampton","England","Midfielder",33,7,18,0,4,33,1,2,0
-"Thiago","11/04/1991 (31)",174,70,"Liverpool","Spain","Midfielder",49,33,8,0,6,67,2,4,0
-"Thiago Silva","22/09/1984 (37)",183,79,"Chelsea","Brazil","Defender",55,27,14,1,5,25,5,0,20
-"Bobby Thomas","30/01/2001",0,0,"Burnley","England","Defender",0,0,0,0,0,0,0,0,0
-"Dominic Thompson","26/07/2000",0,0,"Brentford","England","Defender",2,0,2,0,0,1,0,0,0
-"Youri Tielemans","07/05/1997 (25)",176,72,"Leicester City","Belgium","Midfielder",120,56,40,0,13,111,18,18,0
-"Kieran Tierney","05/06/1997 (25)",178,70,"Arsenal","Scotland","Defender",64,32,21,0,6,27,3,7,18
-"Tom Dele-Bashiru","17/09/1999",183,0,"Watford","Nigeria","Midfielder",0,0,0,0,0,0,0,0,0
-"Takehiro Tomiyasu","05/11/1998 (23)",188,70,"Arsenal","Japan","Defender",21,13,6,0,2,16,0,1,7
-"James Tomkins","29/03/1989 (33)",192,74,"Crystal Palace","England","Defender",279,88,124,2,49,177,13,7,60
-"Jonathan Tomkinson","11/04/2002",0,0,"Norwich City","United States","Defender",0,0,0,0,0,0,0,0,0
-"Tommi O'Reilly","15/12/2003 (18)",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Fikayo Tomori","19/12/1997",185,0,"Chelsea","England","Defender",17,9,5,0,3,8,1,0,4
-"Ivan Toney","16/03/1996 (26)",179,70,"Brentford","England","Forward",35,12,16,0,8,50,12,5,0
-"Lucas Torreira","11/02/1996",168,0,"Arsenal","Uruguay","Midfielder",63,28,15,1,14,62,3,3,0
-"Ferran Torres","29/02/2000",184,0,"Manchester City","Spain","Forward",28,19,6,0,1,17,9,3,0
-"Cenk Tosun","07/06/1991 (31)",183,78,"Everton","Turkey","Forward",55,15,23,0,4,51,10,3,0
-"Toti","16/01/1999 (23)",187,72,"Wolverhampton Wanderers","Portugal","Defender",4,2,1,0,1,2,0,0,0
-"Andros Townsend","16/07/1991 (30)",181,77,"Everton","England","Midfielder",264,93,119,0,17,113,25,28,0
-"James Trafford","10/10/2002",0,0,"Manchester City U21","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Bertrand Traoré","06/09/1995 (26)",181,73,"Aston Villa","Burkina Faso","Forward",55,17,26,0,1,34,9,7,0
-"Trézéguet","01/10/1994",180,0,"Aston Villa","Egypt","Midfielder",56,17,29,1,2,74,8,2,0
-"Trincão","29/12/1999 (22)",184,70,"Wolverhampton Wanderers (Loan)","Portugal","Forward",28,10,14,0,0,13,2,1,0
-"Kieran Trippier","19/09/1990 (31)",178,71,"Newcastle United","England","Defender",113,57,35,0,7,69,4,18,29
-"William Troost-Ekong","01/09/1993",191,0,"Watford","Nigeria","Defender",17,4,12,0,3,13,0,0,0
-"Leandro Trossard","04/12/1994 (27)",171,61,"Brighton and Hove Albion","Belgium","Forward",100,24,37,0,4,65,18,11,0
-"Nathan Trott","21/11/1998",188,0,"West Ham United","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Auston Trusty","12/08/1998",191,0,"Arsenal","United States","Defender",0,0,0,0,0,0,0,0,0
-"Tom Trybull","09/03/1993",181,0,"Norwich City","Germany","Midfielder",16,2,10,0,2,26,0,0,0
-"Konstantinos Tsimikas","12/05/1996 (26)",178,77,"Liverpool","Greece","Defender",15,9,2,0,3,21,0,2,3
-"Antef Tsoungui","30/12/2002 (19)",0,0,"Brighton & Hove Albion","England","Defender",0,0,0,0,0,0,0,0,0
-"Axel Tuanzebe","14/11/1997",186,0,"Aston Villa (Loan)","England","Defender",28,12,9,0,3,18,0,0,2
-"Ozan Tufan","23/03/1995",179,0,"Watford (Loan)","Turkey","Midfielder",7,1,5,0,0,9,0,0,0
-"Ed Turns","18/10/2002 (19)",0,0,"Brighton and Hove Albion","Wales","Defender",0,0,0,0,0,0,0,0,0
-"Harry Tyrer","06/12/2001 (20)",0,0,"Everton","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Christos Tzolis","30/01/2002",184,0,"Norwich City","Greece","Forward",14,3,8,0,0,2,0,0,0
-"Iké Ugbo","21/09/1998",184,0,"Chelsea","Canada","Forward",0,0,0,0,0,0,0,0,0
-"Deniz Undav","19/07/1996",179,0,"Brighton and Hove Albion","Germany","Forward",0,0,0,0,0,0,0,0,0
-"Cengiz Ünder","14/07/1997",173,0,"Leicester City (Loan)","Turkey","Forward",9,2,6,0,0,1,0,2,0
-"Harvey Vale","11/09/2003 (18)",0,0,"Chelsea","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Joel Valencia","16/11/1994",164,0,"Brentford","Ecuador","Forward",0,0,0,0,0,0,0,0,0
-"Yan Valery","22/02/1999 (23)",180,85,"Southampton","France","Defender",42,13,20,1,4,38,2,1,4
-"Patrick van Aanholt","29/08/1990",176,0,"Crystal Palace","Netherlands","Defender",213,63,103,0,21,105,20,15,44
-"Donny van de Beek","18/04/1997 (25)",184,76,"Everton (Loan)","Netherlands","Midfielder",34,16,13,0,2,14,3,1,0
-"Virgil van Dijk","08/07/1991 (30)",193,92,"Liverpool","Netherlands","Defender",196,124,33,1,12,101,17,4,82
-"Mikki van Sas","29/02/2004",0,0,"Manchester City","Netherlands","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Raphaël Varane","25/04/1993 (29)",191,81,"Manchester United","France","Defender",22,10,4,0,0,5,1,1,5
-"Jamie Vardy","11/01/1987 (35)",179,74,"Leicester City","England","Forward",270,114,95,3,23,215,133,40,0
-"Indiana Vassilev","16/02/2001",173,0,"Aston Villa","United States","Midfielder",4,1,2,0,0,0,0,0,0
-"Joël Veltman","15/01/1992 (30)",184,75,"Brighton and Hove Albion","Netherlands","Defender",62,15,21,0,9,73,2,2,15
-"Jannik Vestergaard","03/08/1992 (29)",199,98,"Leicester City","Denmark","Defender",82,28,37,1,10,49,4,0,14
-"Vitinha","13/02/2000",172,0,"Wolverhampton Wanderers (Loan)","Portugal","Midfielder",19,5,10,0,0,8,0,1,0
-"Nikola Vlasic","04/10/1997 (24)",178,72,"West Ham United","Croatia","Midfielder",31,10,12,0,0,15,1,0,0
-"Jake Vokins","17/03/2000",180,0,"Southampton","England","Defender",2,0,1,0,0,2,0,0,0
-"Mario Vrancic","23/05/1989",187,0,"Norwich City","Bosnia & Herzegovina","Midfielder",20,1,15,0,3,13,1,0,0
-"Matej Vydra","01/05/1992",180,0,"Burnley","Czech Republic","Midfielder",106,21,53,0,2,24,11,10,0
-"Theo Walcott","16/03/1989 (33)",176,68,"Southampton","England","Forward",377,187,105,0,10,115,78,54,0
-"Jake Walker","03/11/2000",0,0,"Aston Villa","England","Defender",0,0,0,0,0,0,0,0,0
-"Kyle Walker-Peters","13/04/1997 (25)",173,62,"Southampton","England","Defender",84,32,30,0,11,72,1,9,20
-"Sam Waller","09/09/2003",0,0,"Burnley","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Christian Walton","09/11/1995",182,0,"Brighton and Hove Albion","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Aaron Wan-Bissaka","26/11/1997 (24)",183,72,"Manchester United","England","Defender",131,59,39,1,18,92,2,11,41
-"Wanya Marçal-Madivadua","19/10/2002 (19)",0,0,"Leicester City","Portugal","Midfielder",0,0,0,0,0,0,0,0,0
-"Joel Ward","29/10/1989 (32)",188,83,"Crystal Palace","England","Defender",253,80,115,0,40,254,4,6,60
-"James Ward-Prowse","01/11/1994 (27)",173,66,"Southampton","England","Midfielder",305,100,122,2,36,258,40,34,0
-"Ollie Watkins","30/12/1995 (26)",180,70,"Aston Villa","England","Forward",72,28,32,1,9,80,25,7,0
-"Caleb Watts","16/01/2002",171,0,"Southampton U21","Australia","Midfielder",3,0,3,0,1,0,0,0,0
-"Adam Webster","04/01/1995 (27)",191,75,"Brighton and Hove Albion","England","Defender",82,24,26,0,13,53,6,1,18
-"Wout Weghorst","07/08/1992",197,0,"Burnley","Netherlands","Forward",20,6,9,0,3,30,2,3,0
-"Jensen Weir","31/01/2002",184,0,"Brighton and Hove Albion","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Danny Welbeck","26/11/1990 (31)",185,73,"Brighton and Hove Albion","England","Forward",273,130,80,0,13,157,56,23,0
-"Reece Welch","19/09/2003 (18)",0,0,"Everton","England","Defender",0,0,0,0,0,0,0,0,0
-"Jack Wells-Morrison","18/02/2004 (18)",0,0,"Crystal Palace","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Timo Werner","06/03/1996 (26)",180,75,"Chelsea","Germany","Forward",56,30,13,0,3,39,10,9,0
-"Wesley Moraes","26/11/1996",191,0,"Aston Villa","Brazil","Forward",25,7,14,0,3,44,5,1,0
-"Ashley Westwood","01/04/1990",175,0,"Burnley","England","Midfielder",286,77,137,0,52,258,12,31,0
-"Charlie Whitaker","16/09/2003 (18)",0,0,"Everton","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Benjamin White","08/10/1997 (24)",182,78,"Arsenal","England","Defender",68,28,23,1,6,49,0,0,24
-"Alfie Whiteman","02/10/1998",189,0,"Tottenham Hotspur","England","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Connor Wickham","31/03/1993",191,0,"Crystal Palace","England","Forward",120,29,59,0,11,147,19,7,0
-"Georginio Wijnaldum","11/11/1990",175,0,"Liverpool","Netherlands","Midfielder",217,129,41,0,8,99,27,16,0
-"Dylan Williams","13/09/2003 (18)",0,0,"Chelsea","England","Defender",0,0,0,0,0,0,0,0,0
-"Willian","09/08/1988",175,0,"Arsenal","Brazil","Forward",259,148,56,1,21,135,38,38,0
-"Willian José","23/11/1991",189,0,"Wolverhampton Wanderers (Loan)","Brazil","Forward",17,6,7,0,0,8,1,0,0
-"Joseph Willock","20/08/1999 (22)",179,71,"Newcastle United","England","Midfielder",83,30,30,0,3,62,11,1,0
-"Ben Wilmot","04/11/1999",188,0,"Watford","England","Defender",2,1,1,0,0,0,0,0,0
-"Harry Wilson","22/03/1997",173,0,"Liverpool","Wales","Midfielder",31,7,19,0,2,12,7,0,0
-"Joshua Wilson-Esbrand","26/12/2002 (19)",0,0,"Manchester City","England","Defender",0,0,0,0,0,0,0,0,0
-"Harry Winks","02/02/1996 (26)",178,65,"Tottenham Hotspur","England","Midfielder",128,73,33,0,21,80,2,3,0
-"Yoane Wissa","03/09/1996 (25)",176,74,"Brentford","DR Congo","Midfielder",30,11,13,0,0,8,7,1,0
-"Max Woltman","20/08/2003 (18)",0,0,"Liverpool","England","Forward",0,0,0,0,0,0,0,0,0
-"Chris Wood","07/12/1991 (30)",191,81,"Newcastle United","New Zealand","Forward",171,55,73,0,5,154,52,7,0
-"Ben Woodburn","15/10/1999",174,0,"Liverpool","Wales","Midfielder",6,5,1,0,0,2,0,0,0
-"Freddie Woodman","04/03/1997",188,0,"Newcastle United","England","Goalkeeper",4,0,3,0,0,0,0,0,0
-"Sam Woods","11/09/1998",0,0,"Crystal Palace","England","Defender",0,0,0,0,0,0,0,0,0
-"Xande Silva","16/03/1997",177,0,"West Ham United","Portugal","Forward",1,0,1,0,0,0,0,0,0
-"Granit Xhaka","27/09/1992 (29)",185,82,"Arsenal","Switzerland","Midfielder",188,99,54,4,52,263,10,17,0
-"Yan Couto","03/06/2002",169,0,"Manchester City","Brazil","Defender",0,0,0,0,0,0,0,0,0
-"Romaric Yapi","13/07/2000",178,0,"Brighton and Hove Albion","France","Defender",0,0,0,0,0,0,0,0,0
-"Andriy Yarmolenko","23/10/1989 (32)",189,81,"West Ham United","Ukraine","Forward",66,22,27,0,8,33,8,2,0
-"Brad Young","06/01/2003",0,0,"Aston Villa","England","Midfielder",0,0,0,0,0,0,0,0,0
-"Nathan Young-Coombes","15/01/2003 (19)",0,0,"Brentford","England","Forward",1,1,0,0,0,1,0,0,0
-"Wilfried Zaha","10/11/1992 (29)",180,66,"Crystal Palace","Cote D’Ivoire","Forward",278,89,117,2,43,352,61,27,0
-"Jan Zamburek","13/02/2001",182,0,"Brentford","Czech Republic","Midfielder",0,0,0,0,0,0,0,0,0
-"Zanka","23/04/1990 (32)",191,79,"Brentford","Denmark","Defender",70,13,41,0,14,88,4,3,14
-"Davide Zappacosta","11/06/1992",185,0,"Chelsea","Italy","Defender",26,17,4,0,0,9,1,1,4
-"Andi Zeqiri","22/06/1999",181,0,"Brighton and Hove Albion","Switzerland","Forward",9,4,2,0,0,2,0,0,0
-"Zidane Iqbal","27/04/2003 (19)",0,0,"Manchester United","Iraq","Midfielder",0,0,0,0,0,0,0,0,0
-"Karlo Ziger","11/05/2001",0,0,"Chelsea U21","Croatia","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Christoph Zimmermann","12/01/1993",194,0,"Norwich City","Germany","Defender",20,2,13,0,3,10,0,1,3
-"Oleksandr Zinchenko","15/12/1996 (25)",175,64,"Manchester City","Ukraine","Defender",76,62,11,1,2,55,0,7,0
-"Philip Zinckernagel","16/12/1994",175,0,"Watford","Denmark","Forward",0,0,0,0,0,0,0,0,0
-"Hakim Ziyech","19/03/1993 (29)",180,65,"Chelsea","Morocco","Midfielder",46,23,10,0,6,43,6,6,0
-"Kurt Zouma","27/10/1994 (27)",190,96,"West Ham United","France","Defender",189,82,65,1,14,114,10,4,49
-"Oliwier Zych","28/06/2004",0,0,"Aston Villa","Poland","Goalkeeper",0,0,0,0,0,0,0,0,0
-"Martin Ødegaard","17/12/1998 (23)",178,68,"Arsenal","Norway","Midfielder",50,29,15,0,4,28,8,6,0
-"Leo Østigård","28/11/1999",182,0,"Brighton and Hove Albion","Norway","Defender",0,0,0,0,0,0,0,0,0
+name,birthday,height,weight,team,country,position,matchNumber,winMatchNumber,lossMatchNumber,redCardNumber,yellowCardNumber,foulNumber,goal,assist,cleanSheetMatch,worth
+Andrew Moran,15/10/2003 (18),0,0,Brighton & Hove Albion,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,75000000
+Joshua Wilson-Esbrand,26/12/2002 (19),0,0,Manchester City,England,Defender,0,0,0,0,0,0,0,0,0,69000000
+Achraf Lazaar,22/01/1992,184,0,Watford,Morocco,Defender,0,0,0,0,0,0,0,0,0,64000000
+Jack Grieves,5/12/2004,0,0,Watford,England,Forward,0,0,0,0,0,0,0,0,0,52000000
+Reece Hannam,11/09/2000 (21),0,0,Crystal Palace,England,Defender,0,0,0,0,0,0,0,0,0,49000000
+James Hillson,14/01/2001,0,0,Arsenal,England,Goalkeeper,0,0,0,0,0,0,0,0,0,49000000
+Reece McAlear,12/2/2002,185,0,Norwich City,Scotland,Midfielder,0,0,0,0,0,0,0,0,0,49000000
+James Storer,,0,0,Wolverhampton Wanderers,England,Goalkeeper,0,0,0,0,0,0,0,0,0,49000000
+Ryan Alebiosu,17/12/2001,0,0,Arsenal,England,Defender,0,0,0,0,0,0,0,0,0,47000000
+Ryan Finnigan,23/09/2003,0,0,Southampton,England,Midfielder,0,0,0,0,0,0,0,0,0,47000000
+Jan Zamburek,13/02/2001,182,0,Brentford,Czech Republic,Midfielder,0,0,0,0,0,0,0,0,0,43000000
+Christian Marques,15/01/2003,187,0,Wolverhampton Wanderers,Portugal,Defender,0,0,0,0,0,0,0,0,0,42000000
+Julián Álvarez,31/01/2000,173,0,Manchester City,Argentina,Forward,0,0,0,0,0,0,0,0,0,41000000
+Thomas McGill,25/03/2000 (22),0,0,Brighton and Hove Albion,England,Goalkeeper,0,0,0,0,0,0,0,0,0,41000000
+Aaron Pressley,7/11/2001,189,0,Brentford,Scotland,Forward,0,0,0,0,0,0,0,0,0,41000000
+Bobby Thomas,30/01/2001,0,0,Burnley,England,Defender,0,0,0,0,0,0,0,0,0,41000000
+Anthony Mancini,6/4/2001,180,0,Burnley,France,Midfielder,0,0,0,0,0,0,0,0,0,38000000
+Callum Rowe,2/9/1999,0,0,Aston Villa,England,Defender,0,0,0,0,0,0,0,0,0,36000000
+Edward Rowe,17/10/2003,0,0,Aston Villa U21,England,Midfielder,0,0,0,0,0,0,0,0,0,36000000
+Harvey Blair,14/09/2003 (18),0,0,Liverpool,England,Forward,0,0,0,0,0,0,0,0,0,34000000
+Benjamin Chrisene,12/01/2004 (18),0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,34000000
+Tyler Dibling,,0,0,Southampton,England,Midfielder,0,0,0,0,0,0,0,0,0,32000000
+Jacob Montes,20/10/1998,0,0,Crystal Palace,United States,Midfielder,0,0,0,0,0,0,0,0,0,28000000
+Luke Daniels,5/1/1988,185,0,Brentford,England,Goalkeeper,1,0,0,0,0,0,0,0,0,27000000
+Stephen Henderson,2/5/1988,193,0,Crystal Palace,Ireland,Goalkeeper,0,0,0,0,0,0,0,0,0,27000000
+Lewis Brunt,06/11/2000 (21),0,0,Leicester City,England,Midfielder,1,0,1,0,0,0,0,0,0,25000000
+Lewis Gordon,12/02/2001 (21),0,0,Brentford,England,Defender,0,0,0,0,0,0,0,0,0,25000000
+Lars Dendoncker,03/04/2001 (21),0,0,Brighton and Hove Albion,Belgium,Defender,0,0,0,0,0,0,0,0,0,24000000
+William Saliba,24/03/2001,192,0,Arsenal,France,Defender,0,0,0,0,0,0,0,0,0,23000000
+Joel Valencia,16/11/1994,164,0,Brentford,Ecuador,Forward,0,0,0,0,0,0,0,0,0,23000000
+Tiago Çukur,30/11/2002,196,0,Watford,Turkey,Forward,0,0,0,0,0,0,0,0,0,21000000
+Adam Parkes,30/11/1999,0,0,Watford,England,Goalkeeper,0,0,0,0,0,0,0,0,0,21000000
+Nya Kirby,31/01/2000,174,0,Crystal Palace,England,Midfielder,0,0,0,0,0,0,0,0,0,20000000
+Rafa Mir,18/06/1997,191,0,Wolverhampton Wanderers,Spain,Forward,0,0,0,0,0,0,0,0,0,20000000
+Oliver Ewing,03/01/2003 (19),0,0,Leicester City,Wales,Midfielder,0,0,0,0,0,0,0,0,0,18000000
+Luka Racic,8/5/1999,0,0,Brentford,Denmark,Defender,0,0,0,0,0,0,0,0,0,18000000
+Joseph McGlynn,27/09/2002,0,0,Burnley U18,Scotland,Forward,0,0,0,0,0,0,0,0,0,17000000
+Pape Sarr,14/09/2002,185,0,Tottenham Hotspur,Senegal,Midfielder,0,0,0,0,0,0,0,0,0,16000000
+Jamie Bowden,09/07/2001 (20),0,0,Tottenham Hotspur,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,14000000
+Iker Pozo,6/8/2000,0,0,Manchester City,Spain,Midfielder,0,0,0,0,0,0,0,0,0,14000000
+Armstrong Oko-Flex,02/03/2002 (20),0,0,West Ham United,Ireland,Forward,0,0,0,0,0,0,0,0,0,13000000
+Taylor Jay-Hart,18/12/2003,179,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,12000000
+Jon McCracken,24/05/2000,0,0,Norwich City,Scotland,Goalkeeper,0,0,0,0,0,0,0,0,0,11000000
+Yan Couto,3/6/2002,169,0,Manchester City,Brazil,Defender,0,0,0,0,0,0,0,0,0,11000000
+Taiwo Awoniyi,12/8/1997,183,0,Liverpool,Nigeria,Forward,0,0,0,0,0,0,0,0,0,10000000
+Kaine Hayden,23/10/2002,0,0,Aston Villa,England,Defender,0,0,0,0,0,0,0,0,0,10000000
+Isaac Mabaya,22/09/2004 (17),0,0,Liverpool,England,Midfielder,0,0,0,0,0,0,0,0,0,10000000
+Folarin Balogun,3/7/2001,178,0,Arsenal,England,Forward,2,0,2,0,0,0,0,0,0,9000000
+Remi Matthews,10/02/1994 (28),184,78,Crystal Palace,England,Goalkeeper,0,0,0,0,0,0,0,0,0,9000000
+Toby Stevenson,22/11/1999,0,0,Watford,England,Defender,0,0,0,0,0,0,0,0,0,9000000
+Iké Ugbo,21/09/1998,184,0,Chelsea,Canada,Forward,0,0,0,0,0,0,0,0,0,9000000
+Aaron Ramsey,21/01/2003,0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,8000000
+Taylor Harwood-Bellis,30/01/2002,188,0,Manchester City,England,Defender,0,0,0,0,0,0,0,0,0,8000000
+Andy Lonergan,19/10/1983 (38),192,87,Everton,England,Goalkeeper,0,0,0,0,0,0,0,0,0,8000000
+Philip Zinckernagel,16/12/1994,175,0,Watford,Denmark,Forward,0,0,0,0,0,0,0,0,0,8000000
+Samuel Kalu,26/08/1997,176,0,Watford,Nigeria,Forward,4,0,3,0,0,0,0,0,0,7000000
+Michael McGovern,12/7/1984,191,0,Norwich City,Northern Ireland,Goalkeeper,2,0,2,0,0,0,0,0,0,7000000
+Liam McCarron,07/03/2001 (21),175,0,Leeds United,Scotland,Midfielder,1,0,1,0,0,0,0,0,0,7000000
+Will Alves,04/02/2005 (17),0,0,Leicester City,England,Forward,0,0,0,0,0,0,0,0,0,7000000
+Kamil Conteh,26/12/2002,177,0,Watford,England,Midfielder,0,0,0,0,0,0,0,0,0,7000000
+Will Ferry,7/12/2000,176,0,Southampton,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,7000000
+Kamil Grabara,8/1/1999,195,0,Liverpool,Poland,Goalkeeper,0,0,0,0,0,0,0,0,0,7000000
+Viktor Gyökeres,4/6/1998,187,0,Brighton and Hove Albion,Sweden,Forward,0,0,0,0,0,0,0,0,0,7000000
+Erik Palmer-Brown,24/04/1997,187,0,Manchester City,United States,Defender,0,0,0,0,0,0,0,0,0,7000000
+Arjan Raikhy,20/10/2002,0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,7000000
+Kamal Sowah,9/1/2000,179,0,Leicester City,Ghana,Midfielder,0,0,0,0,0,0,0,0,0,7000000
+Deniz Undav,19/07/1996,179,0,Brighton and Hove Albion,Germany,Forward,0,0,0,0,0,0,0,0,0,7000000
+Oscar Bobb,12/07/2003 (18),0,0,Manchester City,Norway,Midfielder,0,0,0,0,0,0,0,0,0,6000000
+Cameron Carter-Vickers,31/12/1997,183,0,Tottenham Hotspur,United States,Defender,0,0,0,0,0,0,0,0,0,6000000
+Kaoru Mitoma,20/05/1997,178,0,Brighton and Hove Albion,Japan,Forward,0,0,0,0,0,0,0,0,0,6000000
+Facundo Pellistri,20/12/2001,175,0,Manchester United,Uruguay,Midfielder,0,0,0,0,0,0,0,0,0,6000000
+Abdallah Sima,17/06/2001,0,0,Brighton and Hove Albion,Senegal,Forward,0,0,0,0,0,0,0,0,0,6000000
+Edo Kayembe,3/6/1998,183,0,Watford,DR Congo,Midfielder,13,0,10,0,0,4,0,0,0,5000000
+Finley Stevens,10/04/2003 (19),0,0,Brentford,Wales,Defender,1,0,1,0,0,0,0,0,0,5000000
+Finley Burns,17/06/2003,0,0,Manchester City,England,Defender,0,0,0,0,0,0,0,0,0,5000000
+Kacper Kozlowski,16/10/2003,177,0,Brighton and Hove Albion,Poland,Midfielder,0,0,0,0,0,0,0,0,0,5000000
+Jake Walker,3/11/2000,0,0,Aston Villa,England,Defender,0,0,0,0,0,0,0,0,0,5000000
+Freddie Woodman,4/3/1997,188,0,Newcastle United,England,Goalkeeper,4,0,3,0,0,0,0,0,0,4000000
+J'Neil Bennett,07/12/2001 (20),0,0,Tottenham Hotspur,England,Forward,0,0,0,0,0,0,0,0,0,4000000
+Caleb Chukwuemeka,25/01/2002,0,0,Aston Villa,England,Forward,0,0,0,0,0,0,0,0,0,4000000
+Shea Charles,5/11/2003,0,0,Manchester City,Northern Ireland,Defender,0,0,0,0,0,0,0,0,0,4000000
+Sam Dalby,7/12/1999,0,0,Watford,England,Forward,0,0,0,0,0,0,0,0,0,4000000
+Pierluigi Gollini,18/03/1995 (27),194,94,Tottenham Hotspur (Loan),Italy,Goalkeeper,0,0,0,0,0,0,0,0,0,4000000
+Roméo Lavia,06/01/2004 (18),0,0,Manchester City,Belgium,Midfielder,0,0,0,0,0,0,0,0,0,4000000
+Dilan Markanday,20/08/2001,0,0,Tottenham Hotspur,England,Forward,0,0,0,0,0,0,0,0,0,4000000
+Maduka Okoye,28/08/1999,197,0,Watford,Nigeria,Goalkeeper,0,0,0,0,0,0,0,0,0,4000000
+Freddie Potts,12/09/2003 (18),0,0,West Ham United U21,England,Midfielder,0,0,0,0,0,0,0,0,0,4000000
+Sam Woods,11/9/1998,0,0,Crystal Palace,England,Defender,0,0,0,0,0,0,0,0,0,4000000
+Leo Østigård,28/11/1999,182,0,Brighton and Hove Albion,Norway,Defender,0,0,0,0,0,0,0,0,0,4000000
+Ellis Simms,5/1/2001,0,0,Everton,England,Forward,1,0,0,0,0,0,0,0,0,3000000
+Jason Steele,18/08/1990 (31),188,79,Brighton & Hove Albion,England,Goalkeeper,1,0,1,0,0,0,0,0,0,3000000
+Jaime Alvarado,26/07/1999,179,0,Watford,Colombia,Midfielder,0,0,0,0,0,0,0,0,0,3000000
+Vincent Angelini,12/9/2003,186,0,Watford,Scotland,Goalkeeper,0,0,0,0,0,0,0,0,0,3000000
+Matthew Cox,02/05/2003 (19),0,0,Brentford,England,Goalkeeper,0,0,0,0,0,0,0,0,0,3000000
+Samuel Edozie,28/01/2003 (19),0,0,Manchester City,England,Forward,0,0,0,0,0,0,0,0,0,3000000
+Felix Nmecha,10/10/2000,188,0,Manchester City,Germany,Midfielder,0,0,0,0,0,0,0,0,0,3000000
+Shane Flynn,14/10/2001,0,0,Leicester City,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,3000000
+Melkamu Frauendorf,12/01/2004 (18),0,0,Liverpool,Germany,Midfielder,0,0,0,0,0,0,0,0,0,3000000
+Ryan Giles,26/01/2000,179,0,Wolverhampton Wanderers,England,Midfielder,0,0,0,0,0,0,0,0,0,3000000
+Josh Knight,7/9/1997,185,0,Leicester City,England,Defender,0,0,0,0,0,0,0,0,0,3000000
+Matthew Pollock,28/09/2001,0,0,Watford,England,Defender,0,0,0,0,0,0,0,0,0,3000000
+Thierry Small,01/08/2004 (17),0,0,Southampton,England,Defender,0,0,0,0,0,0,0,0,0,3000000
+Mikki van Sas,29/02/2004,0,0,Manchester City,Netherlands,Goalkeeper,0,0,0,0,0,0,0,0,0,3000000
+Alfie Whiteman,2/10/1998,189,0,Tottenham Hotspur,England,Goalkeeper,0,0,0,0,0,0,0,0,0,3000000
+Max Woltman,20/08/2003 (18),0,0,Liverpool,England,Forward,0,0,0,0,0,0,0,0,0,3000000
+Kane Crichlow,21/08/2000,0,0,Watford,Bermuda,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Francisco Sierralta,6/5/1997,190,0,Watford,Chile,Defender,5,0,5,0,0,4,0,0,0,2000000
+Jimmy Dunne,19/10/1997,183,0,Burnley,Ireland,Defender,3,0,3,0,1,2,1,0,0,2000000
+Jake Vokins,17/03/2000,180,0,Southampton,England,Defender,2,0,1,0,0,2,0,0,0,2000000
+Evan Ferguson,19/10/2004 (17),0,0,Brighton & Hove Albion,Ireland,Forward,1,0,1,0,0,0,0,0,0,2000000
+Tariqe Fosu-Henry,05/11/1995 (26),180,75,Brentford,Ghana,Midfielder,1,0,1,0,0,0,0,0,0,2000000
+Omotayo Adaramola,13/11/2003 (18),0,0,Crystal Palace U21,Ireland,Defender,0,0,0,0,0,0,0,0,0,2000000
+Derek Agyakwa,19/12/2001,0,0,Watford,Netherlands,Defender,0,0,0,0,0,0,0,0,0,2000000
+Yaser Asprilla,19/11/2003,185,0,Watford,Colombia,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Lewis Baker,25/04/1995,182,0,Chelsea,England,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+James Balagizi,20/09/2003 (18),0,0,Liverpool,England,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Nathan Baxter,8/11/1998,191,0,Chelsea,England,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Filip Benkovic,13/07/1997,194,0,Leicester City,Croatia,Defender,0,0,0,0,0,0,0,0,0,2000000
+Nathan Bishop,15/10/1999,185,0,Manchester United,England,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Dara Costelloe,11/12/2002,0,0,Burnley,Ireland,Forward,0,0,0,0,0,0,0,0,0,2000000
+Henrik Dalsgaard,27/07/1989,192,0,Brentford,Denmark,Defender,0,0,0,0,0,0,0,0,0,2000000
+Halil Dervisoglu,8/12/1999,183,0,Brentford,Turkey,Forward,0,0,0,0,0,0,0,0,0,2000000
+Frankie Ealing,14/07/2004,0,0,Aston Villa,England,Defender,0,0,0,0,0,0,0,0,0,2000000
+Emiliano Marcondes,9/3/1995,182,0,Brentford,Denmark,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Claudio Gomes,23/07/2000,164,0,Manchester City,France,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Vítezslav Jaros,23/07/2001,0,0,Liverpool,Czech Republic,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Hayao Kawabe,8/9/1995,178,0,Wolverhampton Wanderers,Japan,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Matej Kovár,17/05/2000,184,0,Manchester United,Czech Republic,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Luke Mbete,18/09/2003 (18),0,0,Manchester City,England,Defender,0,0,0,0,0,0,0,0,0,2000000
+Yerson Mosquera,02/05/2001 (21),187,76,Wolverhampton Wanderers,Colombia,Defender,0,0,0,0,0,0,0,0,0,2000000
+Arijanet Muric,7/11/1998,198,0,Manchester City,Kosovo,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Luke Plange,4/11/2002,178,0,Crystal Palace,England,Forward,0,0,0,0,0,0,0,0,0,2000000
+Maurizio Pochettino,30/03/2001,0,0,Watford,Spain,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Teddy Sharman-Lowe,30/03/2003 (19),189,73,Chelsea,England,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Nathan Shepperd,10/9/2000,0,0,Brentford,Wales,Goalkeeper,0,0,0,0,0,0,0,0,0,2000000
+Danel Sinani,5/4/1997,185,0,Norwich City,Luxembourg,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Zak Swanson,28/09/2000 (21),0,0,Arsenal,England,Defender,0,0,0,0,0,0,0,0,0,2000000
+Harvey Vale,11/09/2003 (18),0,0,Chelsea,England,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Jack Wells-Morrison,18/02/2004 (18),0,0,Crystal Palace,England,Midfielder,0,0,0,0,0,0,0,0,0,2000000
+Jeremy Sarmiento,16/06/2002 (19),0,0,Brighton and Hove Albion,Ecuador,Forward,5,0,1,0,0,0,0,0,0,1000000
+Tony Springett,22/09/2002,0,0,Norwich City,England,Midfielder,3,0,3,0,1,1,0,0,0,1000000
+João Virgínia,10/10/1999,198,0,Everton,Portugal,Goalkeeper,1,0,1,0,0,0,0,0,0,1000000
+Sonny Perkins,10/02/2004 (18),0,0,West Ham United,England,Midfielder,1,0,1,0,0,0,0,0,0,1000000
+Billy Arce,12/7/1998,178,0,Brighton and Hove Albion,Ecuador,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Adrián Bernabé,26/05/2001,170,0,Manchester City,Spain,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Lamare Bogarde,05/01/2004 (18),0,0,Aston Villa,Netherlands,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Bendeguz Bolla,22/11/1999,0,0,Wolverhampton Wanderers,Hungary,Defender,0,0,0,0,0,0,0,0,0,1000000
+Conor Bradley,09/07/2003 (18),0,0,Liverpool,Northern Ireland,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Elia Caprile,25/08/2001,0,0,Leeds United,Italy,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Conor Coventry,25/03/2000,177,0,West Ham United,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Jamie Cumming,4/9/1999,186,0,Chelsea,England,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Vontae Daley-Campbell,2/4/2001,0,0,Leicester City,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Alfie Devine,01/08/2004 (17),179,75,Tottenham Hotspur,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Pierre Ekwah,15/01/2002 (20),0,0,West Ham United,France,Defender,0,0,0,0,0,0,0,0,0,1000000
+Josh Feeney,06/05/2005 (17),0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Alex Gilbert,28/12/2001,0,0,Brentford,Ireland,Forward,0,0,0,0,0,0,0,0,0,1000000
+Jack Jenkins,23/03/2002 (20),0,0,Leeds United,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Teddy Jenks,12/3/2002,191,0,Brighton and Hove Albion,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Michal Karbownik,13/03/2001,0,0,Brighton and Hove Albion,Poland,Defender,0,0,0,0,0,0,0,0,0,1000000
+Alex Kirk,27/10/2002 (19),0,0,Arsenal,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Lewis Hall,08/09/2004 (17),0,0,Chelsea,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Paris Maghoma,08/05/2001 (21),0,0,Brentford,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Teden Mengi,30/04/2002,183,0,Manchester United,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Myles Peart-Harris,18/09/2002 (19),0,0,Brentford,England,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Stipe Perica,7/7/1995,192,0,Watford,Croatia,Forward,0,0,0,0,0,0,0,0,0,1000000
+Omar Rekik,20/12/2001,186,0,Arsenal,Tunisia,Defender,0,0,0,0,0,0,0,0,0,1000000
+Morgan Rogers,26/07/2002,0,0,Manchester City,England,Forward,0,0,0,0,0,0,0,0,0,1000000
+Charlie Savage,02/05/2003 (19),0,0,Manchester United,Wales,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Kjell Scherpen,23/01/2000 (22),204,98,Brighton and Hove Albion,Netherlands,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Dynel Simeu,13/03/2002,186,0,Southampton,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Cieran Slicker,15/09/2002 (19),0,0,Manchester City,Scotland,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Dujon Sterling,24/10/1999,186,0,Chelsea,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Tom Dele-Bashiru,17/09/1999,183,0,Watford,Nigeria,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Auston Trusty,12/8/1998,191,0,Arsenal,United States,Defender,0,0,0,0,0,0,0,0,0,1000000
+Ed Turns,18/10/2002 (19),0,0,Brighton and Hove Albion,Wales,Defender,0,0,0,0,0,0,0,0,0,1000000
+Harry Tyrer,06/12/2001 (20),0,0,Everton,England,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Christian Walton,9/11/1995,182,0,Brighton and Hove Albion,England,Goalkeeper,0,0,0,0,0,0,0,0,0,1000000
+Dylan Williams,13/09/2003 (18),0,0,Chelsea,England,Defender,0,0,0,0,0,0,0,0,0,1000000
+Zidane Iqbal,27/04/2003 (19),0,0,Manchester United,Iraq,Midfielder,0,0,0,0,0,0,0,0,0,1000000
+Kwadwo Baah,27/01/2003,0,0,Watford,Germany,Midfielder,0,0,0,0,0,0,0,0,0,900000
+Louie Barry,21/06/2003,0,0,Aston Villa,England,Forward,0,0,0,0,0,0,0,0,0,900000
+Liam Gibbs,16/12/2002,0,0,Norwich City,England,Midfielder,0,0,0,0,0,0,0,0,0,900000
+Tyreece John-Jules,14/02/2001,183,0,Arsenal,England,Forward,0,0,0,0,0,0,0,0,0,900000
+Billy Koumetio,14/11/2002 (19),0,0,Liverpool,France,Defender,0,0,0,0,0,0,0,0,0,900000
+Dylan Levitt,17/11/2000,180,0,Manchester United,Wales,Midfielder,0,0,0,0,0,0,0,0,0,900000
+Josh Oluwayemi,13/03/2001,0,0,Tottenham Hotspur,England,Goalkeeper,0,0,0,0,0,0,0,0,0,900000
+Salah-Eddine Oulad M'hand,20/08/2003 (18),0,0,Arsenal,Netherlands,Midfielder,0,0,0,0,0,0,0,0,0,900000
+Xavi Quintillá,23/08/1996,183,0,Norwich City (Loan),Spain,Defender,0,0,0,0,0,0,0,0,0,900000
+Sil Swinkels,06/01/2004 (18),0,0,Aston Villa,Netherlands,Defender,0,0,0,0,0,0,0,0,0,900000
+Charlie Whitaker,16/09/2003 (18),0,0,Everton,England,Midfielder,0,0,0,0,0,0,0,0,0,900000
+Kane O'Connor,17/01/2001,0,0,Brentford,Scotland,Defender,0,0,0,0,0,0,0,0,0,800000
+Niels Nkounkou,1/11/2000,180,0,Everton,France,Defender,2,0,2,0,1,1,0,0,0,800000
+Niall Huggins,18/12/2000,0,0,Leeds United,Wales,Defender,1,0,1,0,0,0,0,0,0,800000
+Ajibola Alese,17/01/2001 (21),0,0,West Ham United,England,Defender,0,0,0,0,0,0,0,0,0,800000
+Marcel Lavinier,16/12/2000 (21),180,0,Tottenham Hotspur,Portugal,Defender,0,0,0,0,0,0,0,0,0,800000
+Malachi Boateng,5/7/2002,0,0,Crystal Palace,England,Midfielder,0,0,0,0,0,0,0,0,0,800000
+Marcelo Pitaluga,20/12/2002 (19),192,77,Liverpool,Brazil,Goalkeeper,0,0,0,0,0,0,0,0,0,800000
+Jan Mlakar,23/10/1998,183,0,Brighton and Hove Albion,Slovenia,Forward,0,0,0,0,0,0,0,0,0,800000
+James Morris,23/11/2001,0,0,Watford,England,Defender,0,0,0,0,0,0,0,0,0,800000
+Odeluga Offiah,26/10/2002 (19),0,0,Brighton & Hove Albion,England,Defender,0,0,0,0,0,0,0,0,0,800000
+Charlie Patino,17/10/2003 (18),0,0,Arsenal,England,Midfielder,0,0,0,0,0,0,0,0,0,800000
+Matija Sarkic,23/07/1997 (24),195,0,Wolverhampton Wanderers,Montenegro,Goalkeeper,0,0,0,0,0,0,0,0,0,800000
+Tom Smith,30/01/2002,0,0,Arsenal,England,Goalkeeper,0,0,0,0,0,0,0,0,0,800000
+Alejandro Garnacho,01/07/2004 (17),180,80,Manchester United,Argentina,Midfielder,2,0,1,0,0,1,0,0,0,700000
+Reda Khadra,4/7/2001,0,0,Brighton & Hove Albion,Germany,Midfielder,1,0,1,0,0,0,0,0,0,700000
+Isaac Price,26/09/2003 (18),0,0,Everton,Northern Ireland,Midfielder,1,0,1,0,0,0,0,0,0,700000
+Ryan Astley,04/10/2001 (20),0,0,Everton,Wales,Defender,0,0,0,0,0,0,0,0,0,700000
+Alex Cochrane,21/04/2000,0,0,Brighton and Hove Albion,England,Defender,0,0,0,0,0,0,0,0,0,700000
+Malachi Fagan-Walcott,11/03/2002 (20),0,0,Tottenham Hotspur,England,Defender,0,0,0,0,0,0,0,0,0,700000
+James Furlong,07/06/2002 (20),0,0,Brighton & Hove Albion,Ireland,Defender,0,0,0,0,0,0,0,0,0,700000
+Patrik Gunnarsson,15/11/2000 (21),190,84,Brentford,Iceland,Goalkeeper,0,0,0,0,0,0,0,0,0,700000
+Micah Hamilton,13/11/2003,0,0,Manchester City,England,Midfielder,0,0,0,0,0,0,0,0,0,700000
+Philip Heise,20/06/1991,184,0,Norwich City,Germany,Defender,0,0,0,0,0,0,0,0,0,700000
+Joe Hugill,19/10/2003,0,0,Manchester United,England,Forward,0,0,0,0,0,0,0,0,0,700000
+Joseph Hungbo,15/01/2000,0,0,Watford,England,Midfielder,0,0,0,0,0,0,0,0,0,700000
+Kris Moore,13/11/2003 (18),0,0,Leeds United,England,Defender,0,0,0,0,0,0,0,0,0,700000
+Ademipo Odubeko,21/10/2002,0,0,West Ham United,Ireland,Forward,0,0,0,0,0,0,0,0,0,700000
+Jarell Quansah,29/01/2003 (19),0,0,Liverpool,England,Defender,0,0,0,0,0,0,0,0,0,700000
+Meritan Shabani,15/03/1999,185,0,Wolverhampton Wanderers,Germany,Midfielder,0,0,0,0,0,0,0,0,0,700000
+Reece Welch,19/09/2003 (18),0,0,Everton,England,Defender,0,0,0,0,0,0,0,0,0,700000
+Jonathan Rowe,30/04/2003,173,0,Norwich City,England,Forward,13,0,10,0,0,3,0,1,0,600000
+Tyler Onyango,04/03/2003 (19),190,0,Everton,England,Midfielder,3,0,2,0,0,0,0,0,0,600000
+Alexandre Jankewitz,25/12/2001,179,0,Southampton,Switzerland,Midfielder,2,0,2,1,0,1,0,0,0,600000
+Dominic Thompson,26/07/2000,0,0,Brentford,England,Defender,2,0,2,0,0,1,0,0,0,600000
+Daniel Chesters,04/04/2002 (20),0,0,West Ham United,England,Midfielder,1,0,1,0,0,0,0,0,0,600000
+Joseph Anderson,6/2/2001,0,0,Everton,England,Defender,0,0,0,0,0,0,0,0,0,600000
+Daniel Barden,2/1/2001,195,0,Norwich City,Wales,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Kallum Cesay,04/09/2002 (19),0,0,Tottenham Hotspur,Sierra Leone,Defender,0,0,0,0,0,0,0,0,0,600000
+Dennis Cirkin,6/4/2002,181,0,Tottenham Hotspur,England,Defender,0,0,0,0,0,0,0,0,0,600000
+Leighton Clarkson,19/10/2001,175,0,Liverpool,England,Midfielder,0,0,0,0,0,0,0,0,0,600000
+Ethan Galbraith,11/5/2001,175,0,Manchester United,Northern Ireland,Midfielder,0,0,0,0,0,0,0,0,0,600000
+Bjorn Hardley,19/12/2002 (19),0,0,Manchester United,Netherlands,Defender,0,0,0,0,0,0,0,0,0,600000
+Karl Hein,13/04/2002,193,0,Arsenal,Estonia,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Jack Henry-Francis,23/09/2003,0,0,Arsenal,Ireland,Midfielder,0,0,0,0,0,0,0,0,0,600000
+Kyle John,13/02/2001,0,0,Everton,England,Defender,0,0,0,0,0,0,0,0,0,600000
+Abu Kamara,,0,0,Norwich City,England,Defender,0,0,0,0,0,0,0,0,0,600000
+Nohan Kenneh,10/01/2003 (19),0,0,Leeds United,England,Midfielder,0,0,0,0,1,0,0,0,0,600000
+Daniel Langley,28/12/2000 (21),0,0,Newcastle United,England,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Emmanuel Longelo,27/12/2000 (21),0,0,West Ham United U21,England,Forward,0,0,0,0,0,0,0,0,0,600000
+Joel Lopez Salguero,31/03/2002,0,0,Arsenal,Spain,Defender,0,0,0,0,0,0,0,0,0,600000
+Matthew Craig,16/04/2003 (19),0,0,Tottenham Hotspur,Scotland,Midfielder,0,0,0,0,0,0,0,0,0,600000
+Mazeed Ogungbo,20/10/2002 (19),0,0,Arsenal,Ireland,Defender,0,0,0,0,0,0,0,0,0,600000
+Arthur Okonkwo,09/09/2001 (20),198,0,Arsenal,England,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Adalberto Peñaranda,31/05/1997,185,0,Watford,Venezuela,Forward,0,0,0,0,0,0,0,0,0,600000
+Dion Sanderson,15/12/1999,0,0,Wolverhampton Wanderers,England,Defender,0,0,0,0,0,0,0,0,0,600000
+Jude Soonsup-Bell,10/01/2004 (18),0,0,Chelsea,England,Forward,0,0,0,0,0,0,0,0,0,600000
+James Trafford,10/10/2002,0,0,Manchester City U21,England,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Oliwier Zych,28/06/2004,0,0,Aston Villa,Poland,Goalkeeper,0,0,0,0,0,0,0,0,0,600000
+Nathan Holland,19/06/1998,178,0,West Ham United U21,England,Midfielder,2,0,2,0,0,0,0,0,0,500000
+Lewis Richardson,7/2/2003,0,0,Burnley,England,Midfielder,2,0,2,0,0,0,0,0,0,500000
+Keenan Appiah-Forson,16/10/2001 (20),0,0,West Ham United,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Zach Awe,09/01/2004 (18),0,0,Arsenal,England,Defender,0,0,0,0,0,0,0,0,0,500000
+Mason Barrett,24/09/1999,0,0,Watford,England,Defender,0,0,0,0,0,0,0,0,0,500000
+Owen Beck,09/08/2002 (19),0,0,Liverpool,Wales,Defender,0,0,0,0,0,0,0,0,0,500000
+Sammy Braybrooke,12/03/2004 (18),0,0,Leicester City,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Jake Cain,2/9/2001,0,0,Liverpool,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Harry Clarke,2/3/2001,0,0,Arsenal,England,Defender,0,0,0,0,0,0,0,0,0,500000
+Timothy Eyoma,29/01/2000,183,0,Tottenham Hotspur,England,Defender,0,0,0,0,0,0,0,0,0,500000
+Juan Familia-Castillo,13/01/2000,0,0,Chelsea,Netherlands,Defender,0,0,0,0,0,0,0,0,0,500000
+Marcelo Flores,01/10/2003 (18),0,0,Arsenal,Mexico,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Mark Helm,21/10/2001,0,0,Burnley,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Omari Hutchinson,29/10/2003 (18),0,0,Arsenal U21,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Einar Iversen,6/6/2001,0,0,Everton,Norway,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Julian Jeanvier,31/03/1992 (30),185,84,Brentford,Guinea,Defender,0,0,0,0,0,0,0,0,0,500000
+Jeong Sang-Bin,1/4/2002,173,0,Wolverhampton Wanderers,South Korea,Forward,0,0,0,0,0,0,0,0,0,500000
+Lovre Kalinic,3/4/1990,201,0,Aston Villa,Croatia,Goalkeeper,0,0,0,0,0,0,0,0,0,500000
+Nigel Lonwijk,27/10/2002,188,0,Wolverhampton Wanderers,Netherlands,Defender,0,0,0,0,0,0,0,0,0,500000
+Filip Marschall,24/04/2003,0,0,Aston Villa,England,Goalkeeper,0,0,0,0,0,0,0,0,0,500000
+Romaine Mundle,24/04/2003 (19),0,0,Tottenham Hotspur,England,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Jakub Ojrzynski,19/02/2003,0,0,Liverpool,Poland,Goalkeeper,0,0,0,0,0,0,0,0,0,500000
+Kazeem Olaigbe,02/01/2003 (19),0,0,Southampton,Belgium,Forward,0,0,0,0,0,0,0,0,0,500000
+Akos Onodi,2/9/2001,0,0,Aston Villa U21,Hungary,Goalkeeper,0,0,0,0,0,0,0,0,0,500000
+Daniel Oyegoke,03/01/2003 (19),0,0,Brentford,England,Defender,0,0,0,0,0,0,0,0,0,500000
+Maksim Paskotsi,19/01/2003 (19),0,0,Tottenham Hotspur,Estonia,Defender,0,0,0,0,0,0,0,0,0,500000
+Kamarai Simon-Swyer,04/12/2002 (19),0,0,West Ham United,England,Forward,0,0,0,0,0,0,0,0,0,500000
+Jonathan Tomkinson,11/4/2002,0,0,Norwich City,United States,Defender,0,0,0,0,0,0,0,0,0,500000
+Wanya Marçal-Madivadua,19/10/2002 (19),0,0,Leicester City,Portugal,Midfielder,0,0,0,0,0,0,0,0,0,500000
+Taylor Richards,4/12/2000,180,0,Brighton and Hove Albion,England,Midfielder,2,0,2,0,0,1,0,0,0,400000
+Chem Campbell,30/12/2002 (19),0,0,Wolverhampton Wanderers,Wales,Forward,1,0,1,0,0,0,0,0,0,400000
+Theo Corbeanu,17/05/2002,190,0,Wolverhampton Wanderers U21,Canada,Forward,1,0,1,0,0,0,0,0,0,400000
+Akin Famewo,9/11/1998,187,0,Norwich City,England,Defender,1,0,1,0,0,0,0,0,0,400000
+Bali Mumba,1/10/2001,0,0,Norwich City,England,Defender,1,0,1,0,0,0,0,0,0,400000
+Rúnar Rúnarsson,18/02/1995,186,0,Arsenal,Iceland,Goalkeeper,1,0,1,0,0,0,0,0,0,400000
+Luke Bolton,7/10/1999,174,0,Manchester City,England,Midfielder,0,0,0,0,0,0,0,0,0,400000
+Owen Dodgson,19/03/2003,0,0,Burnley,England,Defender,0,0,0,0,0,0,0,0,0,400000
+Maxwell Haygarth,21/01/2002 (20),0,0,Brentford,England,Midfielder,0,0,0,0,0,0,0,0,0,400000
+Pablo Moreno,3/5/2002,174,0,Manchester City,Spain,Forward,0,0,0,0,0,0,0,0,0,400000
+Richard Nartey,6/9/1998,184,0,Burnley,England,Defender,0,0,0,0,0,0,0,0,0,400000
+Tobi Omole,17/12/1999 (22),0,0,Tottenham Hotspur,England,Defender,0,0,0,0,0,0,0,0,0,400000
+Nathan Patterson,16/10/2001 (20),183,72,Everton,Scotland,Defender,0,0,0,0,0,0,0,0,0,400000
+Haydon Roberts,10/05/2002 (20),0,0,Brighton and Hove Albion,England,Defender,0,0,0,0,0,0,0,0,0,400000
+Robert Street,26/09/2001,0,0,Crystal Palace,England,Forward,0,0,0,0,0,0,0,0,0,400000
+Michael Tait,29/01/2001,0,0,Aston Villa,England,Forward,0,0,0,0,0,0,0,0,0,400000
+Tommi O'Reilly,15/12/2003 (18),0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,400000
+Antef Tsoungui,30/12/2002 (19),0,0,Brighton & Hove Albion,England,Defender,0,0,0,0,0,0,0,0,0,400000
+Sam Waller,9/9/2003,0,0,Burnley,England,Goalkeeper,0,0,0,0,0,0,0,0,0,400000
+Josh Martin,9/9/2001,0,0,Norwich City,England,Midfielder,5,0,5,0,0,1,0,0,0,300000
+Bailey Peacock-Farrell,29/10/1996,193,0,Burnley,Northern Ireland,Goalkeeper,4,0,4,0,0,0,0,0,0,300000
+Jed Steer,23/09/1992,183,0,Aston Villa,England,Goalkeeper,3,0,3,0,0,0,0,0,0,300000
+Harrison Ashby,14/11/2001 (20),0,0,West Ham United,Scotland,Defender,1,0,1,0,0,0,0,0,0,300000
+Nathan Broadhead,5/4/1998,178,0,Everton,Wales,Forward,1,0,0,0,0,0,0,0,0,300000
+Bruno Jordão,12/10/1998,180,0,Wolverhampton Wanderers,Portugal,Midfielder,1,0,1,0,0,0,0,0,0,300000
+Stuart McKinstry,18/09/2002 (19),0,0,Leeds United,Scotland,Midfielder,1,0,1,0,0,0,0,0,0,300000
+Xande Silva,16/03/1997,177,0,West Ham United,Portugal,Forward,1,0,1,0,0,0,0,0,0,300000
+Brandon Austin,07/01/1999 (23),188,82,Tottenham Hotspur,England,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Scott Banks,26/09/2001 (20),0,0,Crystal Palace,Scotland,Forward,0,0,0,0,0,0,0,0,0,300000
+Lucas Bergström,05/09/2002 (19),0,0,Chelsea,Finland,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Mungo Bridge,12/9/2000,0,0,Aston Villa,England,Forward,0,0,0,0,0,0,0,0,0,300000
+Ben Cottrell,31/10/2001,0,0,Arsenal,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Pontus Dahlberg,21/01/1999,194,0,Watford,Sweden,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Laurens De Bock,7/11/1992,179,0,Leeds United,Belgium,Defender,0,0,0,0,0,0,0,0,0,300000
+Lucas De Bolle,22/10/2002 (19),0,0,Newcastle United,Scotland,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Thomas Dickson-Peters,16/09/2002,0,0,Norwich City,Scotland,Forward,0,0,0,0,0,0,0,0,0,300000
+Anthony Driscoll-Glennon,26/11/1999,181,0,Burnley,England,Defender,0,0,0,0,0,0,0,0,0,300000
+Ethan Fitzhugh,27/11/2002,0,0,Leicester City,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Mark Gillespie,27/03/1992 (30),192,83,Newcastle United,England,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Mackenzie Hunt,14/11/2001,0,0,Everton,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Jaroslaw Jach,17/02/1994,192,0,Crystal Palace,Poland,Defender,0,0,0,0,0,0,0,0,0,300000
+Marc Leonard,19/12/2001 (20),0,0,Brighton & Hove Albion,Scotland,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Hayden Lindley,02/09/2002 (19),0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Xavier Mbuyamba,31/12/2001 (20),0,0,Chelsea,Netherlands,Defender,0,0,0,0,0,0,0,0,0,300000
+Louie Moulden,6/1/2002,0,0,Wolverhampton Wanderers U21,England,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Jaakko Oksanen,7/11/2000,0,0,Brentford,Finland,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Philippe Sandler,10/2/1997,188,0,Manchester City,Netherlands,Defender,0,0,0,0,0,0,0,0,0,300000
+Xavier Simons,20/02/2003 (19),0,0,Chelsea,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Jakub Stolarczyk,19/12/2000,0,0,Leicester City,Poland,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Nathan Trott,21/11/1998,188,0,West Ham United,England,Goalkeeper,0,0,0,0,0,0,0,0,0,300000
+Romaric Yapi,13/07/2000,178,0,Brighton and Hove Albion,France,Defender,0,0,0,0,0,0,0,0,0,300000
+Brad Young,6/1/2003,0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,300000
+Aston Oxborough,9/5/1998,0,0,Norwich City,England,Goalkeeper,0,0,0,0,0,0,0,0,0,200000
+Caleb Watts,16/01/2002,171,0,Southampton U21,Australia,Midfielder,3,0,3,0,1,0,0,0,0,200000
+Miguel Azeez,20/09/2002 (19),0,0,Arsenal,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Tudor Baluta,27/03/1999 (23),192,80,Brighton and Hove Albion,Romania,Defender,0,0,0,0,0,0,0,0,0,200000
+Mika Biereth,08/02/2003 (19),0,0,Arsenal,England,Forward,0,0,0,0,0,0,0,0,0,200000
+Adrian Blake,15/07/2005,0,0,Watford,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Mateusz Bogusz,22/08/2001,175,0,Leeds United,Poland,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Hugo Bueno,18/09/2002 (19),180,73,Wolverhampton Wanderers,Spain,Defender,0,0,0,0,0,0,0,0,0,200000
+Leonardo Campana,24/07/2000,187,0,Wolverhampton Wanderers,Ecuador,Forward,0,0,0,0,0,0,0,0,0,200000
+Oliver Casey,14/10/2000,188,0,Leeds United,England,Defender,0,0,0,0,0,0,0,0,0,200000
+Elijah Dixon-Bonner,01/01/2001 (21),0,0,Liverpool,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Shaqai Forde,5/5/2004,0,0,Watford,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Peter Gwargis,4/9/2000,0,0,Brighton and Hove Albion,Sweden,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Harrison Sohna,1/7/2002,0,0,Aston Villa,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Zan-Luk Leban,15/12/2002,0,0,Everton,Slovenia,Goalkeeper,0,0,0,0,0,0,0,0,0,200000
+Alfie McCalmont,25/03/2000,0,0,Leeds United,Northern Ireland,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Michael Craig,16/04/2003 (19),0,0,Tottenham Hotspur,Scotland,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Taylor Perry,15/07/2001,0,0,Wolverhampton Wanderers,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Andreas Söndergaard,17/01/2001,189,0,Wolverhampton Wanderers,Denmark,Goalkeeper,0,0,0,0,0,0,0,0,0,200000
+Sebastian Soto,28/07/2000,183,0,Norwich City,United States,Forward,0,0,0,0,0,0,0,0,0,200000
+Jensen Weir,31/01/2002,184,0,Brighton and Hove Albion,England,Midfielder,0,0,0,0,0,0,0,0,0,200000
+Joel Mumbongo,9/1/1999,188,0,Burnley,Sweden,Forward,4,0,3,0,1,1,0,0,0,100000
+Kayne Ramsay,10/10/2000,0,0,Southampton,England,Defender,2,0,2,0,1,1,0,0,0,100000
+Allan Tchaptchet,21/12/2001,193,0,Southampton,France,Defender,1,0,1,0,0,0,0,0,0,100000
+Kgaogelo Chauke,08/01/2003 (19),0,0,Southampton,England,Midfielder,0,0,0,0,0,0,0,0,0,100000
+Viljami Sinisalo,11/10/2001 (20),0,0,Aston Villa,Finland,Goalkeeper,0,0,0,0,0,0,0,0,0,100000
+Melvin Sitti,14/02/2000,182,0,Norwich City,France,Midfielder,0,0,0,0,0,0,0,0,0,100000
+Karlo Ziger,11/5/2001,0,0,Chelsea U21,Croatia,Goalkeeper,0,0,0,0,0,0,0,0,0,100000
+Ellery Balcombe,15/10/1999,190,0,Brentford,England,Goalkeeper,0,0,0,0,0,0,0,0,0,0
+Dexter Lembikisa,04/11/2003 (18),0,0,Wolverhampton Wanderers,England,Defender,0,0,0,0,0,0,0,0,0,0
+Brooklyn Lyons-Foster,01/12/2000 (21),0,0,Tottenham Hotspur,England,Defender,0,0,0,0,0,0,0,0,0,0
+Tawanda Maswanhise,20/11/2002,0,0,Leicester City,England,Midfielder,0,0,0,0,0,0,0,0,0,0
+Chituru Odunze,14/10/2002 (19),200,0,Leicester City,United States,Goalkeeper,0,0,0,0,0,0,0,0,0,0
+Thanawat Suengchitthawon,08/01/2000 (22),0,0,Leicester City,Thailand,Midfielder,0,0,0,0,0,0,0,0,0,0
+Kayky,11/06/2003 (19),175,68,Manchester City,Brazil,Forward,1,1,0,0,0,1,0,0,0,7000000
+Liam Delap,08/02/2003 (19),0,0,Manchester City U21,England,Forward,2,1,1,0,0,2,0,0,0,6000000
+Cody Drameh,8/12/2001,0,0,Leeds United,England,Defender,3,1,2,0,1,2,0,0,0,5000000
+Ben Wilmot,4/11/1999,188,0,Watford,England,Defender,2,1,1,0,0,0,0,0,0,5000000
+Alex Král,19/05/1998 (24),185,72,West Ham United (Loan),Czech Republic,Midfielder,1,1,0,0,0,0,0,0,0,5000000
+Leo Fuhr Hjelde,26/08/2003 (18),188,0,Leeds United,Norway,Defender,2,1,1,0,0,1,0,0,0,4000000
+Tyler Morton,31/10/2002 (19),0,0,Liverpool,England,Midfielder,2,1,0,0,1,1,0,0,0,4000000
+CJ Egan-Riley,02/01/2003 (19),0,0,Manchester City,England,Defender,1,1,0,0,0,0,0,0,0,4000000
+Daniel Bachmann,9/7/1994,191,0,Watford,Austria,Goalkeeper,12,1,11,0,0,1,0,0,0,3000000
+Jarrad Branthwaite,27/06/2002 (19),195,82,Everton,England,Defender,10,1,7,1,0,7,1,0,1,3000000
+Ignacio Pussetto,21/12/1995,180,0,Watford,Argentina,Forward,7,1,4,0,1,3,0,0,0,3000000
+Ozan Tufan,23/03/1995,179,0,Watford (Loan),Turkey,Midfielder,7,1,5,0,0,9,0,0,0,3000000
+Jean-Philippe Gbamin,25/09/1995,186,0,Everton,Cote D’Ivoire,Midfielder,6,1,1,0,0,2,0,0,0,3000000
+Cameron Archer,9/12/2001,0,0,Aston Villa,England,Forward,3,1,2,0,0,3,0,0,0,3000000
+Lewis Bate,28/10/2002 (19),0,0,Leeds United,England,Midfielder,3,1,2,0,0,3,0,0,0,3000000
+Troy Parrott,4/2/2002,185,0,Tottenham Hotspur,Ireland,Forward,2,1,1,0,0,0,0,0,0,3000000
+Tommy Doyle,17/10/2001,0,0,Manchester City,England,Midfielder,1,1,0,0,0,0,0,0,0,3000000
+Onel Hernández,1/2/1993,172,0,Norwich City,Cuba,Midfielder,26,1,19,0,0,14,1,2,0,2000000
+Przemyslaw Placheta,23/03/1998,177,0,Norwich City,Poland,Midfielder,12,1,10,0,1,1,0,0,0,2000000
+Marcus Bettinelli,24/05/1992 (30),194,82,Chelsea,England,Goalkeeper,7,1,4,0,1,0,0,0,0,2000000
+Crysencio Summerville,30/10/2001 (20),174,0,Leeds United,Netherlands,Midfielder,6,1,3,0,0,1,0,0,0,2000000
+Lewis Dobbin,03/01/2003 (19),0,0,Everton,England,Forward,3,1,0,0,1,1,0,0,0,2000000
+Hannibal Mejbri,21/01/2003 (19),177,0,Manchester United,Tunisia,Midfielder,3,1,2,0,2,3,0,0,0,2000000
+Matt Miazga,19/07/1995,191,0,Chelsea,United States,Defender,2,1,1,0,1,1,0,0,1,2000000
+Jesurun Rak-Sakyi,05/10/2002 (19),0,0,Crystal Palace,England,Midfielder,2,1,1,0,0,1,0,0,0,2000000
+Kristoffer Klaesson,27/11/2000 (21),189,76,Leeds United,Norway,Goalkeeper,1,1,0,0,0,0,0,0,0,2000000
+Nathan Young-Coombes,15/01/2003 (19),0,0,Brentford,England,Forward,1,1,0,0,0,1,0,0,0,2000000
+Andrew Omobamidele,23/06/2002,188,0,Norwich City,Ireland,Defender,5,1,4,0,1,3,1,0,0,1000000
+Amad Diallo,11/7/2002,173,0,Manchester United,Cote D’Ivoire,Forward,3,1,1,0,0,2,0,1,0,1000000
+Percy Tau,13/05/1994,175,0,Brighton and Hove Albion,South Africa,Forward,3,1,1,0,0,0,0,1,0,1000000
+Jake Clarke-Salter,22/09/1997,188,0,Chelsea,England,Defender,1,1,0,0,0,0,0,0,0,1000000
+Jayson Molumby,6/8/1999,0,0,Brighton and Hove Albion,Ireland,Midfielder,1,1,0,0,0,0,0,0,0,1000000
+Faustino Anjorin,23/11/2001,185,0,Chelsea,England,Midfielder,1,1,0,0,0,0,0,0,0,900000
+Owen Otasowie,6/1/2001,191,0,Wolverhampton Wanderers,United States,Midfielder,6,1,2,0,1,3,0,1,0,700000
+Kasey McAteer,22/11/2001,0,0,Leicester City,England,Midfielder,1,1,0,0,0,0,0,0,0,700000
+Mario Vrancic,23/05/1989,187,0,Norwich City,Bosnia & Herzegovina,Midfielder,20,1,15,0,3,13,1,0,0,400000
+Sidnei Tavares,29/09/2001,0,0,Leicester City,Portugal,Midfielder,2,1,0,0,0,1,0,0,0,300000
+William Fish,17/02/2003,185,0,Manchester United,England,Defender,1,1,0,0,0,0,0,0,0,300000
+Indiana Vassilev,16/02/2001,173,0,Aston Villa,United States,Midfielder,4,1,2,0,0,0,0,0,0,200000
+Charly Musonda,15/10/1996,173,0,Chelsea,Belgium,Midfielder,3,1,2,0,0,3,0,1,0,200000
+Will Norris,12/8/1993,195,0,Burnley,England,Goalkeeper,3,1,2,0,0,0,0,0,0,200000
+Marc Navarro,2/7/1995,188,0,Watford,Spain,Defender,2,1,1,0,0,1,0,0,0,200000
+Ørjan Nyland,10/9/1990,192,0,Norwich City,Norway,Goalkeeper,7,1,4,0,0,0,0,0,1,100000
+Thakgalo Leshabela,18/09/1999,175,0,Leicester City,South Africa,Midfielder,1,1,0,0,0,0,0,0,0,0
+Gaetano Berardi,21/08/1988,179,0,Leeds United,Switzerland,Defender,2,2,0,0,0,1,0,0,0,28000000
+Cengiz Ünder,14/07/1997,173,0,Leicester City (Loan),Turkey,Forward,9,2,6,0,0,1,0,2,0,15000000
+James Garner,13/03/2001,186,0,Manchester United,England,Midfielder,2,2,0,0,0,0,0,0,0,12000000
+Samir,5/12/1994,189,0,Watford,Brazil,Defender,19,2,13,0,4,17,0,0,3,8000000
+Josh Dasilva,23/10/1998 (23),184,75,Brentford,England,Midfielder,9,2,5,1,0,4,0,0,0,8000000
+James McAtee,18/10/2002 (19),0,0,Manchester City,England,Midfielder,2,2,0,0,0,1,0,0,0,7000000
+Shola Shoretire,02/02/2004 (18),170,0,Manchester United,England,Forward,3,2,1,0,0,0,0,0,0,6000000
+Mbwana Samatta,23/12/1992,183,0,Aston Villa,Tanzania,Forward,14,2,8,0,1,9,1,0,0,4000000
+Luke Cundle,26/04/2002 (20),0,0,Wolverhampton Wanderers,England,Midfielder,4,2,2,0,0,3,0,0,0,4000000
+Toti,16/01/1999 (23),187,72,Wolverhampton Wanderers,Portugal,Defender,4,2,1,0,1,2,0,0,0,4000000
+Matthew Longstaff,21/03/2000,0,0,Newcastle United,England,Midfielder,14,2,8,0,1,9,2,0,0,3000000
+Jacob Sørensen,3/3/1998,0,0,Norwich City,Denmark,Midfielder,10,2,7,0,0,7,0,0,0,3000000
+Chiquinho,05/02/2000 (22),179,73,Wolverhampton Wanderers,Portugal,Forward,8,2,4,0,0,9,0,3,0,3000000
+Charlie Goode,3/8/1995,196,0,Brentford,England,Defender,6,2,2,0,3,5,0,0,1,3000000
+Zack Steffen,02/04/1995 (27),191,86,Manchester City,United States,Goalkeeper,2,2,0,0,0,1,0,0,1,3000000
+Marcus Forss,18/06/1999,182,0,Brentford,Finland,Forward,7,2,5,0,0,3,0,1,0,2000000
+Charlie Cresswell,17/08/2002 (19),0,0,Leeds United,England,Defender,5,2,2,0,1,3,0,0,0,2000000
+Caoimhin Kelleher,23/11/1998 (23),178,74,Liverpool,Ireland,Goalkeeper,4,2,1,0,0,0,0,0,2,2000000
+Christoph Zimmermann,12/1/1993,194,0,Norwich City,Germany,Defender,20,2,13,0,3,10,0,1,3,1000000
+Beni Baningime,9/9/1998,178,0,Everton,DR Congo,Midfielder,8,2,2,0,1,4,0,0,0,1000000
+Tim Iroegbunam,30/06/2003 (18),0,0,Aston Villa,England,Midfielder,3,2,0,0,1,2,0,0,0,1000000
+Peter Etebo,9/11/1995,172,0,Watford (Loan),Nigeria,Midfielder,9,2,5,0,3,8,0,0,0,900000
+Kiko Casilla,2/10/1986,190,0,Leeds United,Spain,Goalkeeper,3,2,1,0,0,0,0,0,1,800000
+Tom Trybull,9/3/1993,181,0,Norwich City,Germany,Midfielder,16,2,10,0,2,26,0,0,0,700000
+Nicolas Nkoulou,27/03/1990,184,0,Watford,Cameroon,Defender,3,2,1,0,0,1,0,0,0,700000
+Robin Olsen,08/01/1990 (32),198,89,Aston Villa (Loan),Sweden,Goalkeeper,8,2,3,0,1,0,0,0,2,600000
+Jaden Philogene-Bidace,8/2/2002,0,0,Aston Villa,England,Midfielder,2,2,0,0,0,0,0,0,0,500000
+Josh Benson,5/12/1999,175,0,Burnley,England,Midfielder,6,2,3,0,0,4,0,0,0,400000
+Timm Klose,9/5/1988,193,0,Norwich City,Switzerland,Defender,17,2,13,0,3,14,1,0,2,300000
+Mads Bidstrup,25/02/2001,175,0,Brentford,Denmark,Midfielder,4,2,1,0,0,1,0,0,0,100000
+Dane Scarlett,24/03/2004 (18),180,76,Tottenham Hotspur,England,Forward,2,2,0,0,0,0,0,0,0,100000
+João Pedro,26/09/2001,182,0,Watford,Brazil,Forward,31,3,24,0,1,14,3,1,0,18000000
+Imrân Louza,1/5/1999,178,0,Watford,Morocco,Midfielder,20,3,16,0,6,24,0,0,0,17000000
+Joe Gelhardt,04/05/2002 (20),175,65,Leeds United,England,Forward,20,3,13,0,4,17,2,2,0,9000000
+Christos Tzolis,30/01/2002,184,0,Norwich City,Greece,Forward,14,3,8,0,0,2,0,0,0,9000000
+Dimitris Giannoulis,17/10/1995,175,0,Norwich City,Greece,Defender,18,3,10,0,2,16,0,1,3,6000000
+Álvaro Fernández,13/04/1998 (24),185,75,Brentford,Spain,Goalkeeper,12,3,7,0,0,0,0,0,1,5000000
+Jeremy Ngakia,7/9/2000,0,0,Watford,England,Defender,21,3,14,0,0,14,0,0,1,4000000
+Mathias Normann,28/05/1996,179,0,Norwich City (Loan),Norway,Midfielder,23,3,14,0,6,37,1,2,0,3000000
+Björn Engels,15/09/1994,193,0,Aston Villa,Belgium,Defender,17,3,12,0,1,5,1,0,2,3000000
+Sheyi Ojo,19/06/1997,177,0,Liverpool,England,Midfielder,8,3,2,0,0,3,0,3,0,3000000
+Sam Greenwood,26/01/2002 (20),185,0,Leeds United,England,Forward,7,3,2,0,0,7,0,2,0,3000000
+Ki-Jana Hoever,18/01/2002 (20),180,65,Wolverhampton Wanderers,Netherlands,Defender,20,3,11,0,2,9,0,0,0,2000000
+Saman Ghoddos,06/09/1993 (28),176,75,Brentford,Iran,Forward,17,3,9,0,2,12,1,1,0,2000000
+Adam Idah,11/2/2001,190,0,Norwich City,Ireland,Forward,29,3,21,0,0,9,1,1,0,1000000
+Yoshinori Muto,15/07/1992,179,0,Newcastle United,Japan,Forward,25,3,16,0,1,15,1,0,0,800000
+Marco Stiepermann,9/2/1991,190,0,Norwich City,Germany,Forward,24,3,18,0,6,22,0,0,0,600000
+Daniel N'Lundulu,5/2/1999,185,0,Southampton,England,Forward,13,3,7,0,0,6,0,0,0,600000
+Henri Saivet,26/10/1990,174,0,Newcastle United,Senegal,Midfielder,5,3,2,0,0,1,1,0,0,0
+Joshua Sargent,20/02/2000,185,0,Norwich City,United States,Forward,26,4,18,0,1,9,2,1,0,69000000
+Maxwel Cornet,27/09/1996,179,0,Burnley,Cote D’Ivoire,Midfielder,26,4,13,0,2,20,9,1,0,33000000
+Angeliño,4/1/1997,175,0,Manchester City,Spain,Defender,6,4,2,0,1,2,0,0,0,33000000
+Vitalii Mykolenko,29/05/1999 (23),180,71,Everton,Ukraine,Defender,13,4,7,0,0,13,1,0,3,27000000
+Bryan Gil,11/2/2001,175,0,Tottenham Hotspur,Spain,Forward,9,4,4,0,0,1,0,0,0,22000000
+Ozan Kabak,25/03/2000,186,0,Norwich City (Loan),Turkey,Defender,20,4,12,0,5,22,0,0,4,12000000
+Romain Perraud,22/09/1997 (24),173,68,Southampton,France,Defender,20,4,8,0,3,31,0,1,3,11000000
+Marko Grujic,13/04/1996,191,0,Liverpool,Serbia,Midfielder,8,4,3,0,1,2,0,0,0,10000000
+Ian Poveda-Ocampo,9/2/2000,165,0,Leeds United,England,Forward,14,4,6,0,0,5,0,0,0,7000000
+Cole Palmer,06/05/2002 (20),0,0,Manchester City,England,Midfielder,4,4,0,0,0,1,0,0,0,7000000
+William Troost-Ekong,1/9/1993,191,0,Watford,Nigeria,Defender,17,4,12,0,3,13,0,0,0,6000000
+Lyanco,01/02/1997 (25),187,85,Southampton,Brazil,Defender,15,4,7,0,2,13,0,0,1,6000000
+Pierre Lees-Melou,25/05/1993,185,0,Norwich City,France,Midfielder,33,4,23,0,5,35,1,0,0,5000000
+Kieran Dowell,10/10/1997,175,0,Norwich City,England,Midfielder,21,4,14,0,0,20,1,1,0,4000000
+Andi Zeqiri,22/06/1999,181,0,Brighton and Hove Albion,Switzerland,Forward,9,4,2,0,0,2,0,0,0,3000000
+Sergio Romero,22/02/1987,192,0,Manchester United,Argentina,Goalkeeper,7,4,1,0,0,0,0,0,6,2000000
+Lukas Rupp,8/1/1991,178,0,Norwich City,Germany,Midfielder,31,4,21,0,1,17,0,0,0,1000000
+Domingos Quina,18/11/1999,179,0,Watford,Portugal,Midfielder,12,4,5,0,0,8,1,0,0,800000
+Juraj Kucka,26/02/1987,186,0,Watford,Slovakia,Midfielder,26,4,18,1,3,46,1,1,0,600000
+Henri Lansbury,12/10/1990,183,0,Aston Villa,England,Midfielder,13,4,8,0,1,5,0,0,0,0
+Leon Bailey,09/08/1997 (24),178,77,Aston Villa,Jamaica,Forward,18,5,12,0,3,12,1,2,0,27000000
+Ethan Ampadu,14/09/2000,183,0,Chelsea,Wales,Defender,26,5,20,0,3,25,0,0,2,17000000
+Milot Rashica,28/06/1996,177,0,Norwich City,Kosovo,Midfielder,31,5,21,0,0,23,1,2,0,15000000
+Nathan Collins,30/04/2001,193,0,Burnley,Ireland,Defender,19,5,9,1,2,20,2,0,5,15000000
+Adam Armstrong,10/02/1997 (25),172,69,Southampton,England,Forward,38,5,24,0,2,20,2,3,0,13000000
+Malang Sarr,23/01/1999 (23),182,73,Chelsea,France,Defender,8,5,2,0,2,8,0,0,2,12000000
+Junior Firpo,22/08/1996 (25),184,78,Leeds United,Spain,Defender,24,5,14,0,11,39,0,2,1,10000000
+Moisés Caicedo,02/11/2001 (20),178,73,Brighton and Hove Albion,Ecuador,Midfielder,8,5,1,0,2,7,1,1,0,10000000
+Alphonse Areola,27/02/1993 (29),195,94,West Ham United (Loan),France,Goalkeeper,37,5,19,0,2,0,0,0,9,7000000
+Cucho Hernández,20/04/1999,176,0,Watford,Colombia,Forward,25,5,18,0,3,13,5,2,0,6000000
+Vitinha,13/02/2000,172,0,Wolverhampton Wanderers (Loan),Portugal,Midfielder,19,5,10,0,0,8,0,1,0,6000000
+Patrick Cutrone,3/1/1998,183,0,Wolverhampton Wanderers,Italy,Forward,14,5,4,0,0,5,2,0,0,6000000
+Rachid Ghezzal,9/5/1992,182,0,Leicester City,Algeria,Midfielder,19,5,12,0,3,13,1,0,0,4000000
+Mads Bech Sørensen,07/01/1999 (23),189,92,Brentford,Denmark,Defender,11,5,5,0,3,8,0,0,2,3000000
+Carlos Vinícius,25/03/1995,190,0,Tottenham Hotspur (Loan),Brazil,Forward,9,5,2,0,2,11,1,0,0,3000000
+Ben Woodburn,15/10/1999,174,0,Liverpool,Wales,Midfielder,6,5,1,0,0,2,0,0,0,2000000
+Florin Andone,11/4/1993,180,0,Brighton and Hove Albion,Romania,Forward,26,5,14,1,5,30,4,0,0,600000
+William Smallbone,21/02/2000 (22),0,0,Southampton,Ireland,Midfielder,16,5,7,0,0,7,0,2,0,300000
+Wout Weghorst,7/8/1992,197,0,Burnley,Netherlands,Forward,20,6,9,0,3,30,2,3,0,28000000
+Emmanuel Dennis,15/11/1997,175,0,Watford,Nigeria,Forward,33,6,24,1,7,59,10,6,0,17000000
+Willian José,23/11/1991,189,0,Wolverhampton Wanderers (Loan),Brazil,Forward,17,6,7,0,0,8,1,0,0,14000000
+Morgan Sanson,18/08/1994 (27),180,73,Aston Villa,France,Midfielder,19,6,9,0,3,9,0,0,0,7000000
+Todd Cantwell,27/02/1998,177,0,Norwich City,England,Midfielder,45,6,33,0,8,37,6,2,0,6000000
+Wesley Hoedt,6/3/1994,188,0,Southampton,Netherlands,Defender,41,6,19,0,9,37,0,1,9,4000000
+Carney Chukwuemeka,20/10/2003 (18),0,0,Aston Villa,England,Midfielder,14,6,4,0,0,5,0,1,0,4000000
+Keinan Davis,13/02/1998,191,0,Aston Villa,England,Forward,34,6,17,0,0,16,1,1,0,3000000
+Abdul Rahman Baba,2/7/1994,180,0,Chelsea,Ghana,Defender,15,6,6,0,1,14,0,1,2,3000000
+Shandon Baptiste,08/04/1998 (24),175,71,Brentford,Grenada,Midfielder,22,6,11,1,0,6,1,0,0,2000000
+Ibrahima Konaté,25/05/1999 (23),194,95,Liverpool,France,Defender,11,7,0,0,2,10,0,0,4,37000000
+Saúl Ñíguez,21/11/1994 (27),184,76,Chelsea (Loan),Spain,Midfielder,10,7,0,0,1,9,0,0,0,33000000
+Patson Daka,09/10/1998 (23),183,71,Leicester City,Zambia,Forward,23,7,10,0,2,17,5,3,0,28000000
+Michael Olise,12/12/2001 (20),176,0,Crystal Palace,France,Midfielder,26,7,8,0,4,16,2,5,0,27000000
+Harry Wilson,22/03/1997,173,0,Liverpool,Wales,Midfielder,31,7,19,0,2,12,7,0,0,22000000
+Jean-Philippe Mateta,28/06/1997 (24),192,88,Crystal Palace,France,Forward,29,7,13,0,2,19,6,1,0,16000000
+Boubakary Soumaré,27/02/1999 (23),188,70,Leicester City,France,Midfielder,19,7,7,0,0,16,0,1,0,15000000
+Harvey Elliott,04/04/2003 (19),170,0,Liverpool,England,Midfielder,10,7,2,0,0,2,0,0,0,10000000
+Valentino Livramento,12/11/2002 (19),0,0,Southampton,England,Defender,28,7,10,0,2,12,1,1,6,7000000
+Pablo Marí,31/08/1993,193,0,Arsenal,Spain,Defender,14,7,5,0,3,11,0,0,5,6000000
+Frédéric Guilbert,24/12/1994,178,0,Aston Villa,France,Defender,25,7,13,0,7,36,0,2,2,5000000
+Wesley Moraes,26/11/1996,191,0,Aston Villa,Brazil,Forward,25,7,14,0,3,44,5,1,0,5000000
+Nathan Tella,05/07/1999 (22),0,0,Southampton,England,Midfielder,33,7,18,0,4,33,1,2,0,4000000
+Angus Gunn,22/01/1996,196,0,Norwich City,England,Goalkeeper,31,7,16,0,0,0,0,0,6,4000000
+Jürgen Locadia,7/11/1993,187,0,Brighton and Hove Albion,Netherlands,Forward,35,7,21,0,1,25,3,1,0,2000000
+Rhys Williams,03/02/2001 (21),195,0,Liverpool,England,Defender,9,7,1,0,0,4,0,0,3,2000000
+Ashley Fletcher,2/10/1995,185,0,Watford,England,Forward,19,7,10,0,2,10,0,0,0,1000000
+Max Aarons,4/1/2000,178,0,Norwich City,England,Defender,70,8,50,0,15,56,0,3,9,22000000
+Frank Onyeka,01/01/1998 (24),183,0,Brentford,Nigeria,Midfielder,20,8,8,0,4,33,0,0,0,9000000
+Mads Roerslev,24/06/1999 (22),184,77,Brentford,Denmark,Defender,21,8,10,0,1,18,1,1,1,8000000
+Billy Gilmour,11/6/2001,166,0,Norwich City (Loan),Scotland,Midfielder,35,8,21,0,2,33,0,1,0,7000000
+Kenny McLean,8/1/1992,183,0,Norwich City,Scotland,Midfielder,68,8,48,0,8,40,2,1,0,6000000
+Joe Rodon,22/10/1997 (24),180,70,Tottenham Hotspur,Wales,Defender,15,8,4,0,0,2,0,0,2,4000000
+Jamie Shackleton,08/10/1999 (22),168,65,Leeds United,England,Midfielder,27,8,13,0,4,16,0,0,0,3000000
+Fikayo Tomori,19/12/1997,185,0,Chelsea,England,Defender,17,9,5,0,3,8,1,0,4,37000000
+Moise Kean,28/02/2000,183,0,Everton,Italy,Forward,32,9,13,0,1,28,2,2,0,28000000
+Armando Broja,10/09/2001 (20),191,0,Southampton (Loan),Albania,Forward,33,9,12,0,2,29,6,0,0,25000000
+Anthony Elanga,27/04/2002 (20),178,0,Manchester United U21,Sweden,Forward,23,9,8,0,0,10,3,2,0,20000000
+Kristoffer Ajer,17/04/1998 (24),196,84,Brentford,Norway,Defender,24,9,11,0,5,12,1,3,5,18000000
+Odsonne Édouard,16/01/1998 (24),187,83,Crystal Palace,France,Forward,28,9,8,0,4,25,6,3,0,17000000
+Enock Mwepu,01/01/1998 (24),184,76,Brighton and Hove Albion,Zambia,Midfielder,18,9,3,0,2,18,2,4,0,13000000
+Sergi Canós,02/02/1997 (25),177,75,Brentford,Spain,Forward,32,9,16,1,6,29,3,2,0,11000000
+Konstantinos Tsimikas,12/05/1996 (26),178,77,Liverpool,Greece,Defender,15,9,2,0,3,21,0,2,3,8000000
+Mohamed Elyounoussi,04/08/1994 (27),178,70,Southampton,Norway,Midfielder,46,9,23,0,4,38,4,2,0,7000000
+Mathias Jensen,01/01/1996 (26),180,68,Brentford,Denmark,Midfielder,31,9,18,0,0,19,0,1,0,7000000
+Kortney Hause,16/07/1995 (26),191,77,Aston Villa,England,Defender,32,9,15,0,5,35,3,0,0,5000000
+Bernardo,14/05/1995,186,0,Brighton and Hove Albion,Brazil,Defender,39,9,19,0,5,21,0,1,2,2000000
+Conor Hourihane,2/2/1991,180,0,Aston Villa,Ireland,Midfielder,31,9,15,0,4,15,4,6,0,1000000
+Eldin Jakupovic,02/10/1984 (37),191,85,Leicester City,Switzerland,Goalkeeper,28,9,13,0,0,0,0,0,6,300000
+Raphaël Varane,25/04/1993 (29),191,81,Manchester United,France,Defender,22,10,4,0,0,5,1,1,5,52000000
+Rodrigo Bentancur,25/06/1997 (24),187,72,Tottenham Hotspur,Uruguay,Midfielder,17,10,5,0,5,22,0,4,0,45000000
+Marc Cucurella,22/07/1998 (23),172,66,Brighton and Hove Albion,Spain,Defender,35,10,10,0,6,28,1,1,8,40000000
+Marc Guéhi,13/07/2000 (21),182,82,Crystal Palace,England,Defender,36,10,11,0,4,14,2,1,10,39000000
+Nikola Vlasic,04/10/1997 (24),178,72,West Ham United,Croatia,Midfielder,31,10,12,0,0,15,1,0,0,26000000
+Trincão,29/12/1999 (22),184,70,Wolverhampton Wanderers (Loan),Portugal,Forward,28,10,14,0,0,13,2,1,0,18000000
+David Raya,15/09/1995 (26),183,80,Brentford,Spain,Goalkeeper,24,10,9,0,1,1,0,0,8,18000000
+Lee Grant,27/01/1983 (39),193,83,Manchester United,England,Goalkeeper,31,10,12,0,1,0,0,0,9,15000000
+Albert Sambi Lokonga,22/10/1999 (22),173,67,Arsenal,Belgium,Midfielder,19,10,6,0,5,12,0,0,0,12000000
+Ethan Pinnock,29/05/1993 (29),187,79,Brentford,Jamaica,Defender,32,10,16,0,1,9,1,1,7,11000000
+Ben Gibson,15/01/1993,185,0,Norwich City,England,Defender,67,10,37,1,8,33,2,1,17,8000000
+Teemu Pukki,29/03/1990,180,0,Norwich City,Finland,Forward,73,10,50,0,7,54,22,6,0,6000000
+Reiss Nelson,10/12/1999,175,0,Arsenal,England,Forward,23,10,7,0,1,10,1,0,0,6000000
+Alireza Jahanbakhsh,11/8/1993,180,0,Brighton and Hove Albion,Iran,Forward,50,10,26,0,5,28,2,1,0,5000000
+Steven Alzate,08/09/1998 (23),180,75,Brighton and Hove Albion,Colombia,Midfielder,43,10,18,0,3,43,1,0,0,4000000
+Kevin Long,18/08/1990,188,0,Burnley,Ireland,Defender,48,10,22,0,4,39,1,3,8,1000000
+Luis Díaz,13/01/1997 (25),178,65,Liverpool,Colombia,Forward,13,11,0,0,0,14,4,3,0,44000000
+Dejan Kulusevski,25/04/2000 (22),186,80,Tottenham Hotspur (Loan),Sweden,Midfielder,18,11,5,0,3,20,5,8,0,40000000
+Bruno Guimarães,16/11/1997 (24),182,74,Newcastle United,Brazil,Midfielder,17,11,5,0,4,13,5,1,0,40000000
+Vitaly Janelt,10/05/1998 (24),184,79,Brentford,Germany,Midfielder,31,11,13,0,3,26,4,0,0,24000000
+Jakub Moder,07/04/1999 (23),188,78,Brighton and Hove Albion,Poland,Midfielder,40,11,14,0,2,31,0,3,0,15000000
+Mohammed Salisu,17/04/1999 (23),191,82,Southampton,Ghana,Defender,46,11,20,1,9,48,0,0,6,13000000
+Yoane Wissa,03/09/1996 (25),176,74,Brentford,DR Congo,Midfielder,30,11,13,0,0,8,7,1,0,13000000
+Kiernan Dewsbury-Hall,06/09/1998 (23),0,0,Leicester City,England,Midfielder,28,11,9,0,4,20,1,2,0,13000000
+Aaron Connolly,28/01/2000,0,0,Brighton and Hove Albion,Ireland,Forward,45,11,20,0,0,22,5,2,0,12000000
+Jamal Lewis,25/01/1998 (24),178,70,Newcastle United,Northern Ireland,Defender,57,11,39,0,9,35,1,1,6,9000000
+Japhet Tanganga,31/03/1999 (23),184,76,Tottenham Hotspur U21,England,Defender,23,11,9,1,5,38,0,0,7,3000000
+Karl Darlow,08/10/1990 (31),190,88,Newcastle United,England,Goalkeeper,52,11,24,0,4,1,0,0,9,2000000
+Jadon Sancho,25/03/2000 (22),180,76,Manchester United,England,Forward,29,12,8,0,0,4,3,3,0,71000000
+Bryan Mbeumo,07/08/1999 (22),171,0,Brentford,France,Midfielder,35,12,16,0,4,20,4,7,0,40000000
+Ivan Toney,16/03/1996 (26),179,70,Brentford,England,Forward,35,12,16,0,8,50,12,5,0,29000000
+Rico Henry,08/07/1997 (24),170,67,Brentford,England,Defender,34,12,15,0,2,20,3,0,7,26000000
+Rayan Aït-Nouri,06/06/2001 (21),179,70,Wolverhampton Wanderers,France,Defender,44,12,21,0,5,29,2,3,8,13000000
+Hwang Hee-Chan,26/01/1996 (26),177,77,Wolverhampton Wanderers (Loan),South Korea,Forward,30,12,13,0,2,29,5,1,0,13000000
+Michael Obafemi,6/7/2000,169,0,Southampton,Ireland,Forward,32,12,14,0,2,14,4,3,0,5000000
+Pontus Jansson,13/02/1991 (31),194,89,Brentford,Sweden,Defender,37,12,18,0,7,15,3,1,7,4000000
+Axel Tuanzebe,14/11/1997,186,0,Aston Villa (Loan),England,Defender,28,12,9,0,3,18,0,0,2,3000000
+Adam Forshaw,08/10/1991 (30),174,71,Leeds United,England,Midfielder,57,12,27,0,9,59,0,2,0,2000000
+Jonas Lössl,01/02/1989 (33),195,89,Brentford (Loan),Denmark,Goalkeeper,71,12,43,0,2,0,0,2,14,900000
+Darren Randolph,12/05/1987 (35),188,98,West Ham United,Ireland,Goalkeeper,34,12,15,0,1,0,0,0,7,600000
+Conor Gallagher,06/02/2000 (22),182,0,Crystal Palace (Loan),England,Midfielder,64,13,26,0,21,108,10,5,0,35000000
+Takehiro Tomiyasu,05/11/1998 (23),188,70,Arsenal,Japan,Defender,21,13,6,0,2,16,0,1,7,23000000
+Trevoh Chalobah,05/07/1999 (22),190,75,Chelsea,England,Defender,20,13,0,0,2,19,3,1,9,17000000
+Tariq Lamptey,30/09/2000 (21),0,0,Brighton and Hove Albion,England,Defender,50,13,18,1,8,61,1,4,5,15000000
+Christian Nørgaard,10/03/1994 (28),187,76,Brentford,Denmark,Midfielder,35,13,16,0,8,56,3,4,0,14000000
+Nuno Tavares,26/01/2000 (22),183,75,Arsenal,Portugal,Defender,22,13,9,0,2,23,1,1,3,12000000
+Mario Lemina,1/9/1993,184,0,Southampton,Gabon,Midfielder,74,13,34,0,12,91,3,2,0,6000000
+Florian Lejeune,20/05/1991,189,0,Newcastle United,France,Defender,42,13,22,0,3,34,2,2,9,6000000
+Yan Valery,22/02/1999 (23),180,85,Southampton,France,Defender,42,13,20,1,4,38,2,1,4,4000000
+Ken Sema,30/09/1993,180,0,Watford,Sweden,Midfielder,35,13,14,0,2,28,1,2,0,3000000
+Zanka,23/04/1990 (32),191,79,Brentford,Denmark,Defender,70,13,41,0,14,88,4,3,14,500000
+José Izquierdo,7/7/1992,171,0,Brighton and Hove Albion,Colombia,Forward,48,13,20,0,3,26,5,4,0,500000
+Eric García,9/1/2001,182,0,Manchester City U21,Spain,Defender,19,14,4,0,1,13,0,0,3,38000000
+Robin Koch,17/07/1996 (25),192,85,Leeds United,Germany,Defender,37,14,17,0,4,39,0,0,5,10000000
+Emerson,3/8/1994,176,0,Chelsea,Italy,Defender,33,14,14,0,3,18,0,1,4,5000000
+Rúben Vinagre,9/4/1999,174,0,Wolverhampton Wanderers,Portugal,Defender,35,14,11,0,2,21,0,0,2,3000000
+Muhamed Besic,10/9/1992,180,0,Everton,Bosnia & Herzegovina,Midfielder,46,14,17,0,11,42,0,0,0,300000
+Joachim Andersen,31/05/1996 (26),192,90,Crystal Palace,Denmark,Defender,65,15,23,1,11,58,1,4,20,45000000
+Robert Elliot,30/04/1986,190,0,Watford,Ireland,Goalkeeper,52,15,28,1,1,1,0,1,8,43000000
+José Sá,17/01/1993 (29),192,84,Wolverhampton Wanderers,Portugal,Goalkeeper,37,15,17,0,3,3,0,1,11,29000000
+Eberechi Eze,29/06/1998 (23),0,0,Crystal Palace,England,Midfielder,47,15,22,0,4,23,5,7,0,10000000
+Grant Hanley,20/11/1991,187,0,Norwich City,Scotland,Defender,79,15,50,0,13,72,2,0,11,9000000
+Joël Veltman,15/01/1992 (30),184,75,Brighton and Hove Albion,Netherlands,Defender,62,15,21,0,9,73,2,2,15,6000000
+Morgan Gibbs-White,27/01/2000,171,0,Wolverhampton Wanderers,England,Midfielder,46,15,22,0,3,17,1,1,0,6000000
+Adam Masina,2/1/1994,189,0,Watford,Morocco,Defender,55,15,32,0,8,57,1,2,7,4000000
+Marçal,19/02/1989 (33),178,74,Wolverhampton Wanderers,Brazil,Defender,31,15,13,0,5,41,0,0,7,2000000
+Sam Byram,16/09/1993,180,0,Norwich City,England,Defender,59,15,32,1,16,60,0,1,9,1000000
+Cenk Tosun,07/06/1991 (31),183,78,Everton,Turkey,Forward,55,15,23,0,4,51,10,3,0,700000
+Wesley Fofana,17/12/2000 (21),190,0,Leicester City,France,Defender,35,16,11,0,9,44,0,0,7,38000000
+Emiliano Buendía,25/12/1996 (25),172,72,Aston Villa,Argentina,Midfielder,71,16,43,1,7,53,5,13,0,27000000
+Donny van de Beek,18/04/1997 (25),184,76,Everton (Loan),Netherlands,Midfielder,34,16,13,0,2,14,3,1,0,25000000
+Alex Telles,15/12/1992 (29),181,71,Manchester United,Brazil,Defender,30,16,8,0,1,27,0,6,5,13000000
+Diego Llorente,16/08/1993 (28),186,75,Leeds United,Spain,Defender,43,16,15,0,8,38,4,0,9,10000000
+Emerson Royal,14/01/1999 (23),181,79,Tottenham Hotspur,Brazil,Defender,31,17,9,0,5,28,1,1,5,38000000
+Tyrick Mitchell,01/09/1999 (22),0,0,Crystal Palace,England,Defender,59,17,24,0,3,25,1,3,14,34000000
+Bertrand Traoré,06/09/1995 (26),181,73,Aston Villa,Burkina Faso,Forward,55,17,26,0,1,34,9,7,0,13000000
+Davide Zappacosta,11/6/1992,185,0,Chelsea,Italy,Defender,26,17,4,0,0,9,1,1,4,13000000
+Hélder Costa,12/1/1994,178,0,Leeds United,Angola,Forward,48,17,21,0,3,41,4,5,0,7000000
+Liam Cooper,30/08/1991 (30),180,73,Leeds United,Scotland,Defender,48,17,19,1,9,42,1,1,11,6000000
+Moussa Djenepo,15/06/1998 (23),177,65,Southampton,Mali,Midfielder,57,17,29,1,12,61,3,2,0,5000000
+Jairo Riedewald,09/09/1996 (25),182,79,Crystal Palace,Netherlands,Midfielder,65,17,34,0,4,28,2,0,0,4000000
+Trézéguet,1/10/1994,180,0,Aston Villa,Egypt,Midfielder,56,17,29,1,2,74,8,2,0,3000000
+Isaac Success,7/1/1996,186,0,Watford,Nigeria,Forward,54,17,27,0,7,38,2,2,0,3000000
+Jonjoe Kenny,15/03/1997 (25),176,67,Everton,England,Defender,50,17,27,1,4,37,0,3,7,2000000
+Loris Karius,22/06/1993 (28),189,87,Liverpool,Germany,Goalkeeper,29,17,4,0,1,2,0,0,13,600000
+Tiemoué Bakayoko,17/08/1994,185,0,Chelsea,France,Midfielder,29,18,6,1,3,50,2,2,0,10000000
+Ezgjan Alioski,12/2/1992,173,0,Leeds United,North Macedonia,Midfielder,36,18,13,0,7,39,2,3,0,4000000
+Ferran Torres,29/02/2000,184,0,Manchester City,Spain,Forward,28,19,6,0,1,17,9,3,0,52000000
+Robert Sánchez,18/11/1997 (24),197,90,Brighton and Hove Albion,Spain,Goalkeeper,64,19,20,1,6,3,0,0,21,24000000
+Ryan Sessegnon,18/05/2000 (22),178,70,Tottenham Hotspur,England,Midfielder,56,19,28,0,2,43,2,8,0,21000000
+Fábio Silva,19/07/2002 (19),185,75,Wolverhampton Wanderers,Portugal,Forward,54,19,28,0,2,33,4,3,0,18000000
+Ben Johnson,24/01/2000 (22),175,67,West Ham United,England,Defender,38,19,12,0,2,24,2,0,0,17000000
+Alexis Mac Allister,24/12/1998 (23),176,72,Brighton and Hove Albion,Argentina,Midfielder,63,19,23,0,5,53,6,3,0,9000000
+Edinson Cavani,14/02/1987 (35),184,71,Manchester United,Uruguay,Forward,41,19,9,0,4,28,12,4,0,5000000
+Kenedy,08/02/1996 (26),182,77,Chelsea,Brazil,Midfielder,55,19,23,0,2,42,4,4,0,3000000
+Willy Caballero,28/09/1981 (40),186,81,Southampton,Argentina,Goalkeeper,36,19,6,0,1,0,0,0,11,400000
+Felipe Anderson,15/04/1993,175,0,West Ham United,Brazil,Midfielder,63,20,32,0,4,44,10,8,0,20000000
+Pascal Struijk,11/08/1999 (22),190,0,Leeds United,Netherlands,Defender,56,20,25,1,9,51,2,0,7,15000000
+Allan,08/01/1991 (31),173,73,Everton,Brazil,Midfielder,52,20,23,1,13,67,0,2,0,9000000
+Diogo Dalot,18/03/1999 (23),183,76,Manchester United,Portugal,Defender,44,20,14,0,7,31,0,2,6,8000000
+Marvelous Nakamba,19/01/1994 (28),178,71,Aston Villa,Zimbabwe,Midfielder,58,20,28,0,13,50,0,0,0,5000000
+Emil Krafth,02/08/1994 (27),184,83,Newcastle United,Sweden,Defender,53,20,20,0,9,38,1,2,9,4000000
+Ryan Fredericks,10/10/1992 (29),181,74,West Ham United,England,Defender,63,20,29,0,15,48,2,4,10,2000000
+Jacob Ramsey,28/05/2001 (21),0,0,Aston Villa,England,Midfielder,56,21,25,0,6,45,6,1,0,28000000
+Kalvin Phillips,02/12/1995 (26),178,72,Leeds United,England,Midfielder,49,21,14,0,14,79,1,3,0,28000000
+Oliver Skipp,16/09/2000 (21),175,70,Tottenham Hotspur,England,Midfielder,33,21,6,0,6,21,0,0,0,18000000
+Josh Brownhill,19/12/1995,180,0,Burnley,England,Midfielder,78,21,33,0,14,81,2,4,0,17000000
+Dani Ceballos,7/8/1996,179,0,Arsenal (Loan),Spain,Midfielder,49,21,17,0,5,42,0,5,0,13000000
+Dennis Praet,14/05/1994,181,0,Leicester City,Belgium,Midfielder,42,21,15,0,2,30,2,3,0,11000000
+Anwar El Ghazi,03/05/1995 (27),188,90,Everton (Loan),Netherlands,Midfielder,73,21,38,0,7,46,15,5,0,7000000
+Andreas Pereira,1/1/1996,178,0,Manchester United,Brazil,Midfielder,45,21,13,0,10,42,2,4,0,4000000
+Matej Vydra,1/5/1992,180,0,Burnley,Czech Republic,Midfielder,106,21,53,0,2,24,11,10,0,1000000
+Pablo Hernández,11/4/1985,173,0,Leeds United,Spain,Midfielder,73,21,34,0,6,30,5,15,0,700000
+Nélson Semedo,16/11/1993 (28),177,67,Wolverhampton Wanderers,Portugal,Defender,59,22,25,0,6,64,1,2,14,26000000
+Tanguy Ndombele,28/12/1996,181,0,Tottenham Hotspur,France,Midfielder,63,22,24,0,7,43,6,5,0,19000000
+Fabián Balbuena,23/08/1991,188,0,West Ham United,Paraguay,Defender,54,22,23,1,5,37,3,0,12,5000000
+Andriy Yarmolenko,23/10/1989 (32),189,81,West Ham United,Ukraine,Forward,66,22,27,0,8,33,8,2,0,2000000
+Ben Godfrey,15/01/1998 (24),183,74,Everton,England,Defender,84,23,46,1,13,47,0,2,17,26000000
+Maximilian Kilman,23/05/1997 (25),0,0,Wolverhampton Wanderers,England,Defender,52,23,18,0,7,39,1,1,15,24000000
+Hakim Ziyech,19/03/1993 (29),180,65,Chelsea,Morocco,Midfielder,46,23,10,0,6,43,6,6,0,24000000
+Patrick Bamford,05/09/1993 (28),185,71,Leeds United,England,Forward,74,23,37,0,6,61,20,9,0,18000000
+Takumi Minamino,16/01/1995 (27),174,68,Liverpool,Japan,Forward,40,23,11,0,2,22,6,0,0,14000000
+Mateusz Klich,13/06/1990 (31),183,84,Leeds United,Poland,Midfielder,68,23,32,0,11,86,5,7,0,6000000
+Luke Ayling,25/08/1991 (30),185,72,Leeds United,England,Defender,64,23,29,1,11,51,2,2,13,5000000
+Hamza Choudhury,01/10/1997 (24),178,64,Leicester City,England,Midfielder,53,23,17,1,5,34,1,2,0,4000000
+Raphinha,14/12/1996 (25),176,68,Leeds United,Brazil,Forward,65,24,28,0,10,53,17,12,0,44000000
+Jack Harrison,20/11/1996 (25),175,70,Leeds United,England,Midfielder,71,24,33,0,5,57,16,9,0,26000000
+Adam Webster,04/01/1995 (27),191,75,Brighton and Hove Albion,England,Defender,82,24,26,0,13,53,6,1,18,21000000
+Leandro Trossard,04/12/1994 (27),171,61,Brighton and Hove Albion,Belgium,Forward,100,24,37,0,4,65,18,11,0,20000000
+Mattéo Guendouzi,14/04/1999,185,0,Arsenal,France,Midfielder,57,24,17,0,15,41,0,1,0,20000000
+James Justin,23/02/1998 (24),183,80,Leicester City,England,Defender,49,24,14,0,5,31,2,2,15,17000000
+Jacob Murphy,24/02/1995 (27),179,74,Newcastle United,England,Midfielder,93,24,48,0,7,51,4,7,0,9000000
+Timothy Castagne,05/12/1995 (26),185,80,Leicester City,Belgium,Defender,54,25,17,0,2,35,3,3,10,28000000
+Giovani Lo Celso,9/4/1996,177,0,Tottenham Hotspur,Argentina,Midfielder,55,25,15,0,11,49,1,3,0,22000000
+Illan Meslier,02/03/2000 (22),193,74,Leeds United,France,Goalkeeper,73,25,32,0,2,1,0,0,16,19000000
+Rodrigo,06/03/1991 (31),182,77,Leeds United,Spain,Forward,74,25,34,0,12,48,14,4,0,9000000
+Bernard,8/9/1992,164,0,Everton,Brazil,Forward,73,25,33,0,9,42,5,5,0,4000000
+Jack Butland,10/03/1993 (29),196,95,Crystal Palace,England,Goalkeeper,87,25,36,0,0,1,0,0,21,2000000
+Christian Atsu,10/1/1992,165,0,Newcastle United,Ghana,Midfielder,80,25,32,0,5,34,3,6,0,600000
+Matthew Cash,07/08/1997 (24),185,0,Aston Villa,Poland,Defender,66,26,31,1,14,73,4,5,20,31000000
+Pedro Neto,09/03/2000 (22),172,69,Wolverhampton Wanderers,Portugal,Forward,73,26,27,0,10,40,9,10,0,19000000
+Neal Maupay,14/08/1996 (25),173,69,Brighton and Hove Albion,France,Forward,102,26,38,1,11,98,26,7,0,17000000
+Stuart Dallas,19/04/1991 (31),183,81,Leeds United,Northern Ireland,Midfielder,72,26,31,0,12,73,9,3,0,15000000
+Kiko Femenía,2/2/1991,176,0,Watford,Spain,Defender,107,26,60,0,10,57,2,7,12,4000000
+Dale Stephens,12/6/1989,169,0,Burnley,England,Midfielder,109,26,52,1,22,149,1,5,0,600000
+Kai Havertz,11/06/1999 (23),188,83,Chelsea,Germany,Midfielder,56,27,14,0,5,67,12,6,0,73000000
+Thomas Partey,13/06/1993 (28),185,77,Arsenal,Ghana,Midfielder,48,27,14,0,10,51,2,3,0,24000000
+Gabriel Martinelli,18/06/2001 (20),178,75,Arsenal,Brazil,Forward,57,27,17,1,2,42,11,7,0,20000000
+Thiago Silva,22/09/1984 (37),183,79,Chelsea,Brazil,Defender,55,27,14,1,5,25,5,0,20,16000000
+Eddie Nketiah,30/05/1999 (23),175,72,Arsenal,England,Forward,59,27,24,1,3,45,10,2,0,11000000
+Davy Pröpper,2/9/1991,185,0,Brighton and Hove Albion,Netherlands,Midfielder,107,27,46,1,8,106,2,7,0,5000000
+Ollie Watkins,30/12/1995 (26),180,70,Aston Villa,England,Forward,72,28,32,1,9,80,25,7,0,43000000
+Benjamin White,08/10/1997 (24),182,78,Arsenal,England,Defender,68,28,23,1,6,49,0,0,24,34000000
+Curtis Jones,30/01/2001 (21),185,75,Liverpool,England,Midfielder,45,28,6,0,2,32,3,3,0,29000000
+Sergio Reguilón,16/12/1996 (25),178,68,Tottenham Hotspur,Spain,Defender,52,28,14,0,9,48,2,6,13,27000000
+Daniel Podence,21/10/1995 (26),165,58,Wolverhampton Wanderers,Portugal,Midfielder,59,28,19,0,5,27,6,5,0,13000000
+Lucas Torreira,11/2/1996,168,0,Arsenal,Uruguay,Midfielder,63,28,15,1,14,62,3,3,0,12000000
+Jannik Vestergaard,03/08/1992 (29),199,98,Leicester City,Denmark,Defender,82,28,37,1,10,49,4,0,14,11000000
+Ademola Lookman,20/10/1997 (24),174,71,Leicester City (Loan),Nigeria,Forward,96,28,37,0,7,90,11,7,0,10000000
+Martin Ødegaard,17/12/1998 (23),178,68,Arsenal,Norway,Midfielder,50,29,15,0,4,28,8,6,0,39000000
+Vladimir Coufal,22/08/1992 (29),179,76,West Ham United,Czech Republic,Defender,62,29,20,1,6,58,0,11,14,12000000
+Will Hughes,17/04/1995 (27),185,74,Crystal Palace,England,Midfielder,93,29,45,0,20,144,5,9,0,7000000
+Mathew Ryan,8/4/1992,184,0,Arsenal (Loan),Australia,Goalkeeper,124,29,55,0,3,2,0,0,28,5000000
+Christian Kabasele,24/02/1991,187,0,Watford,Belgium,Defender,108,29,56,3,9,93,4,2,17,3000000
+Connor Wickham,31/03/1993,191,0,Crystal Palace,England,Forward,120,29,59,0,11,147,19,7,0,300000
+Timo Werner,06/03/1996 (26),180,75,Chelsea,Germany,Forward,56,30,13,0,3,39,10,9,0,49000000
+Emile Smith Rowe,28/07/2000 (21),182,79,Arsenal,England,Midfielder,55,30,17,0,1,10,12,6,0,36000000
+Joseph Willock,20/08/1999 (22),179,71,Newcastle United,England,Midfielder,83,30,30,0,3,62,11,1,0,34000000
+Saïd Benrahma,10/08/1995 (26),172,67,West Ham United,Algeria,Forward,62,30,20,0,0,23,9,12,0,27000000
+Shane Duffy,01/01/1992 (30),193,76,Brighton and Hove Albion,Ireland,Defender,114,30,46,1,21,84,7,2,22,3000000
+Allan Saint-Maximin,12/03/1997 (25),173,67,Newcastle United,France,Forward,86,31,34,0,6,50,11,13,0,26000000
+Che Adams,13/07/1996 (25),175,70,Southampton,Scotland,Forward,96,31,43,0,1,76,20,10,0,24000000
+Dan Burn,09/05/1992 (30),198,87,Newcastle United,England,Defender,99,31,35,0,18,99,2,1,24,16000000
+Kieran Tierney,05/06/1997 (25),178,70,Arsenal,Scotland,Defender,64,32,21,0,6,27,3,7,18,47000000
+Ezri Konsa,23/10/1997 (24),183,77,Aston Villa,England,Defender,90,32,41,2,10,54,5,2,24,37000000
+Joelinton,14/08/1996 (25),186,81,Newcastle United,Brazil,Forward,104,32,42,0,18,120,10,5,0,22000000
+Yves Bissouma,30/08/1996 (25),182,80,Brighton and Hove Albion,Mali,Midfielder,112,32,46,1,27,156,3,2,0,20000000
+Kyle Walker-Peters,13/04/1997 (25),173,62,Southampton,England,Defender,84,32,30,0,11,72,1,9,20,20000000
+Jonny,03/03/1994 (28),175,70,Wolverhampton Wanderers,Spain,Defender,88,32,29,0,11,74,5,3,16,14000000
+Thiago,11/04/1991 (31),174,70,Liverpool,Spain,Midfielder,49,33,8,0,6,67,2,4,0,29000000
+Gabriel Magalhães,19/12/1997 (24),190,78,Arsenal,Brazil,Defender,58,33,19,2,8,46,7,0,18,21000000
+Steven Bergwijn,08/10/1997 (24),178,78,Tottenham Hotspur,Netherlands,Forward,60,33,17,0,6,36,7,5,0,20000000
+Solly March,20/07/1994 (27),180,88,Brighton and Hove Albion,England,Midfielder,142,33,58,0,7,125,4,10,0,6000000
+Willy Boly,03/02/1991 (31),195,92,Wolverhampton Wanderers,Cote D’Ivoire,Defender,89,33,33,2,6,75,5,2,26,5000000
+John Ruddy,24/10/1986 (35),193,97,Wolverhampton Wanderers,England,Goalkeeper,123,33,57,1,3,1,0,0,25,200000
+John McGinn,18/10/1994 (27),178,68,Aston Villa,Scotland,Midfielder,100,34,48,0,23,137,9,12,0,39000000
+Douglas Luiz,09/05/1998 (24),175,66,Aston Villa,Brazil,Midfielder,103,34,50,1,23,147,5,7,0,23000000
+André Gomes,30/07/1993 (28),188,84,Everton,Portugal,Midfielder,88,34,36,0,19,146,1,4,0,9000000
+Javier Manquillo,05/05/1994 (28),178,76,Newcastle United,Spain,Defender,122,34,58,0,20,87,2,7,21,4000000
+Jóhann Gudmundsson,27/10/1990,186,0,Burnley,Iceland,Midfielder,136,34,65,0,9,68,9,18,0,2000000
+Fabian Schär,20/12/1991 (30),188,84,Newcastle United,Switzerland,Defender,89,34,39,1,25,103,9,3,19,2000000
+Tom Heaton,15/04/1986 (36),188,85,Manchester United,England,Goalkeeper,116,34,55,0,5,2,0,0,28,400000
+Christian Pulisic,18/09/1998 (23),172,69,Chelsea,United States,Midfielder,74,35,19,0,4,42,19,8,0,42000000
+Yerry Mina,23/09/1994 (27),195,94,Everton,Colombia,Defender,79,35,25,0,11,60,5,1,14,16000000
+Daniel Amartey,21/12/1994 (27),186,79,Leicester City,Ghana,Defender,86,35,33,1,12,58,2,1,13,2000000
+Dwight Gayle,17/10/1989 (32),174,78,Newcastle United,England,Forward,145,35,75,1,9,85,26,7,0,1000000
+Tammy Abraham,2/10/1997,190,0,Chelsea,England,Forward,89,36,33,0,2,56,26,5,0,49000000
+Édouard Mendy,01/03/1992 (30),197,86,Chelsea,Senegal,Goalkeeper,65,36,12,0,5,2,0,0,30,32000000
+Tomas Soucek,27/02/1995 (27),192,86,West Ham United,Czech Republic,Midfielder,86,36,30,1,10,119,18,2,0,31000000
+Miguel Almirón,10/02/1994 (28),174,70,Newcastle United,Paraguay,Midfielder,110,36,45,0,10,71,9,3,0,14000000
+Emiliano Martínez,02/09/1992 (29),195,88,Aston Villa,Argentina,Goalkeeper,89,37,38,0,7,2,0,0,32,34000000
+Callum Hudson-Odoi,07/11/2000 (21),182,76,Chelsea U21,England,Forward,72,37,18,0,2,33,4,11,0,34000000
+Aaron Ramsdale,14/05/1998 (24),188,77,Arsenal,England,Goalkeeper,109,37,60,0,2,1,0,1,22,30000000
+Nicolas Pépé,29/05/1995 (27),183,73,Arsenal,Cote D’Ivoire,Forward,80,37,25,1,5,33,16,9,0,18000000
+Pascal Groß,15/06/1991 (30),181,78,Brighton and Hove Albion,Germany,Midfielder,155,37,63,0,11,101,17,27,0,2000000
+Jarrod Bowen,20/12/1996 (25),175,70,West Ham United,England,Forward,94,38,37,0,6,47,21,19,0,39000000
+Issa Diop,09/01/1997 (25),194,92,West Ham United,France,Defender,96,38,38,0,15,62,6,2,15,15000000
+Ainsley Maitland-Niles,29/08/1997,177,0,Arsenal,England,Midfielder,87,38,28,2,8,53,1,3,0,14000000
+Arthur Masuaku,07/11/1993 (28),179,70,West Ham United,DR Congo,Defender,105,38,41,1,15,90,1,9,17,6000000
+Dwight McNeil,22/11/1999,183,0,Burnley,England,Midfielder,134,39,59,0,9,71,7,17,0,29000000
+Stuart Armstrong,30/03/1992 (30),183,75,Southampton,Scotland,Midfielder,117,40,51,0,10,90,14,10,0,13000000
+Serge Aurier,24/12/1992,176,0,Tottenham Hotspur,Cote D’Ivoire,Defender,77,40,19,2,4,102,5,12,16,6000000
+Tyrone Mings,13/03/1993 (29),196,77,Aston Villa,England,Defender,122,41,59,1,23,77,5,7,31,24000000
+Çaglar Söyüncü,23/05/1996 (26),185,82,Leicester City,Turkey,Defender,91,41,28,1,12,81,3,1,22,17000000
+Ricardo Pereira,06/10/1993 (28),175,70,Leicester City,Portugal,Defender,92,41,35,0,14,110,6,12,23,16000000
+Michy Batshuayi,2/10/1993,184,0,Crystal Palace (Loan),Belgium,Forward,77,41,26,0,0,36,15,4,0,8000000
+Vicente Guaita,10/01/1987 (35),190,81,Crystal Palace,Spain,Goalkeeper,122,41,49,0,7,2,0,0,36,4000000
+Sead Kolasinac,20/06/1993,183,0,Arsenal,Bosnia & Herzegovina,Defender,80,41,23,0,13,76,2,11,17,4000000
+Reece James,08/12/1999 (22),182,82,Chelsea,England,Defender,82,42,20,1,8,73,6,13,18,49000000
+Pablo Fornals,22/02/1996 (26),178,67,West Ham United,Spain,Midfielder,105,42,41,0,10,68,13,12,0,37000000
+Jan Bednarek,12/04/1996 (26),189,77,Lech Poznan,Poland,Defender,131,42,58,1,27,118,7,3,27,33000000
+Kepa Arrizabalaga,03/10/1994 (27),189,84,Chelsea,Spain,Goalkeeper,80,42,23,0,3,0,0,0,26,16000000
+Rui Patrício,15/02/1988,190,0,Wolverhampton Wanderers,Portugal,Goalkeeper,112,42,38,0,1,0,0,0,30,15000000
+Bruno Fernandes,08/09/1994 (27),179,69,Manchester United,Portugal,Midfielder,87,43,18,0,18,85,36,25,0,68000000
+Jamaal Lascelles,11/11/1993 (28),188,89,Newcastle United,England,Defender,152,43,69,1,24,99,9,1,33,7000000
+Romain Saïss,26/03/1990 (32),190,80,Wolverhampton Wanderers,Morocco,Midfielder,110,43,42,1,25,129,0,0,0,5000000
+Salomón Rondón,16/09/1989 (32),186,98,Everton,Venezuela,Forward,160,43,74,2,11,152,36,15,0,2000000
+Bernd Leno,04/03/1992 (30),190,83,Arsenal,Germany,Goalkeeper,101,44,31,1,2,2,0,0,25,15000000
+Eric Bailly,12/04/1994 (28),187,77,Manchester United,Cote D’Ivoire,Defender,70,44,11,1,10,57,1,0,24,6000000
+Glenn Murray,25/09/1983,183,0,Brighton and Hove Albion,England,Forward,148,44,61,1,20,225,37,6,0,1000000
+Lewis Dunk,21/11/1991 (30),192,88,Brighton and Hove Albion,England,Defender,172,45,71,4,28,108,12,5,47,25000000
+Nick Pope,19/04/1992,191,0,Burnley,England,Goalkeeper,141,45,53,0,6,3,0,0,46,17000000
+Ryan Fraser,24/02/1994 (28),163,70,Newcastle United,Scotland,Midfielder,165,45,79,1,10,55,18,31,0,9000000
+Robbie Brady,14/01/1992,176,0,Burnley,Ireland,Midfielder,160,45,81,1,18,136,10,13,0,500000
+Scott Carson,03/09/1985 (36),190,76,Manchester City,England,Goalkeeper,146,45,66,1,6,4,0,2,30,200000
+Rúben Dias,14/05/1997 (25),186,76,Manchester City,Portugal,Defender,61,46,7,0,9,48,3,4,27,70000000
+Bukayo Saka,05/09/2001 (20),178,65,Arsenal,England,Midfielder,97,47,31,0,13,89,17,15,0,54000000
+Jack Grealish,10/09/1995 (26),175,68,Manchester City,England,Midfielder,122,47,53,0,18,102,18,19,0,52000000
+Rob Holding,20/09/1995 (26),189,75,Arsenal,England,Defender,84,47,24,1,12,63,1,1,22,13000000
+Martin Dúbravka,15/01/1989 (33),190,83,Newcastle United,Slovakia,Goalkeeper,127,47,50,0,2,0,0,0,37,7000000
+Matt Ritchie,10/09/1989 (32),172,76,Newcastle United,Scotland,Midfielder,164,47,73,0,31,184,11,24,0,4000000
+Wayne Hennessey,24/01/1987,198,0,Burnley,Wales,Goalkeeper,183,47,96,0,4,1,0,1,37,200000
+Lucas Digne,20/07/1993 (28),178,74,Aston Villa,France,Defender,129,48,50,2,19,148,4,22,35,41000000
+Mason Holgate,22/10/1996 (25),184,63,Everton,England,Defender,118,48,40,1,27,98,3,5,28,19000000
+Raúl Jiménez,05/05/1991 (31),190,76,Wolverhampton Wanderers,Mexico,Forward,120,48,41,2,12,133,40,17,0,12000000
+Troy Deeney,29/06/1988,183,0,Watford,England,Forward,165,48,82,2,21,196,47,20,0,2000000
+Neil Taylor,7/2/1989,176,0,Aston Villa,Wales,Defender,146,48,63,0,22,122,0,5,38,500000
+Danny Drinkwater,5/3/1990,178,0,Chelsea,England,Midfielder,104,48,32,1,11,150,4,8,0,500000
+Jeff Hendrick,31/01/1992,185,0,Newcastle United,Ireland,Midfielder,147,49,67,2,20,112,12,6,0,4000000
+Andreas Christensen,10/04/1996 (26),187,82,Chelsea,Denmark,Defender,93,50,22,1,10,54,0,0,29,28000000
+Paul Dummett,26/09/1991 (30),183,82,Newcastle United,Wales,Defender,146,50,60,1,16,70,3,0,30,1000000
+Matt Doherty,16/01/1992 (30),182,80,Tottenham Hotspur,Ireland,Defender,107,51,29,1,8,89,10,14,24,15000000
+Mohamed Elneny,11/07/1992 (29),180,70,Arsenal,Egypt,Midfielder,83,51,22,1,11,39,1,5,0,4000000
+Ciaran Clark,26/09/1989 (32),185,88,Newcastle United,Ireland,Defender,214,51,102,3,52,193,15,6,32,1000000
+Ahmed El Mohamady,9/9/1987,183,0,Aston Villa,Egypt,Defender,197,51,96,1,14,158,6,13,31,200000
+Fred,05/03/1993 (29),169,64,Manchester United,Brazil,Midfielder,104,52,24,0,20,143,6,5,0,30000000
+Ruben Loftus-Cheek,23/01/1996 (26),191,88,Chelsea,England,Midfielder,132,52,40,0,5,85,10,8,0,12000000
+Winston Reid,3/7/1988,190,0,Brentford (Loan),New Zealand,Defender,166,52,71,1,38,170,6,3,40,200000
+Rúben Neves,13/03/1997 (25),180,80,Wolverhampton Wanderers,Portugal,Midfielder,142,53,53,0,34,137,15,8,0,45000000
+Xherdan Shaqiri,10/10/1991,169,0,Liverpool,Switzerland,Midfielder,129,53,44,0,14,90,22,20,0,7000000
+Jordan Ayew,11/09/1991 (30),182,80,Crystal Palace,Ghana,Forward,201,53,100,2,24,302,29,15,0,5000000
+Luka Milivojevic,07/04/1991 (31),186,80,Crystal Palace,Serbia,Midfielder,165,53,69,1,43,259,28,5,0,5000000
+Mamadou Sakho,13/02/1990,187,0,Crystal Palace,France,Defender,128,53,45,1,6,41,3,2,32,4000000
+Craig Cathcart,6/2/1989,188,0,Watford,Northern Ireland,Defender,183,53,88,0,20,76,5,2,33,3000000
+Mason Mount,10/01/1999 (23),178,70,Chelsea,England,Midfielder,105,54,26,0,9,117,24,20,0,77000000
+Matt Targett,18/09/1995 (26),183,70,Newcastle United (Loan),England,Defender,142,54,59,0,17,92,3,9,34,28000000
+Danny Ings,23/07/1992 (29),178,73,Aston Villa,England,Forward,170,54,74,0,16,123,62,19,0,20000000
+Fraser Forster,17/03/1988 (34),201,93,Southampton,England,Goalkeeper,134,54,50,0,5,1,0,0,42,2000000
+Christian Fuchs,7/4/1986,187,0,Leicester City,Austria,Defender,116,54,35,0,19,93,2,9,32,400000
+Chris Wood,07/12/1991 (30),191,81,Newcastle United,New Zealand,Forward,171,55,73,0,5,154,52,7,0,13000000
+Joshua King,15/01/1992,180,0,Watford,Norway,Forward,204,55,105,0,13,277,53,17,0,6000000
+Ashley Barnes,30/10/1989,186,0,Burnley,England,Forward,200,55,94,2,40,336,42,6,0,1000000
+Martin Kelly,27/04/1990 (32),191,77,Crystal Palace,England,Defender,154,55,63,0,14,117,0,5,29,200000
+Youri Tielemans,07/05/1997 (25),176,72,Leicester City,Belgium,Midfielder,120,56,40,0,13,111,18,18,0,51000000
+João Moutinho,08/09/1986 (35),170,61,Wolverhampton Wanderers,Portugal,Midfielder,144,56,51,1,18,173,5,16,0,6000000
+Kieran Trippier,19/09/1990 (31),178,71,Newcastle United,England,Defender,113,57,35,0,7,69,4,18,29,10000000
+Manuel Lanzini,15/02/1993 (29),167,59,West Ham United,Argentina,Midfielder,169,57,68,0,22,68,26,17,0,7000000
+Calum Chambers,20/01/1995 (27),182,66,Aston Villa,England,Defender,162,57,65,1,29,158,7,5,33,7000000
+Adrián,03/01/1987 (35),190,80,Liverpool,Spain,Goalkeeper,139,57,45,2,10,5,0,0,38,200000
+João Cancelo,27/05/1994 (28),182,74,Manchester City,Portugal,Defender,81,58,12,1,16,87,3,10,37,65000000
+Cédric Soares,31/08/1991 (30),172,67,Arsenal,Portugal,Defender,156,58,60,0,22,102,3,13,33,7000000
+Aaron Wan-Bissaka,26/11/1997 (24),183,72,Manchester United,England,Defender,131,59,39,1,18,92,2,11,41,41000000
+Ben Chilwell,21/12/1996 (25),178,77,Chelsea,England,Defender,133,59,43,1,13,114,10,15,37,38000000
+Conor Coady,25/02/1993 (29),185,73,Wolverhampton Wanderers,England,Defender,152,59,56,0,20,69,5,0,43,35000000
+Naby Keïta,10/02/1995 (27),172,64,Liverpool,Guinea,Midfielder,76,59,5,0,5,68,7,5,0,19000000
+Tom Davies,30/06/1998 (23),180,70,Everton,England,Midfielder,136,59,44,0,26,146,6,5,0,12000000
+James Maddison,23/11/1996 (25),175,73,Leicester City,England,Midfielder,133,60,46,1,14,102,33,23,0,30000000
+Kelechi Iheanacho,03/10/1996 (25),185,82,Leicester City,Nigeria,Forward,168,61,68,0,8,123,37,20,0,22000000
+Pierre-Emerick Aubameyang,18/06/1989,187,0,Arsenal,Gabon,Forward,128,61,41,1,8,56,68,16,0,22000000
+Joseph Gomez,23/05/1997 (25),188,77,Liverpool,England,Defender,87,61,7,0,17,68,0,4,33,20000000
+Oleksandr Zinchenko,15/12/1996 (25),175,64,Manchester City,Ukraine,Defender,76,62,11,1,2,55,0,7,0,35000000
+Scott McTominay,08/12/1996 (25),193,88,Manchester United,Scotland,Midfielder,120,62,26,0,18,158,11,3,0,32000000
+Ben Mee,21/09/1989,180,0,Burnley,England,Defender,217,62,98,0,42,142,9,4,62,3000000
+Diogo Jota,04/12/1996 (25),178,68,Liverpool,Portugal,Forward,121,63,24,0,20,150,40,10,0,59000000
+Mateo Kovacic,06/05/1994 (28),178,78,Chelsea,Croatia,Midfielder,115,63,27,0,19,79,3,11,0,37000000
+Dominic Calvert-Lewin,16/03/1997 (25),187,71,Everton,England,Forward,164,63,66,0,22,192,45,11,0,26000000
+Demarai Gray,28/06/1996 (25),180,74,Everton,England,Forward,167,63,69,0,10,48,15,13,0,13000000
+Abdoulaye Doucouré,01/01/1993 (29),184,75,Everton,Mali,Midfielder,188,63,91,0,42,205,21,18,0,12000000
+Patrick van Aanholt,29/08/1990,176,0,Crystal Palace,Netherlands,Defender,213,63,103,0,21,105,20,15,44,3000000
+Declan Rice,14/01/1999 (23),185,76,West Ham United,England,Midfielder,167,64,63,0,21,112,6,8,0,68000000
+James Tarkowski,19/11/1992,185,0,Burnley,England,Defender,194,64,83,0,41,176,7,5,52,8000000
+Matthew Lowton,9/6/1989,180,0,Burnley,England,Defender,231,64,109,1,43,176,4,15,49,3000000
+Tim Krul,3/4/1988,188,0,Norwich City,Netherlands,Goalkeeper,222,64,114,0,10,3,0,2,51,3000000
+Richarlison,10/05/1997 (25),184,83,Everton,Brazil,Forward,173,65,73,2,30,181,48,16,0,48000000
+Divock Origi,18/04/1995 (27),185,75,Liverpool,Belgium,Forward,107,66,18,0,1,49,22,6,0,6000000
+Jay Rodriguez,29/07/1989,185,0,Burnley,England,Forward,237,66,98,0,16,216,44,16,0,2000000
+Nathan Redmond,06/03/1994 (28),173,69,Southampton,England,Midfielder,263,67,126,1,13,200,28,26,0,14000000
+Angelo Ogbonna,23/05/1988 (34),191,86,West Ham United,Italy,Defender,174,67,61,0,22,119,8,1,39,2000000
+Victor Lindelöf,17/07/1994 (27),187,80,Manchester United,Sweden,Defender,139,68,32,0,12,94,3,4,38,26000000
+Nathan Aké,18/02/1995 (27),180,75,Manchester City,Netherlands,Defender,170,68,71,1,19,114,15,6,38,13000000
+Jorginho,20/12/1991 (30),180,65,Chelsea,Italy,Midfielder,125,69,25,0,25,122,19,5,0,28000000
+Dan Gosling,1/2/1990,183,0,Watford,England,Midfielder,188,69,81,1,35,166,18,4,0,900000
+Erik Pieters,7/8/1988,183,0,Burnley,Netherlands,Defender,225,70,92,0,36,339,1,13,50,1000000
+Jordan Pickford,07/03/1994 (28),185,77,Everton,England,Goalkeeper,211,71,95,0,6,4,0,0,54,33000000
+Gareth Bale,16/07/1989,185,0,Tottenham Hotspur (Loan),Wales,Forward,166,71,50,1,16,95,53,22,0,8000000
+Wilfred Ndidi,16/12/1996 (25),183,74,Leicester City,Nigeria,Midfielder,165,72,59,2,30,273,7,9,0,39000000
+Lucas Moura,13/08/1992 (29),172,72,Tottenham Hotspur,Brazil,Forward,137,72,45,0,11,102,19,15,0,26000000
+Ayoze Pérez,29/07/1993 (28),178,72,Leicester City,Spain,Forward,215,72,93,1,11,216,45,17,0,11000000
+Jeffrey Schlupp,23/12/1992 (29),178,72,Crystal Palace,Ghana,Midfielder,205,72,83,0,18,158,17,11,0,3000000
+Wes Morgan,21/01/1984,186,0,Leicester City,Jamaica,Defender,170,72,60,3,12,129,8,2,41,400000
+Pierre-Emile Højbjerg,05/08/1995 (26),187,84,Tottenham Hotspur,Denmark,Midfielder,183,73,70,2,32,241,8,10,0,55000000
+Harry Winks,02/02/1996 (26),178,65,Tottenham Hotspur,England,Midfielder,128,73,33,0,21,80,2,3,0,17000000
+Rodri,22/06/1996 (25),191,82,Manchester City,Spain,Midfielder,102,74,15,0,19,130,12,6,0,60000000
+Antonio Rüdiger,03/03/1993 (29),190,85,Chelsea,Germany,Defender,133,74,28,0,23,124,9,1,53,30000000
+Alexandre Lacazette,28/05/1991 (31),175,73,Arsenal,France,Forward,158,75,50,0,14,192,54,25,0,13000000
+Craig Dawson,06/05/1990 (32),188,82,West Ham United,England,Defender,238,75,100,2,39,237,19,4,52,5000000
+Michail Antonio,28/03/1990 (32),180,82,West Ham United,Jamaica,Forward,195,76,72,2,23,229,56,27,0,17000000
+Phil Foden,28/05/2000 (22),171,70,Manchester City,England,Midfielder,97,77,11,0,1,44,24,13,0,124000000
+Michael Keane,11/01/1993 (29),191,82,Everton,England,Defender,218,77,92,1,19,113,11,8,56,24000000
+Ashley Westwood,1/4/1990,175,0,Burnley,England,Midfielder,286,77,137,0,52,258,12,31,0,7000000
+Scott Dann,14/02/1987,188,0,Crystal Palace,England,Defender,241,78,104,0,35,151,16,11,49,800000
+Joel Ward,29/10/1989 (32),188,83,Crystal Palace,England,Defender,253,80,115,0,40,254,4,6,60,4000000
+Fabinho,23/10/1993 (28),188,78,Liverpool,Brazil,Midfielder,115,81,12,0,25,130,8,6,0,74000000
+Asmir Begovic,20/06/1987 (34),199,101,Everton,Bosnia & Herzegovina,Goalkeeper,255,81,106,0,12,5,1,0,62,400000
+Alexander Iwobi,03/05/1996 (26),180,75,Everton,Nigeria,Forward,183,82,64,0,3,70,15,20,0,36000000
+Kurt Zouma,27/10/1994 (27),190,96,West Ham United,France,Defender,189,82,65,1,14,114,10,4,49,31000000
+Oriol Romeu,24/09/1991 (30),183,83,Southampton,Spain,Midfielder,238,82,89,0,63,326,7,3,0,8000000
+Fabian Delph,21/11/1989 (32),174,60,Everton,England,Midfielder,204,82,81,3,32,151,7,8,0,1000000
+Jesse Lingard,15/12/1992 (29),175,62,Manchester United,England,Midfielder,165,83,40,0,19,166,29,14,0,7000000
+Cheikhou Kouyaté,21/12/1989 (32),189,83,Crystal Palace,Senegal,Midfielder,258,83,101,1,32,305,14,11,0,5000000
+Paul Pogba,15/03/1993 (29),191,84,Manchester United,France,Midfielder,157,84,28,2,29,267,29,38,0,19000000
+Tom Cleverley,12/8/1989,175,0,Watford,England,Midfielder,242,84,99,1,24,196,14,15,0,800000
+Andy Carroll,6/1/1989,193,0,Newcastle United,England,Forward,248,84,101,2,34,329,54,22,0,300000
+Harry Maguire,05/03/1993 (29),194,100,Manchester United,England,Defender,203,85,71,2,43,176,11,8,51,38000000
+Joel Matip,08/08/1991 (30),195,90,Liverpool,Cameroon,Defender,126,86,10,0,13,75,8,5,49,23000000
+Philippe Coutinho,12/06/1992 (30),172,68,Aston Villa (Loan),Brazil,Midfielder,171,87,38,1,8,90,46,38,0,21000000
+Christian Benteke,03/12/1990 (31),190,83,Crystal Palace,Belgium,Forward,280,87,129,4,39,408,86,22,0,6000000
+Aymeric Laporte,27/05/1994 (28),191,86,Manchester City,Spain,Defender,108,88,10,1,11,63,8,3,47,50000000
+James Tomkins,29/03/1989 (33),192,74,Crystal Palace,England,Defender,279,88,124,2,49,177,13,7,60,1000000
+Wilfried Zaha,10/11/1992 (29),180,66,Crystal Palace,Cote D’Ivoire,Forward,278,89,117,2,43,352,61,27,0,28000000
+Erik Lamela,4/3/1992,181,0,Tottenham Hotspur,Argentina,Midfielder,177,90,44,1,30,235,17,23,0,8000000
+Anthony Martial,5/12/1995,181,0,Manchester United,France,Forward,175,91,40,1,8,140,56,26,0,38000000
+James McCarthy,12/11/1990,180,0,Crystal Palace,Ireland,Midfielder,272,91,109,1,48,311,13,12,0,2000000
+Nathaniel Clyne,05/04/1991 (31),175,67,Crystal Palace,England,Defender,214,91,71,0,21,108,4,12,61,2000000
+Luke Shaw,12/07/1995 (26),185,75,Manchester United,England,Defender,208,92,49,1,45,212,2,15,56,27000000
+Ryan Bertrand,05/08/1989 (32),179,85,Leicester City,England,Defender,262,92,109,2,36,241,7,16,67,4000000
+Andros Townsend,16/07/1991 (30),181,77,Everton,England,Midfielder,264,93,119,0,17,113,25,28,0,7000000
+Danny Rose,2/7/1990,173,0,Watford,England,Defender,202,95,63,2,53,255,9,17,42,2000000
+Jonjo Shelvey,27/02/1992 (30),184,80,Newcastle United,England,Midfielder,267,97,105,5,44,226,23,27,0,9000000
+Alisson,02/10/1992 (29),191,91,Liverpool,Brazil,Goalkeeper,136,98,13,1,2,2,1,2,64,67000000
+Granit Xhaka,27/09/1992 (29),185,82,Arsenal,Switzerland,Midfielder,188,99,54,4,52,263,10,17,0,30000000
+Héctor Bellerín,19/03/1995,178,0,Arsenal,Spain,Defender,183,99,47,0,30,143,8,20,59,19000000
+James Ward-Prowse,01/11/1994 (27),173,66,Southampton,England,Midfielder,305,100,122,2,36,258,40,34,0,44000000
+Phil Bardsley,28/06/1985,180,0,Burnley,Scotland,Defender,303,101,132,2,79,333,7,5,67,300000
+Ross Barkley,05/12/1993 (28),189,76,Chelsea,England,Midfielder,232,102,71,0,18,169,29,28,0,12000000
+Dele Alli,11/04/1996 (26),188,76,Everton,England,Midfielder,192,103,51,0,28,209,51,34,0,24000000
+Victor Moses,12/12/1990,177,0,Chelsea,Nigeria,Midfielder,220,103,65,0,16,169,20,18,0,5000000
+James McArthur,07/10/1987 (34),178,75,Crystal Palace,Scotland,Midfielder,319,103,139,0,52,424,23,23,0,1000000
+Marcus Rashford,31/10/1997 (24),180,70,Manchester United,England,Forward,204,105,42,1,18,127,59,32,0,59000000
+Jack Cork,25/06/1989,183,0,Burnley,England,Midfielder,300,105,122,0,38,263,9,9,0,2000000
+Marcos Alonso,28/12/1990 (31),188,84,Chelsea,Spain,Defender,179,106,39,1,35,162,26,16,63,10000000
+Ben Foster,3/4/1983,193,0,Watford,England,Goalkeeper,390,106,176,0,13,15,0,1,92,2000000
+Toby Alderweireld,2/3/1989,186,0,Tottenham Hotspur,Belgium,Defender,200,112,49,0,22,83,9,4,69,9000000
+Adam Lallana,10/05/1988 (34),172,73,Brighton and Hove Albion,England,Midfielder,250,113,65,0,21,171,31,30,0,3000000
+Trent Alexander-Arnold,07/10/1998 (23),175,69,Liverpool,England,Defender,161,114,19,0,15,82,10,45,57,100000000
+Jamie Vardy,11/01/1987 (35),179,74,Leicester City,England,Forward,270,114,95,3,23,215,133,40,0,14000000
+Marc Albrighton,18/11/1989 (32),175,74,Leicester City,England,Midfielder,304,114,110,1,37,182,19,44,0,8000000
+John Stones,28/05/1994 (28),188,70,Manchester City,England,Defender,198,118,43,1,7,55,6,0,65,37000000
+Ilkay Gündogan,24/10/1990 (31),180,80,Manchester City,Germany,Midfielder,157,120,23,0,15,66,36,12,0,27000000
+David Luiz,22/04/1987,189,0,Arsenal,Brazil,Defender,213,120,45,4,41,227,14,7,67,2000000
+Gabriel Jesus,03/04/1997 (25),175,73,Manchester City,Brazil,Forward,159,121,19,0,15,132,58,29,0,52000000
+Kasper Schmeichel,05/11/1986 (35),189,89,Leicester City,Denmark,Goalkeeper,284,122,95,0,13,0,0,0,82,12000000
+Virgil van Dijk,08/07/1991 (30),193,92,Liverpool,Netherlands,Defender,196,124,33,1,12,101,17,4,82,45000000
+Lukasz Fabianski,18/04/1985 (37),190,83,West Ham United,Poland,Goalkeeper,316,124,125,1,8,8,0,2,81,2000000
+Andrew Robertson,11/03/1994 (28),178,64,Liverpool,Scotland,Defender,218,125,46,1,27,122,8,49,69,75000000
+Romelu Lukaku,13/05/1993 (29),190,93,Chelsea,Belgium,Forward,278,126,85,0,20,198,121,35,0,76000000
+Moussa Sissoko,16/08/1989,187,0,Tottenham Hotspur,France,Midfielder,295,126,116,2,44,331,16,25,0,6000000
+Bernardo Silva,10/08/1994 (27),173,64,Manchester City,Portugal,Midfielder,166,128,20,0,19,110,29,28,0,74000000
+N'Golo Kanté,29/03/1991 (31),168,68,Chelsea,France,Midfielder,220,128,43,0,31,275,12,16,0,28000000
+Georginio Wijnaldum,11/11/1990,175,0,Liverpool,Netherlands,Midfielder,217,129,41,0,8,99,27,16,0,28000000
+Gylfi Sigurdsson,8/9/1989,186,0,Everton,Iceland,Midfielder,318,129,121,0,22,214,67,50,0,4000000
+Danny Welbeck,26/11/1990 (31),185,73,Brighton and Hove Albion,England,Forward,273,130,80,0,13,157,56,23,0,2000000
+Mohamed Salah,15/06/1992 (29),175,71,Liverpool,Egypt,Forward,193,132,23,0,5,96,120,47,0,71000000
+Son Heung-Min,08/07/1992 (29),183,78,Tottenham Hotspur,South Korea,Forward,232,132,56,2,6,93,93,46,0,56000000
+Christian Eriksen,14/02/1992 (30),182,76,Brentford,Denmark,Midfielder,237,132,59,0,18,104,52,66,0,14000000
+Alex Oxlade-Chamberlain,15/08/1993 (28),180,70,Liverpool,England,Midfielder,226,133,48,0,10,117,19,0,0,20000000
+Séamus Coleman,11/10/1988 (33),177,67,Everton,Ireland,Defender,329,133,103,2,33,219,21,24,89,3000000
+Eric Dier,15/01/1994 (28),188,88,Tottenham Hotspur,England,Defender,237,134,54,0,37,191,10,8,77,31000000
+Ederson,17/08/1993 (28),188,86,Manchester City,Brazil,Goalkeeper,182,139,23,1,12,6,0,2,91,71000000
+Riyad Mahrez,21/02/1991 (31),179,67,Manchester City,Algeria,Forward,254,139,65,0,7,140,77,51,0,45000000
+Olivier Giroud,30/09/1986,192,0,Chelsea,France,Forward,255,141,59,2,19,238,90,28,0,8000000
+Roberto Firmino,02/10/1991 (30),181,76,Liverpool,Brazil,Forward,231,145,32,0,12,233,71,46,0,32000000
+Juan Mata,28/04/1988 (34),170,63,Manchester United,Spain,Midfielder,278,145,66,1,19,137,52,54,0,1000000
+Kevin De Bruyne,28/06/1991 (30),181,68,Manchester City,Belgium,Midfielder,210,146,28,0,17,168,57,86,0,48000000
+Cristiano Ronaldo,05/02/1985 (37),187,83,Manchester United,Portugal,Forward,226,146,37,4,35,71,102,37,0,31000000
+Mark Noble,08/05/1987 (35),180,70,West Ham United,England,Midfielder,414,147,168,5,82,390,47,35,0,900000
+Willian,9/8/1988,175,0,Arsenal,Brazil,Forward,259,148,56,1,21,135,38,38,0,5000000
+Nemanja Matic,01/08/1988 (33),194,85,Manchester United,Serbia,Midfielder,251,150,48,3,41,274,6,23,0,6000000
+Harry Kane,28/07/1993 (28),188,86,Tottenham Hotspur,England,Forward,282,157,68,0,32,275,183,43,0,90000000
+Sadio Mané,10/04/1992 (30),175,69,Liverpool,Senegal,Forward,263,162,44,3,29,317,111,38,0,45000000
+Jonny Evans,03/01/1988 (34),188,77,Leicester City,Northern Ireland,Defender,343,168,99,3,54,272,14,12,93,8000000
+Joe Hart,19/04/1987,196,0,Tottenham Hotspur,England,Goalkeeper,340,169,97,0,7,6,0,1,127,600000
+Aaron Lennon,16/04/1987,165,0,Burnley,England,Midfielder,416,171,138,0,21,177,36,50,0,1000000
+Gary Cahill,19/12/1985,193,0,Crystal Palace,England,Defender,394,172,135,3,41,278,28,11,103,1000000
+César Azpilicueta,28/08/1989 (32),178,76,Chelsea,Spain,Defender,324,184,65,2,31,297,10,35,112,10000000
+Sergio Agüero,2/6/1988,173,0,Manchester City,Argentina,Forward,275,186,45,1,23,169,184,47,0,11000000
+Theo Walcott,16/03/1989 (33),176,68,Southampton,England,Forward,377,187,105,0,10,115,78,54,0,5000000
+Fernandinho,04/05/1985 (37),179,67,Manchester City,Brazil,Midfielder,264,187,40,4,53,359,20,19,0,4000000
+Hugo Lloris,26/12/1986 (35),188,82,Tottenham Hotspur,France,Goalkeeper,336,192,78,0,5,3,0,0,120,15000000
+David de Gea,07/11/1990 (31),192,76,Manchester United,Spain,Goalkeeper,377,202,82,0,6,1,0,0,130,15000000
+James Milner,04/01/1986 (36),175,70,Liverpool,England,Midfielder,588,304,141,3,70,474,55,86,0,3000000
